@@ -1,0 +1,1359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="LangoUA">
+<meta name="theme-color" content="#FBF9F5" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0D0F14" media="(prefers-color-scheme: dark)">
+<title>LangoUA — Ukrainian Anki FSRS & Comprehensive Grammar</title>
+<meta name="description" content="Ukrainian Anki FSRS spaced repetition system, step-by-step A0–C1 CEFR grammar course, interactive phonetics analyzer, and graded audio reader.">
+<meta property="og:title" content="LangoUA — Ukrainian Anki FSRS & Comprehensive Grammar">
+<meta property="og:description" content="Ukrainian Anki FSRS spaced repetition system, step-by-step A0–C1 CEFR grammar course, interactive phonetics analyzer, and graded audio reader.">
+<meta property="og:type" content="website">
+<style>
+    /* ==========================================================================
+       MATERIAL 3 EXPRESSIVE + iOS HIG SEMANTIC COLOR & DESIGN SYSTEM
+       Optimized for iPhone 16 Pro Max (440 × 956 pt Logical Viewport, 120Hz)
+       ========================================================================== */
+    :root {
+        --bg: #FBF9F5;
+        --surface-1: #FFFFFF;
+        --surface-2: #F3F0EA;
+        --surface-3: #E7E3DC;
+        --surface-elevated: rgba(255, 255, 255, 0.94);
+        --text: #18181B;
+        --text-secondary: #52525B;
+        --muted: #71717A;
+        --border-subtle: rgba(24, 24, 27, 0.08);
+        --border-strong: rgba(24, 24, 27, 0.15);
+
+        /* Ukrainian Royal Azure & Warm Gold Expressive Accents */
+        --accent: #1D4ED8;
+        --accent-on: #FFFFFF;
+        --accent-container: #DBEAFE;
+        --accent-on-container: #1E3A8A;
+        --secondary-container: #FEF3C7;
+        --secondary-on-container: #78350F;
+
+        --success: #15803D;
+        --success-container: #DCFCE7;
+        --success-on-container: #14532D;
+        --warn: #B45309;
+        --warn-container: #FEF3C7;
+        --warn-on-container: #78350F;
+        --danger: #B91C1C;
+        --danger-container: #FEE2E2;
+        --danger-on-container: #7F1D1D;
+
+        /* 7 Ukrainian Grammatical Cases Palette */
+        --nom: #18181B;
+        --gen: #15803D;
+        --dat: #7E22CE;
+        --acc: #1D4ED8;
+        --ins: #C2410C;
+        --loc: #BE185D;
+        --voc: #B45309;
+
+        --panel: var(--surface-1);
+        --panel-alt: var(--surface-2);
+
+        --radius-xs: 8px;
+        --radius-sm: 12px;
+        --radius-md: 16px;
+        --radius-lg: 24px;
+        --radius-xl: 28px;
+        --radius-pill: 9999px;
+
+        --shadow-card: 0 4px 20px -2px rgba(24, 24, 27, 0.05), 0 1px 3px rgba(24, 24, 27, 0.04);
+        --shadow-theater: 0 12px 34px -6px rgba(24, 24, 27, 0.07), 0 2px 6px rgba(24, 24, 27, 0.04);
+        --shadow-sheet: 0 -8px 40px rgba(0, 0, 0, 0.18);
+
+        --spring-fast: 220ms cubic-bezier(0.22, 1, 0.36, 1);
+        --spring-expressive: 380ms cubic-bezier(0.175, 0.885, 0.32, 1.08);
+
+        --tabbar-height: 52px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        :root:not([data-theme="light"]) {
+            --bg: #0D0F14;
+            --surface-1: #161922;
+            --surface-2: #1E222E;
+            --surface-3: #282D3C;
+            --surface-elevated: rgba(22, 25, 34, 0.92);
+            --text: #F4F4F6;
+            --text-secondary: #A1A1AA;
+            --muted: #8E929F;
+            --border-subtle: rgba(255, 255, 255, 0.08);
+            --border-strong: rgba(255, 255, 255, 0.16);
+
+            --accent: #60A5FA;
+            --accent-on: #061A40;
+            --accent-container: #1E3A8A;
+            --accent-on-container: #DBEAFE;
+            --secondary-container: #3F2A08;
+            --secondary-on-container: #FDE68A;
+
+            --success: #4ADE80;
+            --success-container: #133A25;
+            --success-on-container: #BBF7D0;
+            --warn: #FBBF24;
+            --warn-container: #3F2A08;
+            --warn-on-container: #FDE68A;
+            --danger: #F87171;
+            --danger-container: #451519;
+            --danger-on-container: #FECACA;
+
+            --nom: #F4F4F6;
+            --gen: #4ADE80;
+            --dat: #C084FC;
+            --acc: #60A5FA;
+            --ins: #FB923C;
+            --loc: #F472B6;
+            --voc: #FBBF24;
+
+            --shadow-card: 0 4px 22px rgba(0, 0, 0, 0.35);
+            --shadow-theater: 0 14px 36px rgba(0, 0, 0, 0.45);
+            --shadow-sheet: 0 -10px 44px rgba(0, 0, 0, 0.65);
+        }
+    }
+
+    :root[data-theme="dark"] {
+        --bg: #0D0F14;
+        --surface-1: #161922;
+        --surface-2: #1E222E;
+        --surface-3: #282D3C;
+        --surface-elevated: rgba(22, 25, 34, 0.92);
+        --text: #F4F4F6;
+        --text-secondary: #A1A1AA;
+        --muted: #8E929F;
+        --border-subtle: rgba(255, 255, 255, 0.08);
+        --border-strong: rgba(255, 255, 255, 0.16);
+
+        --accent: #60A5FA;
+        --accent-on: #061A40;
+        --accent-container: #1E3A8A;
+        --accent-on-container: #DBEAFE;
+        --secondary-container: #3F2A08;
+        --secondary-on-container: #FDE68A;
+
+        --success: #4ADE80;
+        --success-container: #133A25;
+        --success-on-container: #BBF7D0;
+        --warn: #FBBF24;
+        --warn-container: #3F2A08;
+        --warn-on-container: #FDE68A;
+        --danger: #F87171;
+        --danger-container: #451519;
+        --danger-on-container: #FECACA;
+
+        --nom: #F4F4F6;
+        --gen: #4ADE80;
+        --dat: #C084FC;
+        --acc: #60A5FA;
+        --ins: #FB923C;
+        --loc: #F472B6;
+        --voc: #FBBF24;
+
+        --shadow-card: 0 4px 22px rgba(0, 0, 0, 0.35);
+        --shadow-theater: 0 14px 36px rgba(0, 0, 0, 0.45);
+        --shadow-sheet: 0 -10px 44px rgba(0, 0, 0, 0.65);
+    }
+
+    * {
+        box-sizing: border-box;
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', sans-serif;
+        -webkit-tap-highlight-color: transparent;
+        -webkit-font-smoothing: antialiased;
+    }
+
+    html {
+        margin: 0;
+        padding: 0;
+        background: var(--bg);
+        color: var(--text);
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        overscroll-behavior-y: none;
+    }
+
+    body {
+        margin: 0;
+        padding: 0;
+        background: var(--bg);
+        color: var(--text);
+        position: fixed;
+        inset: 0;
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        overscroll-behavior-y: none;
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* ==========================================================================
+       TOP DYNAMIC ISLAND SAFE HEADER (iPhone 16 Pro Max 440pt Optimized)
+       ========================================================================== */
+    .ios-top-bar {
+        padding: calc(env(safe-area-inset-top, 14px) + 6px) 16px 10px 16px;
+        background: var(--surface-elevated);
+        backdrop-filter: saturate(180%) blur(20px);
+        -webkit-backdrop-filter: saturate(180%) blur(20px);
+        border-bottom: 1px solid var(--border-subtle);
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px;
+        z-index: 60;
+        flex-shrink: 0;
+    }
+
+    .brand-cluster {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        min-width: 0;
+        flex-shrink: 1;
+    }
+
+    .brand-badge {
+        width: 34px;
+        height: 34px;
+        border-radius: 10px;
+        background: linear-gradient(145deg, #1D4ED8 50%, #FBBF24 100%);
+        color: #FFFFFF;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 900;
+        font-size: 13px;
+        letter-spacing: -0.5px;
+        flex-shrink: 0;
+        text-shadow: 0 1px 2px rgba(0,0,0,0.35);
+    }
+
+    .brand-titles {
+        display: flex;
+        flex-direction: column;
+        white-space: nowrap;
+        min-width: 0;
+        overflow: hidden;
+    }
+
+    .logo {
+        font-size: 16px;
+        font-weight: 800;
+        color: var(--text);
+        letter-spacing: -0.3px;
+        line-height: 1.15;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .brand-subtitle {
+        font-size: 11px;
+        color: var(--muted);
+        font-weight: 600;
+    }
+
+    .top-telemetry {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        flex-wrap: nowrap;
+        flex-shrink: 0;
+    }
+
+    .stat-pill {
+        background: var(--surface-2);
+        border: 1px solid var(--border-subtle);
+        padding: 5px 9px;
+        border-radius: var(--radius-pill);
+        font-size: 12px;
+        font-weight: 700;
+        color: var(--text-secondary);
+        display: inline-flex;
+        align-items: center;
+        gap: 3px;
+        white-space: nowrap;
+    }
+
+    .icon-action-btn {
+        min-width: 38px;
+        min-height: 38px;
+        border-radius: var(--radius-pill);
+        border: 1px solid var(--border-subtle);
+        background: var(--surface-2);
+        color: var(--text);
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 13px;
+        font-weight: 700;
+        cursor: pointer;
+        padding: 0 10px;
+        gap: 4px;
+        white-space: nowrap;
+        flex-shrink: 0;
+        transition: transform var(--spring-fast), background var(--spring-fast);
+    }
+
+    .icon-action-btn:active {
+        transform: scale(0.94);
+    }
+
+    /* ==========================================================================
+       MAIN WORKSPACE & ADAPTIVE DESKTOP/IPHONE CONTAINERS
+       ========================================================================== */
+    .app-shell {
+        flex: 1;
+        display: flex;
+        overflow: hidden;
+        position: relative;
+        min-height: 0;
+    }
+
+    .sidebar {
+        width: 245px;
+        background: var(--surface-1);
+        padding: 16px 12px;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        border-right: 1px solid var(--border-subtle);
+        flex-shrink: 0;
+        z-index: 50;
+    }
+
+    .stats-box {
+        background: var(--surface-2);
+        padding: 14px;
+        border-radius: var(--radius-md);
+        margin-bottom: 8px;
+        font-size: 13px;
+        border: 1px solid var(--border-subtle);
+        line-height: 1.65;
+        color: var(--text-secondary);
+    }
+
+    .nav-btn {
+        background: transparent;
+        color: var(--muted);
+        border: none;
+        min-height: 46px;
+        padding: 10px 14px;
+        text-align: left;
+        font-size: 14px;
+        font-weight: 600;
+        border-radius: var(--radius-pill);
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        transition: all var(--spring-fast);
+    }
+
+    .nav-btn .nav-icon {
+        font-size: 18px;
+        line-height: 1;
+    }
+
+    .nav-btn.active {
+        background: var(--accent-container);
+        color: var(--accent-on-container);
+        font-weight: 700;
+    }
+
+    .main {
+        flex: 1;
+        height: 100%;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 24px;
+    }
+
+    .content-area {
+        width: 100%;
+        max-width: 650px;
+        flex-shrink: 0;
+    }
+
+    /* ==========================================================================
+       MATERIAL 3 EXPRESSIVE CARDS, BUTTONS & CONTROLS
+       ========================================================================== */
+    .section-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 10px;
+        margin-bottom: 12px;
+    }
+
+    .section-title {
+        font-size: clamp(19px, 4.8vw, 23px);
+        font-weight: 800;
+        letter-spacing: -0.4px;
+        margin: 0;
+        color: var(--text);
+        line-height: 1.2;
+    }
+
+    .section-subtitle {
+        color: var(--text-secondary);
+        margin: 3px 0 0 0;
+        font-size: 13px;
+        line-height: 1.4;
+    }
+
+    .card {
+        background: var(--surface-1);
+        border-radius: var(--radius-lg);
+        padding: 18px;
+        margin-bottom: 16px;
+        border: 1px solid var(--border-subtle);
+        box-shadow: var(--shadow-card);
+    }
+
+    .btn {
+        background: var(--accent);
+        color: var(--accent-on);
+        border: none;
+        min-height: 42px;
+        padding: 9px 16px;
+        border-radius: var(--radius-pill);
+        font-weight: 700;
+        font-size: 13.5px;
+        letter-spacing: -0.1px;
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+        transition: transform var(--spring-fast), opacity var(--spring-fast), background var(--spring-fast);
+    }
+
+    .btn:active {
+        transform: scale(0.96);
+    }
+
+    .btn:disabled {
+        opacity: 0.42;
+        cursor: not-allowed;
+    }
+
+    .btn-sec {
+        background: var(--surface-2);
+        color: var(--text);
+        border: 1px solid var(--border-subtle);
+    }
+
+    .btn-success {
+        background: var(--success-container);
+        color: var(--success-on-container);
+    }
+
+    .btn-warn {
+        background: var(--warn-container);
+        color: var(--warn-on-container);
+    }
+
+    .tag {
+        display: inline-flex;
+        align-items: center;
+        background: var(--surface-2);
+        color: var(--text-secondary);
+        padding: 4px 10px;
+        border-radius: var(--radius-pill);
+        font-size: 11.5px;
+        font-weight: 700;
+        margin: 2px 4px 2px 0;
+        border: 1px solid var(--border-subtle);
+    }
+
+    .hidden {
+        display: none !important;
+    }
+
+    /* ==========================================================================
+       ANKI FLASHCARD THEATER (EXPRESSIVE M3 + STICKY THUMB-ZONE ACTIONS)
+       ========================================================================== */
+    .anki-stage {
+        background: var(--surface-1);
+        border: 1px solid var(--border-subtle);
+        border-radius: var(--radius-xl);
+        padding: 18px 18px 16px 18px;
+        text-align: center;
+        min-height: 310px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        box-shadow: var(--shadow-theater);
+        margin-bottom: 18px;
+        position: relative;
+        transition: all var(--spring-expressive);
+    }
+
+    .anki-counts {
+        display: inline-flex;
+        align-self: center;
+        justify-content: center;
+        gap: 14px;
+        font-size: 12px;
+        font-weight: 700;
+        margin: 0 auto 10px auto;
+        background: var(--surface-2);
+        padding: 6px 16px;
+        border-radius: var(--radius-pill);
+        border: 1px solid var(--border-subtle);
+    }
+
+    .anki-front-word {
+        font-size: clamp(32px, 8.5vw, 48px);
+        font-weight: 800;
+        color: var(--text);
+        margin: 16px 0 14px 0;
+        cursor: pointer;
+        letter-spacing: -0.7px;
+        line-height: 1.18;
+        overflow-wrap: anywhere;
+        word-break: break-word;
+        transition: transform var(--spring-fast);
+    }
+
+    .anki-front-word:active {
+        transform: scale(0.97);
+    }
+
+    .anki-action-sticky {
+        position: sticky;
+        bottom: 0;
+        background: var(--surface-1);
+        padding-top: 10px;
+        margin-top: 10px;
+        border-top: 1px solid var(--border-subtle);
+        z-index: 15;
+    }
+
+    .anki-reveal-btn {
+        width: 100%;
+        min-height: 52px;
+        font-size: 15.5px;
+        font-weight: 800;
+        border-radius: 18px;
+        background: var(--accent);
+        color: var(--accent-on);
+        box-shadow: 0 6px 20px rgba(29, 78, 216, 0.22);
+    }
+
+    .anki-grade-bar {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 8px;
+    }
+
+    .anki-btn {
+        border: 1px solid var(--border-subtle);
+        border-radius: 16px;
+        min-height: 54px;
+        padding: 8px 4px;
+        font-weight: 800;
+        font-size: 13px;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 2px;
+        transition: transform var(--spring-fast);
+    }
+
+    .anki-btn:active {
+        transform: scale(0.94);
+    }
+
+    .anki-btn small {
+        font-size: 10.5px;
+        font-weight: 700;
+        opacity: 0.85;
+    }
+
+    .anki-again { background: var(--danger-container); color: var(--danger-on-container); }
+    .anki-hard  { background: var(--warn-container); color: var(--warn-on-container); }
+    .anki-good  { background: var(--success-container); color: var(--success-on-container); }
+    .anki-easy  { background: var(--accent-container); color: var(--accent-on-container); }
+
+    /* ==========================================================================
+       GRAMMAR TABLES, COURSE MODULES & VOCABULARY ROWS
+       ========================================================================== */
+    .table-scroll-wrap {
+        width: 100%;
+        overflow-x: auto;
+        border-radius: var(--radius-md);
+        border: 1px solid var(--border-subtle);
+        margin-top: 8px;
+        background: var(--surface-2);
+    }
+
+    .gram-grid {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 12.5px;
+        text-align: left;
+    }
+
+    .gram-grid th, .gram-grid td {
+        padding: 7px 10px;
+        border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .gram-grid tr:last-child td {
+        border-bottom: none;
+    }
+
+    .gram-grid th {
+        background: var(--surface-3);
+        color: var(--text);
+        font-weight: 700;
+        font-size: 11px;
+        text-transform: uppercase;
+        letter-spacing: 0.4px;
+    }
+
+    .module-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(185px, 1fr));
+        gap: 10px;
+        margin-bottom: 16px;
+    }
+
+    .module-card {
+        background: var(--surface-1);
+        border: 1px solid var(--border-subtle);
+        border-radius: var(--radius-md);
+        padding: 13px;
+        cursor: pointer;
+        transition: all var(--spring-fast);
+        position: relative;
+    }
+
+    .module-card:active {
+        transform: scale(0.98);
+    }
+
+    .module-card.active {
+        border: 2px solid var(--accent);
+        background: var(--accent-container);
+        color: var(--accent-on-container);
+    }
+
+    .stage-bar {
+        display: flex;
+        gap: 6px;
+        margin-bottom: 16px;
+        overflow-x: auto;
+        padding-bottom: 4px;
+        scrollbar-width: none;
+    }
+
+    .stage-bar::-webkit-scrollbar {
+        display: none;
+    }
+
+    .stage-pill {
+        flex: 0 0 auto;
+        width: auto;
+        min-height: 38px;
+        padding: 7px 14px;
+        background: var(--surface-2);
+        border: 1px solid var(--border-subtle);
+        border-radius: var(--radius-pill);
+        font-size: 12.5px;
+        font-weight: 700;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        color: var(--text-secondary);
+        white-space: nowrap;
+        transition: all var(--spring-fast);
+    }
+
+    .stage-pill.active {
+        background: var(--accent);
+        color: var(--accent-on);
+        border-color: transparent;
+    }
+
+    .reader-passage-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(215px, 1fr));
+        gap: 8px;
+        margin-top: 10px;
+    }
+
+    .reader-passage-card {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        text-align: left;
+        width: 100%;
+        padding: 10px 12px;
+        background: var(--surface-2);
+        border: 1px solid var(--border-subtle);
+        border-radius: var(--radius-md);
+        cursor: pointer;
+        transition: all var(--spring-fast);
+        white-space: normal;
+        word-break: break-word;
+    }
+
+    .reader-passage-card:active {
+        transform: scale(0.98);
+    }
+
+    .reader-passage-card.active {
+        border: 2px solid var(--accent);
+        background: var(--accent-container);
+        color: var(--accent-on-container);
+    }
+
+    .option-btn {
+        display: block;
+        width: 100%;
+        min-height: 48px;
+        text-align: left;
+        background: var(--surface-2);
+        color: var(--text);
+        border: 1px solid var(--border-strong);
+        padding: 12px 16px;
+        margin: 8px 0;
+        border-radius: var(--radius-md);
+        font-size: 14.5px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: all var(--spring-fast);
+    }
+
+    .option-btn.correct {
+        border-color: var(--success);
+        background: var(--success-container);
+        color: var(--success-on-container);
+    }
+
+    .option-btn.wrong {
+        border-color: var(--danger);
+        background: var(--danger-container);
+        color: var(--danger-on-container);
+    }
+
+    .input-box {
+        background: var(--surface-2);
+        color: var(--text);
+        border: 1px solid var(--border-strong);
+        min-height: 44px;
+        padding: 9px 14px;
+        font-size: 16px;
+        border-radius: var(--radius-md);
+        outline: none;
+        transition: border-color var(--spring-fast);
+    }
+
+    .input-box:focus {
+        border-color: var(--accent);
+    }
+
+    .freq-row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 12px 14px;
+        background: var(--surface-2);
+        border: 1px solid var(--border-subtle);
+        border-radius: var(--radius-md);
+        margin-bottom: 8px;
+        gap: 10px;
+        flex-wrap: wrap;
+        transition: background var(--spring-fast);
+    }
+
+    .example-chip {
+        background: var(--surface-2);
+        border: 1px solid var(--border-subtle);
+        border-left: 4px solid var(--accent);
+        padding: 10px 13px;
+        border-radius: var(--radius-sm);
+        margin: 8px 0;
+        cursor: pointer;
+        transition: transform var(--spring-fast);
+    }
+
+    .example-chip:active {
+        transform: scale(0.99);
+    }
+
+    .word-token {
+        cursor: pointer;
+        padding: 4px 8px;
+        margin: 3px 2px;
+        border-radius: 10px;
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 1.75;
+        display: inline-block;
+        background: var(--surface-2);
+        border-bottom: 2px solid var(--accent);
+        transition: transform var(--spring-fast), background var(--spring-fast);
+    }
+
+    .word-token:active {
+        transform: scale(0.95);
+        background: var(--accent-container);
+    }
+
+    /* ==========================================================================
+       RIGHT PANEL / iOS NATIVE SLIDE-UP SHEET GRAMMAR INSPECTOR
+       ========================================================================== */
+    .inspector {
+        width: 365px;
+        background: var(--surface-1);
+        border-radius: var(--radius-lg);
+        padding: 20px;
+        border: 1px solid var(--border-subtle);
+        height: fit-content;
+        position: sticky;
+        top: 0;
+        max-height: calc(100dvh - 105px);
+        overflow-y: auto;
+        box-shadow: var(--shadow-card);
+        flex-shrink: 0;
+    }
+
+    .sheet-drag-handle {
+        display: none;
+    }
+
+    .sheet-backdrop {
+        display: none;
+    }
+
+    /* ==========================================================================
+       iPHONE 16 PRO MAX & MOBILE PORTRAIT/LANDSCAPE OPTIMIZATION (<= 960px)
+       ========================================================================== */
+    @media (max-width: 960px) {
+        .ios-top-bar {
+            padding: calc(env(safe-area-inset-top, 12px) + 6px) 8px 8px 8px;
+            gap: 4px;
+        }
+
+        .brand-cluster {
+            gap: 5px;
+            flex-shrink: 0;
+        }
+
+        .brand-badge {
+            width: 28px;
+            height: 28px;
+            border-radius: 8px;
+            font-size: 11px;
+        }
+
+        .logo {
+            font-size: 13.5px;
+            letter-spacing: -0.4px;
+        }
+
+        .brand-subtitle {
+            display: none;
+        }
+
+        .top-telemetry {
+            gap: 4px;
+            flex-shrink: 0;
+        }
+
+        .stat-pill {
+            padding: 4px 6px;
+            font-size: 11px;
+            gap: 2px;
+            white-space: nowrap;
+        }
+
+        .icon-action-btn {
+            min-width: 32px;
+            min-height: 32px;
+            padding: 0 7px;
+            font-size: 11.5px;
+            gap: 3px;
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
+        .app-shell {
+            flex-direction: column;
+        }
+
+        .main {
+            flex: 1;
+            min-height: 0;
+            height: 100%;
+            display: block;
+            overflow-y: auto;
+            -webkit-overflow-scrolling: touch;
+            padding: 12px 14px 76px 14px;
+        }
+
+        .content-area {
+            max-width: 100%;
+            padding-bottom: 12px;
+        }
+
+        .anki-stage {
+            min-height: 270px;
+            padding: 16px 15px;
+            margin-bottom: 16px;
+        }
+
+        .anki-action-sticky {
+            position: sticky;
+            bottom: 0;
+            background: var(--surface-1);
+            padding: 10px 0 2px 0;
+            margin-top: 10px;
+            border-top: 1px solid var(--border-subtle);
+            z-index: 20;
+        }
+
+        .sidebar {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            width: 100%;
+            height: auto;
+            flex-shrink: 0;
+            flex-direction: row;
+            justify-content: space-around;
+            align-items: center;
+            padding: 5px 6px 6px 6px;
+            border-right: none;
+            border-top: 1px solid var(--border-subtle);
+            background: var(--surface-elevated);
+            backdrop-filter: saturate(180%) blur(24px);
+            -webkit-backdrop-filter: saturate(180%) blur(24px);
+            z-index: 100;
+        }
+
+        .sidebar .stats-box,
+        .sidebar > div:last-child {
+            display: none;
+        }
+
+        .nav-btn {
+            flex: 1;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            min-height: 42px;
+            padding: 2px 2px;
+            font-size: 10.5px;
+            font-weight: 600;
+            gap: 1px;
+            border-radius: 12px;
+        }
+
+        .nav-btn .nav-icon {
+            font-size: 17px;
+            padding: 1px 12px;
+            line-height: 1.15;
+            border-radius: var(--radius-pill);
+            transition: background var(--spring-fast), transform var(--spring-fast);
+        }
+
+        .nav-btn.active {
+            background: transparent;
+            color: var(--accent);
+            font-weight: 800;
+        }
+
+        .nav-btn.active .nav-icon {
+            background: var(--accent-container);
+            color: var(--accent-on-container);
+            transform: translateY(-1px);
+        }
+
+        .sheet-backdrop {
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.48);
+            backdrop-filter: blur(3px);
+            -webkit-backdrop-filter: blur(3px);
+            z-index: 110;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 240ms ease;
+            display: block;
+        }
+
+        .sheet-backdrop.open {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .inspector {
+            position: fixed;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            top: auto;
+            width: 100%;
+            max-height: 82dvh;
+            border-radius: 28px 28px 0 0;
+            padding: 12px 20px calc(24px + env(safe-area-inset-bottom, 20px)) 20px;
+            box-shadow: var(--shadow-sheet);
+            z-index: 120;
+            transform: translateY(105%);
+            transition: transform var(--spring-expressive);
+            border: 1px solid var(--border-strong);
+        }
+
+        .inspector.sheet-open {
+            transform: translateY(0);
+        }
+
+        .sheet-drag-handle {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-bottom: 10px;
+            cursor: pointer;
+        }
+
+        .sheet-pill-bar {
+            width: 40px;
+            height: 5px;
+            border-radius: var(--radius-pill);
+            background: var(--border-strong);
+        }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after {
+            animation-duration: 0.01ms !important;
+            transition-duration: 0.01ms !important;
+        }
+    }
+</style>
+</head>
+<body>
+    <!-- iOS 18 / iPhone 16 Pro Max Dynamic Island-Safe Top Bar -->
+    <header class="ios-top-bar" role="banner">
+        <div class="brand-cluster">
+            <div class="brand-badge" aria-hidden="true">UA</div>
+            <div class="brand-titles">
+                <div class="logo">LangoUA</div>
+                <div class="brand-subtitle">Ukrainian FSRS & Grammar</div>
+            </div>
+        </div>
+
+        <div class="top-telemetry">
+            <div class="stat-pill" title="Total Experience Points">⭐ <b id="xp-top-display">0</b></div>
+            <div class="stat-pill" title="Active Words in Decks">🃏 <b id="deck-top-count">0</b></div>
+            <button class="icon-action-btn" onclick="openInspectorSheet()" aria-label="Open Deep Grammar Inspector" title="7-Case Grammar Inspector">
+                <span>🔍</span>
+            </button>
+            <button class="icon-action-btn" id="theme-toggle-btn" onclick="cycleColorTheme()" aria-label="Toggle Light or Dark Theme" title="Appearance">
+                <span id="theme-toggle-icon">🌗</span>
+            </button>
+            <button class="icon-action-btn" id="openai-voice-btn" onclick="openVoiceModal()" aria-label="Choose Voice" title="Choose Voice">
+                🎙️ <span id="voice-label-pill">Choose Voice</span>
+            </button>
+        </div>
+    </header>
+
+    <div class="app-shell">
+        <!-- Navigation Bar (Left Rail on Desktop, Thumb-Zone Bottom Tab Bar on iPhone 16 Pro Max) -->
+        <nav class="sidebar" aria-label="Primary Navigation">
+            <div class="stats-box">
+                <div>⭐ Total XP: <b id="xp-display" style="color:var(--accent)">0</b></div>
+                <div>🃏 Active Words: <b id="deck-count" style="color:var(--warn)">0</b> / 6000</div>
+                <div>🔥 Reviews Done: <b id="drills-display" style="color:var(--success)">0</b></div>
+                <div>🏆 Course Mods: <b id="mods-display">0</b> / 29</div>
+            </div>
+            <button class="nav-btn active" onclick="switchTab('srs', this)">
+                <span class="nav-icon" aria-hidden="true">🧠</span>
+                <span>UK→EN</span>
+            </button>
+            <button class="nav-btn" onclick="switchTab('en2uk', this)">
+                <span class="nav-icon" aria-hidden="true">🔄</span>
+                <span>EN→UK</span>
+            </button>
+            <button class="nav-btn" onclick="switchTab('correction', this)">
+                <span class="nav-icon" aria-hidden="true">🛠️</span>
+                <span>Sentence</span>
+            </button>
+            <button class="nav-btn" onclick="switchTab('phonetics', this)">
+                <span class="nav-icon" aria-hidden="true">✍️</span>
+                <span>Phonetics</span>
+            </button>
+            <button class="nav-btn" onclick="switchTab('course', this)">
+                <span class="nav-icon" aria-hidden="true">🎓</span>
+                <span>Course</span>
+            </button>
+            <button class="nav-btn" onclick="switchTab('vocab', this)">
+                <span class="nav-icon" aria-hidden="true">🗂️</span>
+                <span>Vocab</span>
+            </button>
+            <button class="nav-btn" onclick="switchTab('reader', this)">
+                <span class="nav-icon" aria-hidden="true">📖</span>
+                <span>Reader</span>
+            </button>
+            <div style="margin-top:auto; font-size:11.5px; color:var(--muted); padding:8px;">
+                A0–C1 CEFR Ukrainian Curriculum<br>Dual-Accent UA/EN Voice Active
+            </div>
+        </nav>
+
+        <main class="main" id="main-scroll-container">
+            <div class="content-area">
+                <!-- TAB 1: UK -> EN RECOGNITION ANKI -->
+                <section id="tab-srs" aria-label="Ukrainian to English Flashcards">
+                    <div class="section-header">
+                        <div>
+                            <h1 class="section-title">Ukrainian → English Anki</h1>
+                            <p class="section-subtitle">Tap Ukrainian to hear native pronunciation; reveal English meaning & 7-case tables.</p>
+                        </div>
+                        <div style="display:flex; gap:8px; flex-wrap:wrap;">
+                            <button class="btn btn-success" onclick="batchAddNextFrequencyWords(25)">+ Next 25 Words</button>
+                            <button class="btn btn-sec" onclick="batchAddNextFrequencyWords(100)">+ 100</button>
+                        </div>
+                    </div>
+
+                    <div class="anki-stage" id="stage-srs">
+                        <div class="anki-counts" role="status" aria-live="polite">
+                            <span style="color:var(--acc);">New: <b id="anki-new-count">0</b></span>
+                            <span style="color:var(--danger);">Learning: <b id="anki-learn-count">0</b></span>
+                            <span style="color:var(--success);">Due: <b id="anki-rev-count">0</b></span>
+                        </div>
+                        <div id="anki-card-body"></div>
+                        <div id="anki-action-area" class="anki-action-sticky"></div>
+                    </div>
+
+                    <!-- 6,000-WORD MASTER CATALOG -->
+                    <div class="card">
+                        <div class="section-header" style="margin-bottom:14px;">
+                            <h2 style="margin:0; font-size:18px; font-weight:800;">📚 6,000-Word Ukrainian Lexicon & 7-Case Browser</h2>
+                            <div style="display:flex; gap:8px; flex-wrap:wrap; width:100%;">
+                                <input id="srs-cat-search" type="search" class="input-box" style="flex:1; min-width:160px;" placeholder="Search #1–#6000, Ukrainian or English..." oninput="srsCatPage=0; renderSrsCatalog6000()">
+                                <select id="srs-cat-level" class="input-box" style="min-width:140px;" aria-label="Filter by CEFR Level" onchange="srsCatPage=0; renderSrsCatalog6000()">
+                                    <option value="ALL">All 6,000</option>
+                                    <option value="A1">A1 (#1–1000)</option>
+                                    <option value="A2">A2 (#1001–2000)</option>
+                                    <option value="B1">B1 (#2001–3500)</option>
+                                    <option value="B2">B2 (#3501–4800)</option>
+                                    <option value="C1">C1 (#4801–6000)</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div id="srs-6000-catalog"></div>
+                        <div style="display:flex; justify-content:space-between; align-items:center; margin-top:14px; gap:8px;">
+                            <button class="btn btn-sec" onclick="changeSrsCatPage(-1)">← Prev 25</button>
+                            <span id="srs-cat-page-info" style="color:var(--muted); font-size:12.5px; font-weight:600; text-align:center;"></span>
+                            <button class="btn btn-sec" onclick="changeSrsCatPage(1)">Next 25 →</button>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- TAB 2: ENGLISH -> UKRAINIAN ACTIVE RECALL ANKI -->
+                <section id="tab-en2uk" class="hidden" aria-label="English to Ukrainian Active Recall">
+                    <div class="section-header">
+                        <div>
+                            <h1 class="section-title">English → Ukrainian Recall</h1>
+                            <p class="section-subtitle">Produce the stressed Ukrainian word from English; verify 7-case inflection & audio.</p>
+                        </div>
+                        <button class="btn btn-success" onclick="batchAddNextFrequencyWords(25)">+ Next 25 Words</button>
+                    </div>
+
+                    <div class="anki-stage" id="stage-en2uk">
+                        <div class="anki-counts" role="status" aria-live="polite">
+                            <span style="color:var(--acc);">New: <b id="anki-new-count-en" style="display:none">0</b><b id="en2uk-new-count">0</b></span>
+                            <span style="color:var(--danger);">Learning: <b id="en2uk-learn-count">0</b></span>
+                            <span style="color:var(--success);">Due: <b id="en2uk-rev-count">0</b></span>
+                        </div>
+                        <div id="en2uk-card-body"></div>
+                        <div id="en2uk-action-area" class="anki-action-sticky"></div>
+                    </div>
+                </section>
+
+                <!-- TAB 3: SENTENCE CORRECTION FLASHCARDS (6,000 WORDS) -->
+                <section id="tab-correction" class="hidden" aria-label="Sentence Correction Flashcards">
+                    <div class="section-header">
+                        <div>
+                            <h1 class="section-title">Ukrainian Sentence Correction</h1>
+                            <p class="section-subtitle">Spot and fix Ukrainian case mutations (к→ц, г→з, х→с), vocatives, and verb agreement.</p>
+                        </div>
+                        <button class="btn btn-success" onclick="batchAddNextFrequencyWords(25)">+ Next 25 Cards</button>
+                    </div>
+
+                    <div class="anki-stage" id="stage-corr">
+                        <div class="anki-counts" role="status" aria-live="polite">
+                            <span style="color:var(--acc);">New: <b id="corr-new-count">0</b></span>
+                            <span style="color:var(--danger);">Learning: <b id="corr-learn-count">0</b></span>
+                            <span style="color:var(--success);">Due: <b id="corr-rev-count">0</b></span>
+                        </div>
+                        <div id="corr-card-body"></div>
+                        <div id="corr-action-area" class="anki-action-sticky"></div>
+                    </div>
+                </section>
+
+                <!-- TAB 4: 6,000-WORD PHONETICS, GRAMMAR & TOUCH CURSIVE -->
+                <section id="tab-phonetics" class="hidden" aria-label="Phonetics and Cursive Trainer">
+                    <div class="section-header">
+                        <div>
+                            <h1 class="section-title">Ukrainian Phonetics & Cursive (Калігра́фія)</h1>
+                            <p class="section-subtitle">Master Ukrainian pronunciation: voiced г [ɦ] vs ґ [ɡ], bilabial в [w], vowel alternations (о/е → і) & clear final consonants.</p>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <h2 style="margin-top:0; font-size:16px; color:var(--accent);">1. Ukrainian Pronunciation & Sound Analyzer</h2>
+                        <div id="phonetic-output" style="padding:14px; background:var(--surface-2); border-radius:var(--radius-md); font-size:14.5px; line-height:1.55;">
+                            Tap any Ukrainian word below to hear native audio, read a plain-English pronunciation guide alongside IPA, and inspect its 7-case declension or verb conjugation table!
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px; margin-bottom:10px;">
+                            <h2 style="margin:0; font-size:16px;">2. Ukrainian Cursive Pad</h2>
+                            <span>Target: <b id="cursive-target" style="font-family:'Snell Roundhand', 'Apple Chancery', cursive; font-size:28px; color:var(--accent); margin-left:6px;">кни́жка</b></span>
+                        </div>
+                        <canvas id="cursive-pad" width="600" height="150" style="width:100%; max-width:600px; background:var(--surface-2); border:1px solid var(--border-strong); border-radius:var(--radius-md); touch-action:none;"></canvas>
+                        <div style="margin-top:12px; display:flex; gap:8px; flex-wrap:wrap;">
+                            <button class="btn btn-sec" onclick="clearCanvas()">Clear Pad</button>
+                            <button class="btn" onclick="speakUkrainian(document.getElementById('cursive-target').innerText)">🔊 Hear Word</button>
+                            <button class="btn btn-warn" onclick="speakExplanation(currentInspectedRank)">🗣️ Audio Explanation</button>
+                            <button class="btn btn-sec" onclick="openInspectorSheet()">🔍 7-Case Table</button>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="section-header" style="margin-bottom:12px;">
+                            <h2 style="margin:0; font-size:17px;">3. 6,000-Word Ukrainian Phonetics Directory</h2>
+                            <div style="display:flex; gap:8px; flex-wrap:wrap; width:100%;">
+                                <input id="phon-search" type="search" class="input-box" style="flex:1; min-width:160px;" placeholder="Search #1–#6000..." oninput="phonPage=0; renderPhonetics6000()">
+                                <select id="phon-level" class="input-box" style="min-width:140px;" aria-label="Filter Phonetics by CEFR Level" onchange="phonPage=0; renderPhonetics6000()">
+                                    <option value="ALL">All Ranks</option>
+                                    <option value="A1">A1 (#1–1000)</option>
+                                    <option value="A2">A2 (#1001–2000)</option>
+                                    <option value="B1">B1 (#2001–3500)</option>
+                                    <option value="B2">B2 (#3501–4800)</option>
+                                    <option value="C1">C1 (#4801–6000)</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div id="phon-6000-list"></div>
+                        <div style="display:flex; justify-content:space-between; align-items:center; margin-top:14px; gap:8px;">
+                            <button class="btn btn-sec" onclick="changePhonPage(-1)">← Prev 25</button>
+                            <span id="phon-page-info" style="color:var(--muted); font-size:12.5px; font-weight:600;"></span>
+                            <button class="btn btn-sec" onclick="changePhonPage(1)">Next 25 →</button>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- TAB 5: STEP-BY-STEP UKRAINIAN COURSE (A0-C1, 29 MODULES) -->
+                <section id="tab-course" class="hidden" aria-label="Comprehensive Ukrainian Course">
+                    <div class="section-header">
+                        <div>
+                            <h1 class="section-title">Step-by-Step Ukrainian Course (A0 → C1)</h1>
+                            <p class="section-subtitle">29 practical CEFR modules with clear goals, real-life dialogues, active recall, interactive drills, and mastery exams.</p>
+                        </div>
+                    </div>
+                    <div class="stage-bar" id="course-level-filter-bar" style="margin-bottom:10px;"></div>
+                    <div class="module-grid" id="module-grid"></div>
+                    <div class="card" id="module-workspace">
+                        <div style="margin-bottom:14px; display:flex; align-items:center; flex-wrap:wrap; gap:8px;">
+                            <span class="tag" id="active-mod-level" style="background:var(--accent-container); color:var(--accent-on-container); font-weight:800;">A0.1</span>
+                            <span class="tag" id="active-mod-ref" style="background:var(--secondary-container); color:var(--secondary-on-container); font-weight:800;">Level A0</span>
+                            <h2 id="active-mod-title" style="margin:0; font-size:18.5px; font-weight:800; width:100%;">Module Title</h2>
+                        </div>
+                        <div class="stage-bar" id="stage-bar"></div>
+                        <div id="stage-content"></div>
+                    </div>
+                </section>
+
+                <!-- TAB 6: EVERYDAY VOCABULARY & MEMORY LAB (27 CATEGORIES, 8 INTERACTIVE MODES) -->
+                <section id="tab-vocab" class="hidden" aria-label="Everyday Vocabulary & Memory Lab">
+                    <div class="section-header">
+                        <div>
+                            <h1 class="section-title">Everyday Vocabulary & Memory Lab</h1>
+                            <p class="section-subtitle">27 practical everyday categories with 8 interactive memory modes, audio, 7-case inspection, and FSRS integration.</p>
+                        </div>
+                        <div style="display:flex; gap:8px; flex-wrap:wrap;">
+                            <button class="btn btn-success" onclick="addCategoryToFSRS()">+ Add Category to FSRS</button>
+                            <button class="btn btn-warn" onclick="speakCategoryGuide()">🗣️ Hear Category Guide</button>
+                        </div>
+                    </div>
+
+                    <div class="card" style="margin-bottom:14px;">
+                        <div style="display:flex; justify-content:space-between; align-items:center; gap:8px; flex-wrap:wrap; margin-bottom:10px;">
+                            <span style="font-size:13px; font-weight:800; color:var(--text-secondary);">1. Choose an Everyday Category (27 Topics):</span>
+                            <input id="vocab-search-input" type="search" class="input-box" style="max-width:280px;" placeholder="Filter words in category..." oninput="renderEverydayVocabWorkspace()">
+                        </div>
+                        <div id="vocab-category-bar" class="stage-bar" style="display:flex; flex-wrap:wrap; gap:6px; overflow:visible;"></div>
+                    </div>
+
+                    <div class="card">
+                        <div style="margin-bottom:12px;">
+                            <span style="font-size:13px; font-weight:800; color:var(--text-secondary); display:block; margin-bottom:8px;">2. Select Practice & Memory Mode (8 Interactive Modes):</span>
+                            <div id="vocab-mode-bar" class="stage-bar" style="display:flex; flex-wrap:wrap; gap:6px; overflow:visible;"></div>
+                        </div>
+                        <div id="vocab-lab-workspace"></div>
+                    </div>
+                </section>
+
+                <!-- TAB 7: COMPREHENSIBLE INPUT READER -->
+                <section id="tab-reader" class="hidden" aria-label="Comprehensible Input Reader">
+                    <div class="section-header">
+                        <div>
+                            <h1 class="section-title">Ukrainian Comprehensible Reader</h1>
+                            <p class="section-subtitle">Tap any Ukrainian word token to hear HD pronunciation and open its 7-case breakdown.</p>
+                        </div>
+                        <button class="btn" onclick="speakStory()">🔊 Listen to Full Passage</button>
+                    </div>
+                    <div class="card" id="story-container" style="padding:24px; line-height:2.1;"></div>
+                </section>
+            </div>
+
+            <!-- Mobile Bottom-Sheet Backdrop -->
+            <div id="inspector-backdrop" class="sheet-backdrop" onclick="closeInspectorSheet()"></div>
+
+            <!-- RIGHT PANEL / iOS BOTTOM SHEET: DEEP 7-CASE GRAMMAR & AUDIO INSPECTOR -->
+            <aside id="grammar-inspector" class="inspector" aria-label="Deep Grammar Breakdown">
+                <div class="sheet-drag-handle" onclick="closeInspectorSheet()">
+                    <div class="sheet-pill-bar"></div>
+                </div>
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
+                    <h3 style="margin:0; font-size:16px; font-weight:800; color:var(--accent);">🔍 7-Case & Verb Breakdown</h3>
+                    <button class="btn btn-sec sheet-drag-handle" style="min-height:36px; padding:4px 14px; font-size:12px;" onclick="closeInspectorSheet()">Done</button>
+                </div>
+                <div id="inspector-body" style="color:var(--text-secondary); font-size:13.5px; line-height:1.55;">
+                    Tap any of the <b>6,000 Ukrainian words</b> in the Anki Decks, Catalog, Course, or Phonetics Explorer to view its complete 7-Case Declension (including Vocative) or Verb Conjugation table and listen to a Dual-Accent spoken explanation.
+                </div>
+            </aside>
+        </main>
+    </div>
+
+<script type="module" src="/src/main.ts"></script>
+</body>
+</html>
