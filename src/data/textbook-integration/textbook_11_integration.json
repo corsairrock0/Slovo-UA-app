@@ -1,0 +1,75 @@
+{
+  "textbookNumber": 11,
+  "totalPlannedTextbooks": 12,
+  "filename": "887267138-Complete-Ukrainian-Enhanced-eBook_22568a0f.pdf",
+  "title": "Complete Ukrainian (Revised 3rd Edition, 2016, 320 PDF pages, 18 Units + Grammar Reference & Vocabularies)",
+  "authors": ["Olena Bekh", "James Dingley"],
+  "cefrCoverage": "A0–B2+",
+  "processedAt": "2026-10-29",
+  "educationalScope": [
+    "Full 18-unit communicative and reference Ukrainian course progressing from Cyrillic script, greetings, family, and professions through Kyiv/Lviv/Simferopol travel, apartment rental, customs, joint ventures, fashion production, banking, polyclinic health care, and botanical/weather idioms.",
+    "Nuanced conversational tactics, politeness strategies, aspectual distinctions in everyday life, spatial adverb triads, verbal adverbs (дієприслівники) including negated «не + verbal adverb» for English 'without -ing', and derivational word families."
+  ],
+  "extractedGrammarTopics": [
+    {
+      "topic": "Saying 'Please' in Two Ways: Requesting/Accepting («Будь ласка!») vs. Offering/Granting («Прошу!»)",
+      "targetModule": "A0.3 (Rule 8 & Example 8)",
+      "details": "Contrasts «Будь ла́ска» (for polite requests and accepting offers) with «Про́шу!» (when handing something over, inviting someone in, granting permission, or asking 'Pardon?')."
+    },
+    {
+      "topic": "Ukrainian Business Card (Візитка) & Professional Title Order",
+      "targetModule": "A1.4 (Rule 8 & Example 8)",
+      "details": "Explains traditional vs. Western name order on Ukrainian business cards (Прізвище + Ім'я + По батькові) and why professional titles belong in the lower half of the card rather than before the name."
+    },
+    {
+      "topic": "Indeclinable Loanword «пальто» vs. Declinable Ukrainian «пальто» (в новому пальті)",
+      "targetModule": "A2.2 (Rule 10 & Example 9)",
+      "details": "Shows how «пальто́» declines like a regular neuter noun in -о across all cases in Ukrainian (без пальта́, у но́вому пальті́, пальто́м, пальта́, п'ять пальт) while foreign nouns in -е/-і/-о/-у like таксі́, метро́, кафе́, купе́, меню́, інтерв'ю́ remain indeclinable."
+    },
+    {
+      "topic": "Complete 3-Way Spatial Adverb Matrix: Де? (Location) vs. Куди? (Direction) vs. Звідки? (Origin)",
+      "targetModule": "A2.3 (Rule 8 & Example 9)",
+      "details": "Integrates the full 3-column spatial adverb matrix: тут/сюди́/зві́дси, там/туди́/зві́дти, вдо́ма/додо́му/здо́му, нагорі́/наго́ру/згори́, внизу́/вниз/зни́зу, попере́ду/впере́д/спере́ду, поза́ду/наза́д/зза́ду."
+    },
+    {
+      "topic": "Official Weather Forecasts, Impersonal Nature/Scent Verbs & «Оксамитовий сезон»",
+      "targetModule": "A2.5 (Rule 8 & Example 9)",
+      "details": "Adds meteorological forecast vocabulary (мінли́ва хма́рність із проя́сненнями, без о́падів, о́желедь, трива́лість дня), impersonal nature/scent verbs (світа́є, смерка́є, сутені́є, мря́чить, па́хне + Instrumental), and the cultural concept of «оксами́товий сезо́н»."
+    },
+    {
+      "topic": "Aspectual Nuance of «запізнюватися» (Running Late) vs. «запізнитися» (Missed It) & City Transit",
+      "targetModule": "B1.1 (Rule 8 & Example 7)",
+      "details": "Contrasts imperfective «запі́знюватися на по́тяг» (running late on the way, can still make it) with perfective «запізни́тися на по́тяг» (missed the train / arrived late), alongside city transit collocations (закомпостува́ти тало́н у компо́стері, проїзни́й квито́к, пересі́сти на метро́, ко́лія)."
+    },
+    {
+      "topic": "Verbal Adverbs from «бути» («будучи») & Negated Verbal Adverbs for English 'without -ing'",
+      "targetModule": "B2.1 (Rule 8 & Example 8)",
+      "details": "Explains «бу́дучи + Instrumental» ('being...') and how Ukrainian translates English 'without doing X' via «не + verbal adverb» (не бу́дучи нудно́ю, не поспіша́ючи, не га́ючи ча́су, не ка́жучи вже про)."
+    },
+    {
+      "topic": "Business Ukrainian, Joint Ventures («спільний» vs. «загальний»), Conversational Tactics, Exclamations & Word Families",
+      "targetModule": "B2.5 (New Module)",
+      "details": "Dedicated B2 module covering joint ventures (спі́льне підприє́мство vs. зага́льна су́ма ви́трат), corporate procurement and modernization, apartment rental (наймати́ vs. здава́ти, без посере́дників), conversational fillers & hedging, exclamatory «Який/Як...!», and derivational word families."
+    },
+    {
+      "topic": "Formal Epistolary & Business Register: Opening Salutations, «Ви» Capitalization & Closing Formulas",
+      "targetModule": "C1.1 (Rule 8 & Example 7)",
+      "details": "Details Ukrainian letter and email etiquette: «Шано́вний па́не Дире́кторе!» (+ Vocative), «Вельмишано́вний» for dignitaries, warm «Дороги́й дру́же!», capitalized polite singular «Ви/Ваш» in correspondence, and «З пова́гою / Із щи́рою пова́гою»."
+    }
+  ],
+  "curriculumChanges": {
+    "modifiedModules": ["A0.3", "A1.4", "A2.2", "A2.3", "A2.5", "B1.1", "B2.1", "C1.1"],
+    "addedModules": ["B2.5"],
+    "newVocabularyEntriesCount": 86,
+    "everydayVocabDrillsAdded": {
+      "fillInTheBlank": ["fb-45", "fb-46", "fb-47", "fb-48"],
+      "sentenceConstruction": ["sc-32", "sc-33", "sc-34"],
+      "contextualChoice": ["cc-32", "cc-33", "cc-34"],
+      "grammarAware": ["ga-32", "ga-33", "ga-34"]
+    },
+    "addedReaderPassages": [
+      "B1-kyiv-simferopol-express-velvet-season",
+      "B2-joint-venture-kyiv-fashion-botanical"
+    ]
+  }
+}

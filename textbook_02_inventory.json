@@ -1,0 +1,405 @@
+{
+  "textbookId": "textbook_02",
+  "sourceFile": "/public/assets/aistudio/182083997-Karamysheva-I-D-Contrastive-Grammar-of-English-and-Ukrainian-Languages_aa558e35.pdf",
+  "bibliographicInfo": {
+    "titleEn": "Contrastive Grammar of English and Ukrainian Languages (Second edition, revised)",
+    "titleUk": "Контрастивна граматика англійської та української мов",
+    "authors": [
+      "Iryna D. Karamysheva (Ірина Дамірівна Карамишева)"
+    ],
+    "reviewers": [
+      "A. E. Levytsky (Prof., Taras Shevchenko National University of Kyiv)",
+      "Y. A. Zatsny (Prof., Zaporizhzhya National University)",
+      "N. I. Andreichuk (Assoc. Prof., Lviv Polytechnic National University)",
+      "R. K. Mahachashvili (Assoc. Prof., Zaporizhzhya National University)"
+    ],
+    "publisher": "Nova Knyha Publishers (ПП «Нова Книга»)",
+    "city": "Vinnytsia",
+    "year": 2012,
+    "isbn": "978-966-382-380-5",
+    "totalPdfPages": 322,
+    "bookPageRange": "1–320",
+    "targetAudience": "University students of Applied Linguistics, Translation, and Philology; English-Ukrainian contrastive grammar learners and translators",
+    "structureOverview": {
+      "prefaceAndFundamentals": "Preface (ПЕРЕДМОВА, Book pp. 8–10) & Fundamentals Sections 1–12 (Book pp. 11–55): Language vs. speech, phoneme/morpheme/word/sentence hierarchy, synthetic vs. analytical word-forms, stem types (прості, похідні, складні, складені), lexeme vs. grammeme, valency & combinability, grammatical opposition & neutralization, parts of speech criteria, contrastive typology (isomorphic vs. allomorphic features), tertium comparationis, and Ukrainian vs. English part-of-speech systems.",
+      "morphology": "Chapters 1–8 (Book pp. 56–244): Systematic contrastive analysis of Noun (Ch. 1), Adjective (Ch. 2), Numeral (Ch. 3), Pronoun (Ch. 4), Finite Verb (Ch. 5), Non-Finite Verbals / дієприкметник & дієприслівник (Ch. 6), Adverb & Category of State / слова категорії стану (Ch. 7), and Functional Parts of Speech: Preposition, Conjunction, Particle, Modal Words, Interjection, and English Article equivalents in Ukrainian (Ch. 8).",
+      "syntax": "Chapters 9–12 (Book pp. 245–309): Basic syntactic notions, predicativity, agreement/government/adjoinment (узгодження, керування, прилягання), one-member sentences (односкладні речення) (Ch. 9); Simple sentence parts: subject, simple/compound nominal/compound verbal predicates, direct/indirect objects, agreed/non-agreed attributes, adverbial modifiers, and translating English secondary predication structures into Ukrainian (Ch. 10); Compound sentences: copulative, disjunctive, adversative, causative-consecutive, suddenness (із значенням раптовості), and asyndetic (Ch. 11); Complex sentences: subject, predicative, object, attributive, and 9 types of adverbial clauses (Ch. 12).",
+      "backMatter": "Conclusion (Book pp. 310–312), References (Book pp. 313–315), Further Suggested Readings (Book pp. 316–319), Colophon (Book p. 320)."
+    }
+  },
+  "analysisCompleteness": {
+    "analyzedPdfPages": "1–322 (all 322 pages in the PDF)",
+    "unanalyzedOrMissingPages": [
+      "PDF page 2 (inside front cover) and PDF page 321 (inside back cover) are blank pages.",
+      "Minor scan/handwriting artifacts on PDF pages 60–61 (Book pp. 58–59) and PDF pages 280–281 (Book pp. 280–281) where a previous reader underlined English sentences in pencil; all underlying printed text remains fully legible in the page screenshots and was completely analyzed.",
+      "Author typo noted on Book p. 164 (PDF p. 164): 'The peculiarity of the English language is the multiple meaning (багатозначність) of the verbal suffix -ся' — contextually refers to the Ukrainian language ('of the Ukrainian language'). Flagged to prevent propagation."
+    ]
+  },
+  "cefrMapping": {
+    "overallRange": "A1 to C1 (Academic Contrastive Reference & Translation Grammar)",
+    "segments": [
+      {
+        "section": "Fundamentals & Chapter 8.6 (Typology, Word Order & Article Equivalents)",
+        "cefrLevel": "A1–B1",
+        "scope": "Synthetic (inflectional) nature of Ukrainian vs. analytical English; flexible Ukrainian word order encoding theme/rheme (definiteness/indefiniteness: Хлопчик чекає на вас = The boy vs. Вас чекає хлопчик = A boy); optional determiner pronouns (якийсь, один, цей, той) vs. obligatory English articles."
+      },
+      {
+        "section": "Chapters 1–4 (Nominal Morphology: Noun, Adjective, Numeral, Pronoun)",
+        "cefrLevel": "A1–B2",
+        "scope": "Four noun declensions (I–IV), 7 cases (including Vocative and analytical-synthetic Locative), grammatical gender (masculine, feminine, neuter, common gender спільний рід), animacy (назви істот і неістот), collective nouns (-ство, -н(я), -инн(я), -ота, -еча), singularia/pluralia tantum mismatches, qualitative/relative/possessive adjectives (батьків, сестрин, Настин), short predicative adjectives (певен, повен, винен, рад),synthetic/analytical/strengthened degrees of comparison (якнай-, щонай-), diminutive & augmentative suffixes, cardinal/ordinal/collective/fractional numerals (двоє, двійко, півтора, півдня), and 9 classes of Ukrainian pronouns (including reflexive себе, defining сам/весь/кожний, negative ніхто with obligatory double negation)."
+      },
+      {
+        "section": "Chapters 5–6 (Verbal System & Non-Finite Verbals)",
+        "cefrLevel": "A2–C1",
+        "scope": "Conjugations I (-уть/-ють) & II (-ать/-ять), 7 verb categories (person, number, gender in past/conditional, aspect, tense, voice/state, mood), pluperfect (давноминулий час: ходив був) and habitual past particle було, synthetic (-му, -меш) & analytical future, 7 semantic classes of -ся reflexive verbs, impersonal verbs (морозить, таланить, спиться), passive voice (-ся, був + participle, -но/-то forms), intimate imperatives (-но, -бо: іди-но, скажи-бо), optative conditional with бодай, infinitive diminutives (спатоньки, їстоньки), active/passive participles (дієприкметник), and imperfective/perfective adverbial participles (дієприслівник: пишучи, прочитавши)."
+      },
+      {
+        "section": "Chapters 7–8 (Adverbs, Statives & Functional Parts of Speech)",
+        "cefrLevel": "B1–C1",
+        "scope": "Primary vs. secondary adverbs, manner/comparison adverbs in по- (по-дитячому, по-козацьки) and bare Instrumental (стовпом, колесом), diminutive adverbs (швиденько, тихесенько), words of the category of state (слова категорії стану: боязко, страшно, тихо, можна, треба, слід, шкода, жаль), primary vs. secondary prepositions (>220 in Ukrainian), coordinating/subordinating conjunctions, phrase/word-building/form-building particles, parenthetical modal words (вставні слова: мабуть, безумовно, нівроку), and primary/secondary interjections (including plural imperative interjections цитьте!, гетьте!)."
+      },
+      {
+        "section": "Chapters 9–12 (Simple & Composite Sentence Syntax)",
+        "cefrLevel": "B1–C1",
+        "scope": "Syntactic connections: agreement (53% in Ukr vs. 24% in Eng), government (32% in Ukr), adjoinment (15% in Ukr); rich system of Ukrainian one-member sentences (означено-особові, неозначено-особові, узагальнено-особові, безособові, називні, інфінітивні, -но/-то); zero-copula compound nominal predicates and 4 classes of Ukrainian link-verbs; partitive/negative Genitive direct objects and temporary-use Genitive singular (попросив олівця, взяв ножа); bare case adverbial modifiers of space/time/manner; translating English Secondary Predication (Complex Object/Subject, Absolute, Gerundial) into Ukrainian subordinate clauses; compound sentences including suddenness clauses (аж, коли) and complex sentences with main-clause correlative words (той... хто, те... що, такий... який, чим... тим)."
+      }
+    ]
+  },
+  "grammarInventory": [
+    {
+      "id": "G01_TYPOLOGY_SYNTHETIC_VS_ANALYTICAL",
+      "chapter": "Fundamentals (Sections 1–12) & Chapter 8.6",
+      "pages": "11–55, 233–237",
+      "title": "Synthetic vs. Analytical Typology, Stem Structure, and Expressing Definiteness via Word Order",
+      "explanation": "Ukrainian is predominantly a synthetic (flexional) language where grammatical meanings (case, gender, number, person, tense) are fused with lexical roots via suffixes, endings, internal vowel/consonant alternations (лягти — ліг), and mobile stress (дощ — дощу́ — доще́м). However, Ukrainian also uses analytical forms (composite future бу́ду чита́ти, pluperfect ходи́в був, comparative бі́льш прива́бливий) and analytical-synthetic forms (Locative case preposition + ending в університе́ті; conditional past verb + particle малюва́в би). Because morphological endings mark syntactic roles, Ukrainian word order is flexible and used for communicative theme/rheme (functional sentence perspective) rather than fixed subject-verb-object licensing.",
+      "notableRules": [
+        "Four stem types in Ukrainian: 1) Simple (прості основи: день, стіл), 2) Derivative (похідні основи: робітни́к, перечита́ти), 3) Compound (складні основи: водогра́й, хліборо́б), 4) Composite (складені основи: два́дцять п'ять, незважа́ючи на).",
+        "Core vs. peripheral parts of speech (Ponomariv / Vykhovanets framework): Noun and Verb form the grammatical core; Adjective and Adverb are peripheral; Pronoun and Numeral stand outside traditional naming parts of speech; Prepositions, Conjunctions, Particles, and Link-words are syntactic particles of speech (службові слова); Modal words (вставні слова) operate at the syntactic level; Interjections stand apart as sentence-level emotional/volitional signals.",
+        "Rendering English articles in Ukrainian via word order (functional sentence perspective): Sentence-initial position signals a known/definite subject (Theme: Хло́пчик чека́є на вас = The boy is waiting for you; Маши́на ду́же краси́ва = The car is very beautiful), whereas sentence-final position introduces a new/indefinite entity (Rheme: Вас чека́є хло́пчик = A boy is waiting for you; Там зупини́лася маши́на = A car has stopped there).",
+        "Optional lexical determiners: Ukrainian uses цей, той for explicit definiteness and яки́йсь, яки́й-не́будь, оди́н, будь-яки́й, ко́жен for indefiniteness only when emphasis is required; overusing them in ordinary narrative (e.g., repeating яки́йсь / ця in every clause) sounds unnatural."
+      ]
+    },
+    {
+      "id": "G02_NOUN_SUBCLASSES_NUMBER_COLLECTIVES",
+      "chapter": "Chapter 1 (Sections 1–2)",
+      "pages": "56–66",
+      "title": "Noun Subclasses, Collective Nouns, Suffixes of Subjective Appraisal, and Number Asymmetries",
+      "explanation": "Ukrainian nouns are classified semantically and grammatically into concrete vs. abstract, animate vs. inanimate (назви істот і неістот), common vs. proper, material (речовинні), and collective (збірні). Unlike English collective nouns (family, government) which can be countable, Ukrainian collective nouns denote an indivisible unity of homogeneous living beings or plants, are strictly singularia tantum (no plural form), possess grammatical gender, and are formed with specialized suffixes.",
+      "notableRules": [
+        "Productive Ukrainian collective noun suffixes: -ство/-цтво (студе́нтство, пта́ство, коза́цтво, людство́), -н(я) (мурашня́), -инн(я)/-овинн(я) (насі́ння, ластови́ння, картопли́ння, капусти́ння, ганчі́р'я), -от(а) (кінно́та, парубо́та), -еч(а) (мале́ча, старе́ча), plus нача́льство, професу́ра.",
+        "Richness of subjective appraisal suffixes: Ukrainian has 53 noun-forming diminutive/caressing suffixes (e.g., дівча́тко, но́сик, сино́к, батіже́чок, дівчино́нька, лиси́чко, ки́цю) compared to 14 in English, plus augmentative suffixes completely absent in English: -ил(о) (вітри́ло, бари́ло), -ищ(е) (вовчи́ще, дуби́ще), -ук(а)/-юк(а) (каменю́ка, змію́ка), -уг(а)/-юг(а) (діду́га, злодю́га), -ан/-ань (дідуга́н, здорова́нь), -яр(а) (мися́ра, нося́ра).",
+        "Nominative plural endings by declension: Declension I: -и (маши́ни), -і (ме́жі), -ї (наді́ї); Declension II: -и (робітники́), -і (ковалі́), -а (міста́), -я (моря́); Declension III: -і (відпові́ді, но́чі); Declension IV: -ята (гусеня́та), -ата (курча́та), -ена (імена́).",
+        "Singularia Tantum vs. Pluralia Tantum mismatches between Ukrainian and English: (a) Plural-only in Ukrainian but singular/countable in English: дрі́жджі (yeast), гро́ші (money), кані́кули (vacation), ви́ла (pitchfork), воро́та (gate), граблі́ (rake), са́ни (sledge), парфу́ми (perfume), рокови́ни (anniversary), імени́ни (name-day), вечорни́ці, обжи́нки, су́тінки (twilight), при́морозки, пу́стощі, ре́внощі (jealousy), хва́стощі, ша́хи (chess), ша́шки (draughts), пі́жмурки (blind man's buff), Че́рнівці, Су́ми, Ате́ни, Черка́си; (b) Singular-only in Ukrainian but plural in English: о́дяг (clothes), сміття́ (sweepings), зміст (contents), зе́лень (greens), карто́пля (potatoes), мо́рква (carrots), цибу́ля (onions); (c) Countable in Ukrainian (both sg & pl) but uncountable in English: пора́да — пора́ди (advice), си́ла — си́ли (strength), фрукт — фру́кти (fruit)."
+      ]
+    },
+    {
+      "id": "G03_NOUN_CASES_DECLENSIONS_ANIMACY",
+      "chapter": "Chapter 1 (Sections 3–5)",
+      "pages": "67–81",
+      "title": "Seven-Case System, Four Declensions, Gender, Common Gender, and Animacy",
+      "explanation": "Ukrainian nouns inflect across 7 cases (Nominative, Genitive, Dative, Accusative, Instrumental, Locative, and Vocative) and 4 declension classes (відміни). All singular nouns belong to masculine, feminine, or neuter gender (plus common gender спільний рід), whereas gender distinctions are neutralized in the plural (and pluralia tantum nouns have no gender).",
+      "notableRules": [
+        "Four Declensions (чотири відміни іменників): Declension I: feminine, masculine, and common-gender nouns ending in -а/-я (нау́ка, земля́, Мико́ла, Ілля́, голова́, суддя́); Declension II: masculine nouns ending in a hard/soft consonant, -й, or -о (робітни́к, ключ, день, чай, ба́тько) and neuter nouns in -о, -е, -я (о́зеро, де́рево, по́ле, знання́, обличчя́, except -ат/-ят/-ен stems); Declension III: feminine nouns ending in a hard or soft consonant (ніч, любо́в, тінь, ра́дість, сі́ль, зу́стріч, мо́лодь, по́дорож) plus ма́ти (with stem extension -ер-: ма́тері); Declension IV: neuter nouns in -а/-я denoting young creatures or small objects with indirect-case suffixes -ат-/-ят- (теля́ — теля́ти, лоша́ — лоша́ти, слоненя́, порося́, курча́, гусеня́, дівча́, хлоп'я́, дитя́) and -ен- (ім'я́ — і́мені).",
+        "Semantic differentiation in Genitive singular masculine endings (-а vs. -у): e.g., листопада́ (the month of November) vs. листопа́ду (autumn leaf-fall / season); parallel endings in Dative/Locative singular without semantic change: ба́тькові / ба́тьку, у га́ю / у гаї́.",
+        "Common gender (спільний рід): Nouns in -а/-я denoting persons by characteristic trait (сирота́, базі́ка, трудя́га, нечепу́ра, пла́кса, голова́, суддя́) agree with masculine or feminine adjectives/verbs depending on the referent's sex. Profession nouns in consonant stems (профе́сор, до́ктор, кандида́т, бригади́р) are grammatically masculine even when referring to women.",
+        "Animacy category (категорія назв істот і неістот): Consistently expressed in masculine singular & plural and feminine/neuter plural where Accusative = Genitive for living beings (ба́чу ба́тька, бра́та, браті́в, жіно́к) vs. Accusative = Nominative for lifeless objects (ба́чу стіл, двір, двори́, пісні́). Feminine singular in -а/-я takes -у/-ю regardless of animacy (ба́чу жі́нку, чу́ю пі́сню). Person nouns also take a distinct Vocative case (хло́пче, жі́нко, ма́мо, бра́те); inanimate nouns take Vocative only when personified in poetry (О зе́мле, ве́летнів роди́! Пое́зіє, со́нце моє́ ора́нжеве!)."
+      ]
+    },
+    {
+      "id": "G04_ADJECTIVE_CLASSES_DEGREES",
+      "chapter": "Chapter 2 (Sections 1–2)",
+      "pages": "82–97",
+      "title": "Adjective Subclasses (Qualitative, Relative, Possessive), Short Forms, and Degrees of Comparison",
+      "explanation": "Ukrainian adjectives agree with their head noun in gender, number, and case (gender is neutralized in the plural), splitting into hard-group (тверда група: ду́жий, черво́ний) and soft-group (м'яка група: ни́жній, безкра́їй) paradigms. Semantically and morphologically they divide into qualitative (якісні), relative (відносні), and a uniquely Ukrainian/Slavic class of possessive adjectives (присвійні прикметники).",
+      "notableRules": [
+        "Possessive Adjectives (присвійні прикметники): Formed from animate personal or animal nouns with suffixes -ів/-їв (fem. -ова/-єва, neut. -ове/-єве) and -ин/-їн (ба́тьків капелю́х, бра́това кни́жка, се́стрин зо́шит, Андрі́їв, Га́ннин, учи́телева, На́стин, ма́мин, дідусі́в кожу́х, пастушко́ва сопі́лка). They correspond to English possessive 's or 'of' phrases.",
+        "Relative Adjectives (відносні прикметники): Much more productive in Ukrainian than in English, where English uses noun-noun clusters (кам'яни́й буди́нок = stone house, залі́зний міст = iron bridge, ки́ївське метро́ = Kyiv underground, господа́рські ви́трати = household expenses, насті́льна ла́мпа = table lamp).",
+        "Full vs. Short Adjectives (повні/членні vs. короткі/нечленні): Indeclinable short forms occur only in masculine nominative singular (пе́вен, по́вен, ви́нен, го́ден, рад: Буди́нок по́вен люде́й; Скі́льки я вам ви́нен?; Рад би ще раз поба́чити) as predicates, or in folkloric/poetic attributes (я́сен мі́сяць, дрі́бен до́щик, зе́лен сад).",
+        "Degrees of Comparison (ступені порівняння якісних прикметників): (1) Comparative: synthetic (-ш- / -іш-: ши́рший, білі́ший, розумні́ший) and analytical (бі́льш / менш + positive: бі́льш ціка́вий, менш ціка́вий); suppletive pairs: вели́кий — бі́льший, мали́й — ме́нший, пога́ний — гі́рший, хоро́ший/га́рний — кра́щий (лі́пший). (2) Superlative: simple (най- + comparative: найви́щий, найкра́щий), complex/strengthened (підсилений найвищий ступінь with particles як- or що-: якнайкра́щий, якнайдовши́й, щонайсильні́ший, щонайрозумні́ший), and composite (найбі́льш / найме́нш + positive: найбі́льш виба́гливий). Synthetic superlatives also express absolute elative meaning without comparison (найгли́бша пова́га, без найме́нших зуси́ль).",
+        "Non-comparable qualitative adjectives with emotional/intensive affixes: Adjectives with diminutive/caressing suffixes -есеньк-, -ісіньк-, -юсіньк-, -еньк- (мале́сенький, тоне́сенький, білі́сінький, чисті́сінький, тоню́сінький, маню́сінький, дрібне́сенький), attenuative -уват-/-юват- (зеленкува́тий, синюва́тий, темнува́тий), augmentative -езн-, -енн-, -ющ- (величе́зний, широче́зний, багатю́щий), and prefix пре- (прега́рний, предо́брий) inherently encode degree and do not form comparatives."
+      ]
+    },
+    {
+      "id": "G05_NUMERAL_CLASSES_DECLENSION",
+      "chapter": "Chapter 3 (Sections 1–2)",
+      "pages": "98–107",
+      "title": "Cardinal, Ordinal, Indefinite, Collective, and Fractional Numerals & Declension Patterns",
+      "explanation": "Ukrainian numerals encompass cardinal (кількісні), ordinal (порядкові), indefinite (неозначені), collective (збірні), and fractional (дробові) classes. Unlike indeclinable English numerals, Ukrainian numerals decline across 6 cases, though cardinal numerals exhibit specialized syncretic paradigms.",
+      "notableRules": [
+        "Collective Numerals (збірні числівники): Formed from cardinals 2–20 and 30 with suffix -ер(о) (дво́є, тро́є, че́тверо, де́сятеро, сімнадця́теро, тридця́теро) plus обо́є, оби́два (masc./neut.), оби́дві (fem.). They also form unique diminutive/caressing collective numerals (дві́йко, дво́йко, дво́єчко, трі́йко, четві́рко, обо́йко). Collective numerals have only Nominative/Accusative forms; in oblique cases they use standard cardinal forms (двох, двом, двома́; обо́х, обо́м, обома́).",
+        "Indefinite Numerals (неозначені числівники): кі́лька, де́кілька, бага́то, чима́ло, сті́льки, кільканадця́ть, кількадеся́т (rendered in English by quantitative adjectives/pronouns many, much, few, little, several).",
+        "Fractional & Mixed Numerals (дробові та змішано-дробові числівники): Numerator = cardinal in Nominative (feminine одна́, дві when modifying implied части́на), denominator = ordinal in Genitive plural (одна́ сьо́ма, одна́ четве́рта, п'ять шо́стих, нуль ці́лих і п'ять деся́тих). Bound prefix пів- attaches directly as one word to a noun in the Genitive singular (півдня́, півро́ку, піввідра́, піваркуша́, пів'я́блука). Indeclinable fractional numerals: півтора́ (masc./neut., 1.5), півтори́ (fem., 1.5), півтора́ста (150). Mixed fractions above 2 use noun полови́на (два з полови́ною = 2.5).",
+        "Declension patterns of Cardinal Numerals: (a) оди́н (одна́, одно́/одне́, одні́) declines like demonstrative той, та, те, ті (plural одні́ is used with pluralia tantum nouns: одні́ са́ни, одні́ окуля́ри, or as pronoun 'some': одні́ хло́пці); (b) Gender is distinguished only in оди́н/одна́/одне́, два/дві, оби́два/оби́дві, півтора́/півтори́ in Nom/Acc; (c) Numerals 5–90 (except 40) share a unified oblique ending -и (or -ьох/-ьом) in Genitive, Dative, and Locative (п'ятдесяти́ / п'ятдесятьо́х) and -ма/-ьма in Instrumental (шістьма́, п'ятдесятьма́); (d) Numerals 40, 90, 100 take -а in all oblique cases (сорока́, дев'яно́ста, ста); (e) Hundreds (200–900) decline BOTH parts across all 6 cases (Н. п'ятсо́т, Р. п'ятисо́т, Д. п'ятиста́м, З. п'ятсо́т/п'ятисо́т, О. п'ятьмаста́ми, М. на п'ятиста́х)."
+      ]
+    },
+    {
+      "id": "G06_PRONOUN_SYSTEM_9_CLASSES",
+      "chapter": "Chapter 4 (Sections 1–7)",
+      "pages": "108–130",
+      "title": "Nine Classes of Ukrainian Pronouns, Reflexive себе/свій, Defining Pronouns, and Double Negation",
+      "explanation": "Following Ponomariv's classification, Ukrainian pronouns divide into 9 classes: 1) personal (особові: я, ти, ми, ви) & personal-demonstrative (особово-вказівні: він, вона́, воно́, вони́), 2) reflexive (зворотний: себе́), 3) possessive (присвійні: мій, твій, наш, ваш, ї́хній, свій, plus indeclinable Genitive forms його́, її́, їх), 4) demonstrative (вказівні: той, отой, цей, оцей, таки́й, отаки́й, сті́льки, archaic/poetic сей/ся/се/сі and uncontracted та́я, ту́ю, ті́ї, ця́я, ці́ї), 5) defining (означальні: уве́сь/весь, уся́кий/вся́кий, ко́жний/ко́жен, жо́дний/жо́ден, і́нший, сам, са́мий), 6) interrogative (питальні: хто, що, яки́й, чий, котри́й, скі́льки), 7) relative (відносні: same forms linking subordinate clauses), 8) indefinite (неозначені), and 9) negative (заперечні).",
+      "notableRules": [
+        "Nuances of 3rd-person neuter pronoun воно́: Beyond inanimate neuter nouns, воно́ refers to young creatures/children (теля́, дитя́, хлоп'я́, дівча́), expresses indefiniteness or disparagement/pity toward an animate referent (Що воно́ біжи́ть так пру́дко?; Таке́ воно́ плюга́веньке!), and functions as an expressive discourse particle (Вже воно́ щось є; Щось воно́ та ви́йде). Unlike English dummy 'it' (It rains), Ukrainian never uses воно́ as a formal subject in impersonal sentences (Йде дощ; Хо́лодно).",
+        "Possessive свій and third-person його́/її́/їх vs. ї́хній: Свій (своя́, своє́, свої́) is used whenever the possessed object belongs to the clause subject regardless of person (я виконав свою́ робо́ту, ти взяв свій зо́шит, він відкри́в свій портфе́ль). Forms його́, її́, їх are indeclinable Genitives functioning as possessives, whereas ї́хній declines like an adjective for gender, number, and case. With body parts, clothing, and kin, Ukrainian typically omits possessives where English requires them (Він покла́в ру́ку в кише́ню = He put his hand in his pocket; Знімі́ть пальто́ = Take off your coat).",
+        "Reflexive себе́ vs.Defining сам: Себе́ lacks a Nominative form, gender, and number, referring back to any subject in oblique cases (Я зна́ю себе́; Вони́ зна́ють себе́; працюва́ти у себе́ вдо́ма). Emphatic/strengthening meaning ('myself/himself') is expressed by the declinable defining pronoun сам (сама́, само́, самі́: Я сам це ба́чив). English reciprocal 'each other / one another' corresponds to Ukrainian оди́н о́дного (одна́ о́дну) or reciprocal -ся verbs (Вони́ поцілува́лися).",
+        "Indefinite & Negative Pronouns and Obligatory Double Negation: Indefinite pronouns are formed with word-building particles де-, аби-, будь-, -небудь, казна-, хтозна-, -сь (де́хто, де́що, хтось, щось, хто-не́будь, будь-хто, казна-що́, абияки́й) and retain stable lexical meaning regardless of affirmative/interrogative/negative clause type (unlike English some/any). Negative pronouns (ніхто́, ніщо́, нія́кий, нічи́й, нікотри́й) ALWAYS require a negated verb predicate with не (Я не зна́ю ніко́го)."
+      ]
+    },
+    {
+      "id": "G07_FINITE_VERB_CATEGORIES_ASPECT_TENSE",
+      "chapter": "Chapter 5 (Sections 1–5)",
+      "pages": "131–160",
+      "title": "Finite Verb Conjugations, Aspectual Aktionsarten, Pluperfect Tense, and Relative Tense in Indirect Speech",
+      "explanation": "Ukrainian verbs possess 7 grammatical categories: aspect (вид), voice/state (стан), mood (спосіб), tense (час), person (особа), number (число), and gender (рід — in past and conditional only). Verbs divide into Conjugation I (3rd pl. -уть/-ють, stem vowel -е-/-є-: чита́ють, везу́ть) and Conjugation II (3rd pl. -ать/-ять, stem vowel -и-/-ї-: ро́блять, лежа́ть, стоя́ть).",
+      "notableRules": [
+        "Aspectual Subtypes (Aktionsarten / роди дії) in Ukrainian: Beyond basic imperfective/perfective pairs formed by prefixation (пита́ти — спита́ти), suffixation (спи́сувати — списа́ти), vowel alternation (вмира́ти — вме́рти), stress shift (вимі́ряти — ви́міряти), and suppletion (бра́ти — взя́ти, говори́ти — сказа́ти), Ukrainian has specialized aspectual subtypes: (a) imperfective iterative/repetitive (приспі́вувати, примовля́ти, визби́рувати); (b) perfective ingressive/beginning with за- (зашумі́ти, заспіва́ти); (c) perfective delimitative/duration with по- (поспа́в, поси́дів); (d) perfective resultative (ви́вчити, ви́конати); (e) perfective semelfactive/instantaneous with -ну- (грю́кнути, сту́кнути); (f) perfective intensive-sudden with -ону- (рубону́ти, штовхону́ти); (g) perfective distributive-repetitive with по-+prefix (поперепи́сувати, пороздава́ти, понано́сити); plus mono-aspectual imperfectives (базі́кати, почи́тувати) and perfectives (розговори́тися, начита́тися, поподу́мати).",
+        "Past Tense Consonant-Stem & -ну- Drop Rules: Formed with suffix -в (masc. zero ending), -ла (fem.), -ло (neut.), -ли (pl.). When the infinitive stem ends in a consonant, masculine singular drops -в (нести́ — ніс, сікти́ — сік, везти́ — віз). Inchoative verbs in unstressed -ну- drop -ну- in the past tense (ме́рзнути — мерз, ме́рзла; со́хнути — сох; замовкнути — замовк), whereas stressed -ну́- is retained (тягну́ти — тягну́в).",
+        "Ukrainian Pluperfect (давноминулий час) & Habitual Past 'було': Analytical pluperfect combines the past tense of the lexical verb with the past tense of бу́ти matching in gender and number (ходи́в був, ходи́ла була́, ходи́ли були́; пішо́в був) to denote a remote past action or an action preceding/interrupted by another past event. A fossilizedinvariant particle було́ expresses habitual/repeated past action across all genders and tenses (Коли́ було́ він прихо́див до нас...; Коли́ було́ вона́ співа́ла...).",
+        "Absence of Sequence of Tenses (узгодження часів) in Ukrainian Indirect Speech: Unlike English, which shifts subordinate clauses to past/future-in-the-past after a past reporting verb, Ukrainian uses relative tense anchored to the original speaker's viewpoint: simultaneous action uses Present Tense (Він сказа́в, що ця дівчи́на вчи́ться в шко́лі = He said she was studying at school), prior action uses Past Tense, and posterior action uses Future Tense (Він сказа́в, що при́йде)."
+      ]
+    },
+    {
+      "id": "G08_VERB_VOICE_REFLEXIVE_IMPERATIVE_CONDITIONAL",
+      "chapter": "Chapter 5 (Sections 6–7)",
+      "pages": "161–184",
+      "title": "Impersonal Verbs, 7 Semantic Classes of -ся Verbs, Passive Constructions, Intimate Imperatives, and Conditional Mood",
+      "explanation": "Ukrainian expresses voice/state, impersonality, and mood through synthetic and analytical-synthetic means that differ sharply from English.",
+      "notableRules": [
+        "Six Semantic Classes of Impersonal Verbs (безособові дієслова — always used without a subject in 3rd sg. present/future or neuter sg. past): 1) natural phenomena (світа́є, вечорі́є, смерка́є, свіжі́є, моро́зить, похолода́ло), 2) disasters/forces (ви́горіло, ви́сушило, залило́, ви́било гра́дом), 3) physical sensations (ну́дить, трясе́, пече́, ко́ле в бо́ці), 4) mental/emotional states & dative-experiencer -ся verbs (гніти́ть, спи́ться, сни́ться, не те́рпиться, до́бре працюва́лося), 5) existence/sufficiency (ста́лося, мину́лося, браку́є, не вистачи́ло), 6) luck/fate (пощасти́ло, талани́ть, не щасти́ть, повело́ся).",
+        "Seven Semantic Subclasses of Postfix -ся Verbs: 1) Proper reflexive (власне зворотні: умива́тися, взува́тися, голи́тися, одяга́тися), 2) Indirectly reflexive (непрямо-зворотні: готува́тися до зими́, запаса́тися ї́жею, збира́тися в доро́гу, по́ратися бі́ля пе́чі), 3) Reciprocal-reflexive (взаємно-зворотні: боро́тися, змага́тися, зустріча́тися, листува́тися, цілува́тися), 4) General reflexive (загальнозворотні — emotion/movement: смія́тися, жури́тися, зупиня́тися, дивува́тися, се́рдитися), 5) Active-objectless (активно-безоб'єктні — habitual propensity: соба́ка куса́ється, кінь брика́ється, кропива́ жа́литься), 6) Passive-qualitative / middle (пасивно-якісні: скло б'є́ться, гі́лка гне́ться, ни́тка рве́ться), 7) Reflexive-passive / imperfective actional passive (програ́ма затве́рджується, шко́ла перебудо́вується, прига́дуватися). Reflexive tantum verbs never occur without -ся (боя́тися, наді́ятися, любува́тися, смія́тися).",
+        "Passive Voice Restrictions in Ukrainian vs. English: Ukrainian forms passives ONLY from direct-transitive verbs (state passive: буди́нок був збудо́ваний; actional passive: ха́та буду́ється; impersonal passive: буди́нок було́ збудо́вано, ро́боту бу́де розпоча́то). English indirect passives (She was given a book) and prepositional passives (The doctor was sent for; This bed was not slept in) are impossible in Ukrainian and must be rendered by active or indefinite-personal 3rd-plural constructions (Їй дали́ кни́жку; За лі́карем посла́ли; На цьо́му лі́жкові ніхто́ не спав / не спа́ли).",
+        "Imperative Mood & Intimate Particles -но / -бо: Standard imperatives are 2nd sg. -и / zero (пиши́, іди́, сядь, встань, чита́й), 1st pl. -імо/-мо (несі́мо, ході́мо, чита́ймо, ста́ньмо), 2nd pl. -іть/-те (несі́ть, іді́ть, чита́йте, ста́ньте), and 3rd sg./pl. analytical хай/неха́й + present/future (Хай він ро́бить/зро́бить; Хай живе́ Украї́на!). Colloquial/intimate requests attach enclitic particles -но or -бо with a hyphen (іди́-но сюди́, скажи́-но мені́, скажи́-бо шви́дше). Categorical commands/slogans use bare infinitives (Мовча́ти! Вста́ти!).",
+        "Conditional Mood (умовний спосіб): Formed with past-tense verb (or infinitive) + movable particle би (б after vowels: чита́в би, прочита́ла б, погуля́ти б), which can fuse into conjunctions щоб, якби́, на́чебто, мо́вби. It is atemporal (usable for past, present, or future depending on context). High-intensity optative wishes/curses use particle бода́й + past tense (Бода́й ви те́рном поросли́!)."
+      ]
+    },
+    {
+      "id": "G09_NON_FINITE_VERBALS",
+      "chapter": "Chapter 6 (Sections 1–4)",
+      "pages": "185–207",
+      "title": "Non-Finite Verbals: Infinitive (with Diminutives), Participles (дієприкметник), Adverbial Participles (дієприслівник), and Translating English Gerunds",
+      "explanation": "Ukrainian has three non-finite verb forms: Infinitive (інфінітив), Participle (дієприкметник — declining like a hard-group adjective), and Adverbial Participle (дієприслівник — an indeclinable verb-adverb hybrid). Ukrainian has no Gerund; English gerunds correspond to Ukrainian infinitives, verbal nouns (віддієслівні іменники like спів, чита́ння), дієприслівники, or subordinate clauses (те, що... / щоб...).",
+      "notableRules": [
+        "Infinitive & Diminutive Infinitives: Standard suffixes are -ти (coll./poetic -ть: пла́кати, роби́ть). Uniquely among Indo-European languages, Ukrainian forms diminutive/caressing infinitives used in folklore and child-directed speech: спа́тоньки, ї́стоньки, пи́тоньки, спату́сі, купця́ти.",
+        "Ukrainian Participles (дієприкметники): (1) Present Active Participles in -уч-/-юч-, -ач-/-яч- (росту́чий, вико́нуючий, пра́влячий, ся́юче обличчя́, темні́юче не́бо) are rare in modern literary Ukrainian and usually replaced by relative clauses (той, що/яки́й росте́) or lexicalized adjectives (лежа́чий, сидя́чий); (2) Past Active Participles in -л- are formed ONLY from prefixed perfective intransitive state-change verbs (пожо́вклий, посиві́лий, осироті́лий, зітлі́лий, скам'яні́лий, помертві́лий, сху́длий, нави́слий); (3) Past Passive Participles are formed with -н-, -ен-/-єн-, -т- (напи́саний, зга́даний, веле́ний, вжи́тий, ми́тий, кри́тий) and when formed from imperfective stems can express present ongoing passivity (обгово́рюване пита́ння, вжи́ваний за́сіб).",
+        "Ukrainian Adverbial Participles (дієприслівники): (1) Imperfective ('present') formed from present tense stem + -учи(сь)/-ючи(сь), -ачи(сь)/-ячи(сь) (пи́шучи, співа́ючи, не́сучись, ле́жачи, сто́ячи) expresses an action simultaneous with the main predicate; (2) Perfective ('past') formed from masculine past stem + -ши(сь)/-вши(сь) (прині́сши, прочита́вши, уми́вшись, прийшо́вши) expresses prior action OR immediate sequential action."
+      ]
+    },
+    {
+      "id": "G10_ADVERBS_STATIVES_FUNCTIONAL_WORDS",
+      "chapter": "Chapters 7 & 8",
+      "pages": "208–244",
+      "title": "Adverbs, Words of the Category of State (слова категорії стану), Prepositions, Conjunctions, Particles, Modal Words, and Interjections",
+      "explanation": "Covers the morphology, semantics, and syntax of Ukrainian modifiers, statives, and functional parts of speech.",
+      "notableRules": [
+        "Adverbs of Location vs. Direction & Manner: Unlike English which uses the same word for location and direction (here, there, where, inside, outside, nowhere), Ukrainian strictly distinguishes static location vs. dynamic direction: тут — сюди́, там — туди́, де — куди́, вдо́ма/до́ма — додо́му, всере́дині — всере́дину, зо́вні — назо́вні, збо́ку — вбік, ні́де — ніку́ди. Manner/comparison adverbs are formed with hyphenated prefix по- (по-до́брому, по-дитя́чому, по-во́вчому, по-ба́тьківськи, по-коза́цьки, по-ва́шому) or bare Instrumental nouns (крути́вся ко́лесом, дим ва́лить стовпо́м, іти́ кро́ком, весно́ю). Diminutive adverbs are highly productive: швиде́нько, давне́нько, смачне́нько, точні́сінько, тихе́сенько, недале́чко, зма́лечку, о́сьдечки.",
+        "Words of the Category of State (слова категорії стану / присудкові слова): Indeclinable words functioning as the main predicate of impersonal one-member sentences, divided into: (a) physical/psychic states of a person (ва́жко, ле́гко, бо́ляче, стра́шно, приє́мно, доса́дно, бо́язко, триво́жно, чу́тно, and noun-origin страх, жаль, шко́да, охо́та, лі́ньки), (b) states of nature/environment (ти́хо, те́мно, ви́дно, хо́лодно, те́пло, вітря́но, пу́сто, ра́но, пі́зно), and (c) modal predicates with infinitives (мо́жна, не мо́жна, тре́ба, потрі́бно, слід, необхі́дно, доці́льно).",
+        "Prepositions (>220 in Ukrainian, 137 spatial): Divided into primary (на, у/в, за, од/від, без, для, з/із/зі, між, крізь, під, по, при, про, ра́ди, че́рез, о/об) and secondary/derivative — adverbial (навко́ло, бли́зько, згі́дно з, круго́м, поблизу́, по́руч, неподалі́к), nominal (край, кіне́ць, про́тягом, ко́ло, у на́прямі до), and verbal (завдяки́, виключа́ючи, незважа́ючи на); structurally simple, compound (пове́рх, зара́ди, по́за, що́до, з-по́між, попід), or composite (услід за, у зв'язку́ з). Unlike English, Ukrainian prepositions cannot be stranded at the end of a clause and always govern a specific oblique case.",
+        "Conjunctions, Particles, Modal Words & Interjections: Coordinating conjunctions include copulative (і/й, та, та й, ні... ні, ані... ані, як... так і, не ті́льки... а й), adversative (а, але́, та, проте́, зате́, одна́к), and disjunctive (або́, чи, то... то, не то... не то, чи то... чи то). Particles include pointing (ось, он, о́нде), defining (са́ме, якра́з, то́чно), limiting (на́віть, ті́льки, лише́), modal/affirmative/interrogative (мовля́в, ні́би, так, еге́, ато́ж, авже́ж, чи, хіба́, невже́), and emotive (як, що за, адже́). Parenthetical modal words (вставні слова) express certainty (звича́йно, безпере́чно, безсумні́вно, безумо́вно, пе́вна річ), probability (ма́буть, пе́вно, можли́во, напе́вно, імові́рно, здає́ться, ка́жуть), evaluation (на ща́стя, на ра́дість, як на біду́, нівро́ку, навдивови́жу), or discourse order (по-пе́рше, по-мо́єму, зре́штою, мі́ж і́ншим, щопра́вда, а втім). Interjections include primary (ой!, ох!, ех!, гей!, ого́!), secondary (го́ді!, шаба́ш!, цить!, добри́день!), and plural imperative interjections ци́тьте! and ге́тьте!"
+      ]
+    },
+    {
+      "id": "G11_SYNTAX_SIMPLE_SENTENCE_ONE_MEMBER_SECONDARY_PREDICATION",
+      "chapter": "Chapters 9 & 10",
+      "pages": "245–281",
+      "title": "Syntactic Relations, One-Member Sentences (односкладні речення), Case-Governed Objects/Modifiers, and Translating English Secondary Predication",
+      "explanation": "Contrasts Ukrainian and English sentence structure, highlighting Ukrainian's high proportion of morphological agreement (53% of word-groups vs. 24% in English), rich inventory of subjectless one-member sentences, and case-marked objects and adverbials.",
+      "notableRules": [
+        "Seven Types of Ukrainian One-Member Sentences (односкладні речення): 1) Definite-personal (означено-особові — 1st/2nd person verb without pronoun: Ві́рю в па́м'ять і се́рце людське́; При́йду; Сміли́во ж, бра́ття, до пра́ці става́йте!), 2) Indefinite-personal (неозначено-особові — 3rd pl. present/future or plural past without subject: Ка́жуть, що його́ нема́є; У нас встаю́ть ра́но; Почина́ли засві́чувати ліхтарі́), 3) Generalizing-personal (узагальнено-особові — 2nd sg. proverbs/maxims: Старо́го горобця́ на поло́ві не обду́риш; Даро́ваним коне́м не наї́здишся; Без нау́ки не обійде́шся), 4) Impersonal verbal (безособові: Сутені́є; Нема́є мі́сця; Дові́ку не бу́де із ме́не раба́), 5) Stative/adverbial impersonal (Тре́ба йти додо́му; Йому́ ве́село за́раз; Як ти́хо й лю́бо навкруги́!), 6) Impersonal passive in -но/-то (Під бі́лими бере́зами козаче́нька вби́то; Гурто́житок засе́лено студе́нтами), 7) Infinitive sentences (Що роби́ти? Мені́ вас не суди́ти; Тя́жко-ва́жко умира́ти у чужо́му кра́ю!) and Nominative sentences (називні: Ве́чір. Ніч. По́ле. Шляхи́.).",
+        "Four Classes of Ukrainian Link-Verbs in Compound Nominal Predicates: 1) Being/naming (бу́ти — zero in present tense, зна́чити, зва́тися, назива́тися: Вона́ була́ вдово́ю), 2) Becoming/transition (ста́ти, става́ти, роби́тися, зроби́тися, опини́тися: Ду́же ти став розу́мний; ста́ти парубко́м), 3) Preserving state (лиша́тися, зостава́тися: Лице́ його́ зостава́лося спокі́йне), 4) Seeming/ascribing (здава́тися, вважа́тися, уявля́тися: Він здава́вся мені́ хоро́брим).",
+        "Genitive vs. Accusative Direct Objects in Ukrainian: Direct objects take the Genitive instead of Accusative in four specific contexts: (1) under negation (Він не чита́в газе́т; не діста́в папе́ру), (2) partitive quantity (Я дав йому́ води́; купи́ли ме́ду; нали́ти води́), (3) singular countable objects taken for temporary use or idioms (взяв ножа́, попроси́в олівця́, оде́ржав листа́), and (4) plural animal nouns allowing parallel Genitive or Nominative-Accusative forms (догляда́ю ове́ць / ві́вці, кіз / ко́зи — whereas human plurals strictly take Genitive-Accusative: вихо́вую діте́й).",
+        "Bare Case Adverbial Modifiers (without prepositions): Place in bare Instrumental (лети́ть луга́ми, берега́ми, степа́ми) or Accusative (ї́дуть по́ле); Time in bare Genitive (одно́го ве́чора, насту́пного дня, пі́зньої но́чі), bare Instrumental (весно́ю, лі́том, вечора́ми, ноча́ми, ра́нками), or bare Accusative (іти́муть всю ніч, сей рік); Manner/comparison in bare Instrumental (іду́ ти́хою ходо́ю, згорну́вшись бу́бликом, білі́ла срі́бною стрі́чкою).",
+        "Translating English Structures of Secondary Predication (SSP) into Ukrainian: Because Ukrainian lacks Complex Object (I saw him go / her playing), Complex Subject (He was reported to have arrived), For-to-Infinitive (for you to do this), and Gerundial/Absolute Participial complexes (The lesson being over...; his attention fixed on...), these must be transformed in Ukrainian into full subordinate clauses with conjunctions що, як, щоб, коли́, оскі́льки, пі́сля то́го як (Я ба́чив, як він пішо́в; Повідо́мили, що він уже́ прибу́в; Пі́сля то́го як заня́ття закінчи́лися...) or prepositional verbal nouns (пі́сля закінче́ння заня́ть)."
+      ]
+    },
+    {
+      "id": "G12_SYNTAX_COMPOUND_AND_COMPLEX_SENTENCES",
+      "chapter": "Chapters 11 & 12",
+      "pages": "282–309",
+      "title": "Compound Sentences (including Suddenness Clauses) and Complex Sentences with Main-Clause Correlatives",
+      "explanation": "Examines coordination and subordination in Ukrainian composite sentences, highlighting Ukrainian-specific conjunctions, correlative pronouns in matrix clauses, and punctuation rules.",
+      "notableRules": [
+        "Nuances of Ukrainian Coordinating Conjunctions: Conjunction і (й) expresses copulative, adjoining, enumerative, consecutive, and causative relations; а expresses contrast/juxtaposition (У те́бе своя́ ду́мка, а у ме́не своя́; Він ішо́в попере́ду, а я поза́ду) or consequence; а то means 'otherwise / or else' (До́бре, що вони́ роззу́лися, а то нароби́ли б шу́му); та can be copulative (= і) or adversative/concessive (= але́). Particles ті́льки, лише́, таки́ can function as adversative conjunctions.",
+        "Compound Sentences with the Meaning of Suddenness (складносурядні речення із значенням раптовості): A distinctive Ukrainian expressive construction where the first clause often contains a verb of perception or calm state (диви́тися, гля́нути, ба́чити, сиді́ти, іти́) and the second clause is introduced by аж, коли́, як (or a dash) to mark a sudden, unexpected turn of events: Ой пішла́ я у яр за водо́ю, аж там ми́лий гуля́є з дру́гою; Сього́дні вра́нці я спокі́йно сиджу́ вдо́ма, коли́ дзво́нить твій секрета́р; Дивлю́сь — аж он пере́до мно́ю нена́че дива́ вирина́ють.",
+        "Complex Sentences with Main-Clause Correlatives (корелятивні / вказівні слова): Ukrainian complex sentences systematically pair a demonstrative/correlative word in the matrix clause with a relative pronoun or conjunction in the subordinate clause: Subject clauses (Перемага́є той, хто невідсту́пно бо́реться; Всі, хто поба́чив його́, вклони́лися), Predicative clauses (Він не таки́й, щоб без ді́ла сиді́ти; Ми — ті, що ви хоті́ли ба́чити), Object clauses (Скориста́вшись з то́го, що я відверну́вся...), Place clauses (Я пої́ду туди́, де живе́ мій брат; Зві́дти, зві́дки...), Time clauses (пі́сля то́го, як...; з то́го ча́су, як...; в мі́ру то́го, як...), Manner/Comparison clauses (Він ішо́в так, на́че/мов/ні́би до́бре знав доро́гу), Proportional Degree clauses (Чим ви́ще де́рево, тим гли́бше йде корі́ння; Що да́лі ми загли́блювалися в ліс, то темні́ше става́ло), Condition clauses with то in apodosis (Якби́ я зна́ла..., то ще б підожда́ла), and Concession clauses with а проте́ / одна́к (Хоч уже́ ли́стя па́дало, а проте́ було́ те́пло).",
+        "Punctuation of Attributive & Complex Clauses: Unlike English, which omits commas before restrictive relative clauses, Ukrainian ALWAYS separates all subordinate clauses (including restrictive attributive clauses introduced by яки́й, котри́й, чий, що, де) with commas."
+      ]
+    }
+  ],
+  "vocabularyThemes": [
+    {
+      "theme": "Ukrainian Linguistic & Grammatical Terminology (Метамова граматики)",
+      "cefrLevel": "B2–C1",
+      "words": [
+        { "uk": "іме́нник", "en": "noun", "notes": "назви істот (animate) vs. назви неістот (inanimate); власні назви (proper) vs. загальні назви (common); збірні іменники (collective nouns)" },
+        { "uk": "прикме́тник", "en": "adjective", "notes": "якісні (qualitative), відносні (relative), присвійні (possessive); тверда і м'яка групи (hard & soft groups)" },
+        { "uk": "числі́вник", "en": "numeral", "notes": "кількісні (cardinal), порядкові (ordinal), збірні (collective), дробові (fractional), неозначені (indefinite)" },
+        { "uk": "займе́нник", "en": "pronoun", "notes": "особові (personal), зворотний (reflexive), присвійні (possessive), вказівні (demonstrative), означальні (defining), питальні (interrogative), відносні (relative), неозначені (indefinite), заперечні (negative)" },
+        { "uk": "дієсло́во", "en": "verb", "notes": "доконаний вид (perfective) vs. недоконаний вид (imperfective); перехідні (transitive) vs. неперехідні (intransitive); перша і друга дієвідміни (1st & 2nd conjugations); безособові дієслова (impersonal verbs)" },
+        { "uk": "дієприкме́тник", "en": "participle (adjectival verbal)", "notes": "активні (active) та пасивні (passive); безособові форми на -но, -то" },
+        { "uk": "дієприслі́вник", "en": "adverbial participle (gerundial verbal)", "notes": "недоконаного виду (-учи/-ючи, -ачи/-ячи) та доконаного виду (-ши/-вши)" },
+        { "uk": "прислі́вник", "en": "adverb", "notes": "означальні (defining) та обставинні (circumstantial); слова категорії стану (words of the category of state)" },
+        { "uk": "прийме́нник", "en": "preposition", "notes": "первинні (primary) та вторинні/похідні (secondary/derived)" },
+        { "uk": "сполу́чник", "en": "conjunction", "notes": "сурядності (coordinating: єднальні, протиставні, розділові) та підрядності (subordinating)" },
+        { "uk": "ча́стка", "en": "particle", "notes": "фразові (phrase), словотворчі (word-building), формотворчі (form-building)" },
+        { "uk": "ви́гук", "en": "interjection", "notes": "емоційні, спонукальні, етикетні, звуконаслідувальні" },
+        { "uk": "відмі́нок і відмі́на", "en": "case and declension", "notes": "Називний (Nom), Родовий (Gen), Давальний (Dat), Знахідний (Acc), Орудний (Inst), Місцевий (Loc), Кличний (Voc); I, II, III, IV відміни" },
+        { "uk": "спо́сіб дієсло́ва", "en": "verbal mood", "notes": "дійсний (indicative), наказовий (imperative), умовний (conditional)" },
+        { "uk": "чле́ни ре́чення", "en": "parts of the sentence", "notes": "головні: підмет (subject), присудок (predicate — простий, складений іменний, складений дієслівний); другорядні: додаток (object), означення (attribute — узгоджене/неузгоджене), обставина (adverbial modifier); вставні слова (parenthetical words)" },
+        { "uk": "синтакси́чні зв'язки́", "en": "syntactic connections", "notes": "узгодження (agreement), керування (government), прилягання (adjoinment); односкладні та двоскладні речення; складносурядні та складнопідрядні речення" }
+      ]
+    },
+    {
+      "theme": "Collective, Material & Pluralia Tantum Nouns",
+      "cefrLevel": "B1–B2",
+      "words": [
+        { "uk": "студе́нтство / людство́ / коза́цтво / пта́ство", "en": "student body / humanity / Cossackdom / birds collectively", "notes": "Singularia tantum collective nouns in -ство/-цтво" },
+        { "uk": "кінно́та / парубо́та / мале́ча / старе́ча", "en": "cavalry / young lads / little children / old folks", "notes": "Singularia tantum collective nouns in -ота / -еча" },
+        { "uk": "насі́ння / корі́ння / картопли́ння / капусти́ння / ластови́ння", "en": "seeds / roots / potato tops / cabbage leaves / freckles", "notes": "Neuter collective nouns in -інн(я)/-инн(я)" },
+        { "uk": "дрі́жджі / вершки́ / консе́рви / ви́сівки", "en": "yeast / cream / canned food / bran", "notes": "Pluralia tantum material/food nouns" },
+        { "uk": "но́жиці / окуля́ри / штани́ / клі́щі / ви́ла / граблі́ / са́ни / воро́та", "en": "scissors / eyeglasses / trousers / pliers / pitchfork / rake / sledge / gate", "notes": "Pluralia tantum paired/composite objects" },
+        { "uk": "су́тінки / при́морозки / бу́дні / рокови́ни / імени́ни / вечорни́ці / обжи́нки", "en": "twilight / light frosts / weekdays / anniversary / name-day / evening gathering / harvest festival", "notes": "Pluralia tantum time, weather & ceremonial nouns" },
+        { "uk": "пу́стощі / ре́внощі / хва́стощі / деба́ти / заробі́тки", "en": "pranks / jealousy / boasting / debates / earnings", "notes": "Pluralia tantum abstract/action nouns" }
+      ]
+    },
+    {
+      "theme": "Impersonal Verbs, Stative Predicates & Reflexive Everyday Verbs",
+      "cefrLevel": "A2–B2",
+      "words": [
+        { "uk": "світа́є / вечорі́є / смерка́є / сутені́є / моро́зить / похолода́ло", "en": "it is dawning / evening is falling / it is growing dusk / it is freezing / it got cold", "notes": "Subjectless impersonal nature verbs" },
+        { "uk": "пощасти́ло / талани́ть / браку́є / вистача́є / ста́лося / мину́лося", "en": "got lucky / is lucky / is lacking / is enough / happened / passed", "notes": "Impersonal verbs of fate, sufficiency, and occurrence (+ Dative/Genitive)" },
+        { "uk": "ну́дить / трясе́ / пече́ / ко́ле / спи́ться / сни́ться / не те́рпиться", "en": "feels nauseous / shivers / burns / stings / sleeps well / dreams / cannot wait", "notes": "Impersonal physical and mental state verbs" },
+        { "uk": "бо́язко / стра́шно / доса́дно / триво́жно / бо́ляче / шко́да / жаль / мо́жна / тре́ба / слід / необхі́дно", "en": "fearful / scary / annoying / anxious / painful / a pity / allowed / necessary / ought to", "notes": "Words of the category of state (слова категорії стану)" },
+        { "uk": "умива́тися / взува́тися / одяга́тися / голи́тися / чепури́тися", "en": "to wash oneself / put on shoes / dress / shave / spruce up", "notes": "Proper reflexive verbs" },
+        { "uk": "змага́тися / боро́тися / листува́тися / зустріча́тися / мири́тися", "en": "to compete / struggle / correspond / meet each other / reconcile", "notes": "Reciprocal-reflexive verbs" },
+        { "uk": "жури́тися / дивува́тися / се́рдитися / обража́тися / сподіва́тися / пиша́тися", "en": "to grieve / marvel / be angry / take offense / hope / be proud of", "notes": "General emotional reflexive verbs" }
+      ]
+    },
+    {
+      "theme": "Adverbs, Discourse Particles, Conjunctions & Parenthetical Modals (Вставні слова)",
+      "cefrLevel": "B1–C1",
+      "words": [
+        { "uk": "тут — сюди́ / там — туди́ / де — куди́ — зві́дки / вдо́ма — додо́му / зо́вні — назо́вні", "en": "here (loc/dir) / there (loc/dir) / where (loc/dir/from) / at home — homeward / outside (loc/dir)", "notes": "Static location vs. dynamic direction adverb pairs" },
+        { "uk": "швиде́нько / тихе́сенько / давне́нько / смачне́нько / точні́сінько / зма́лечку / навсібі́ч / навмання́ / спересе́рдя / спросо́ння / зо́палу / на́вмисне", "en": "quickly (dim.) / very quietly / quite a while ago / deliciously /exactlys / from childhood / in all directions / at random / in anger / half-asleep / rashly / on purpose", "notes": "Expressive & circumstantial Ukrainian adverbs" },
+        { "uk": "по-до́брому / по-дитя́чому / по-ба́тьківськи / по-коза́цьки / по-мо́єму / по-пе́рше", "en": "amicably / like a child / like a father / Cossack-style / in my opinion / firstly", "notes": "Hyphenated по- adverbs" },
+        { "uk": "ма́буть / безпере́чно / безумо́вно / щопра́вда / зре́штою / мі́ж і́ншим / на ща́стя / як на біду́ / нівро́ку / навдивови́жу / а втім", "en": "probably / undoubtedly / unconditionally / true/admittedly / after all / by the way / fortunately / unfortunately / knock on wood / wonderfully / however", "notes": "Parenthetical modal expressions (вставні слова)" },
+        { "uk": "не ті́льки... а й / чи то... чи то / не то... не то / проте́ / зате́ / одна́к / оскі́льки / дарма́ що / незважа́ючи на те що / чим... тим / що... то", "en": "not only... but also / whether... or / neither... nor / however / on the other hand / nevertheless / since / despite the fact that / the more... the more", "notes": "Advanced coordinating & subordinating conjunctions" }
+      ]
+    }
+  ],
+  "prerequisiteGraph": [
+    {
+      "topic": "Synthetic vs. Analytical Word Structure & Word Order (G01)",
+      "prerequisites": [],
+      "unlocks": [
+        "Four Noun Declensions & 7-Case System (G03)",
+        "Expressing Definiteness via Theme/Rheme Word Order (G01)",
+        "Finite Verb Conjugations I & II (G07)"
+      ]
+    },
+    {
+      "topic": "Noun Subclasses, Gender, Animacy & Number (G02, G03)",
+      "prerequisites": [
+        "Synthetic vs. Analytical Word Structure & Word Order (G01)"
+      ],
+      "unlocks": [
+        "Adjective Agreement, Possessive Adjectives & Degrees of Comparison (G04)",
+        "Numeral-Noun Case Government & Collective/Fractional Numerals (G05)",
+        "Pronoun Declension & Animacy/Gender Reference (G06)",
+        "Genitive vs. Accusative Direct Objects & Bare Case Adverbials (G11)"
+      ]
+    },
+    {
+      "topic": "Adjective Agreement, Possessive Adjectives & Degrees of Comparison (G04)",
+      "prerequisites": [
+        "Noun Subclasses, Gender, Animacy & Number (G02, G03)"
+      ],
+      "unlocks": [
+        "Ordinal Numeral Agreement (G05)",
+        "Agreed vs. Non-Agreed Attributes (G11)",
+        "Active & Passive Participles (дієприкметники) (G09)"
+      ]
+    },
+    {
+      "topic": "Finite Verb Conjugations, Aspect & Tense System (G07)",
+      "prerequisites": [
+        "Synthetic vs. Analytical Word Structure & Word Order (G01)",
+        "Pronoun Declension & Animacy/Gender Reference (G06)"
+      ],
+      "unlocks": [
+        "Reflexive -ся Verbs, Passive Voice & Impersonal Verbs (G08)",
+        "Imperative & Conditional Moods (G08)",
+        "Non-Finite Verbals: Participles & Adverbial Participles (G09)",
+        "Relative Tense in Indirect Speech Object Clauses (G07, G12)"
+      ]
+    },
+    {
+      "topic": "Non-Finite Verbals & Secondary Predication Contrast (G09, G11)",
+      "prerequisites": [
+        "Finite Verb Conjugations, Aspect & Tense System (G07)",
+        "Adjective Agreement, Possessive Adjectives & Degrees of Comparison (G04)"
+      ],
+      "unlocks": [
+        "Translating English Complex Object/Subject, Gerunds & Absolute Constructions into Ukrainian Subordinate Clauses (G11, G12)"
+      ]
+    },
+    {
+      "topic": "Simple Sentence Syntax & One-Member Sentences (G10, G11)",
+      "prerequisites": [
+        "Reflexive -ся Verbs, Passive Voice & Impersonal Verbs (G08)",
+        "Adverbs, Words of the Category of State & Functional Parts of Speech (G10)"
+      ],
+      "unlocks": [
+        "Compound Sentences (including Suddenness Clauses) & Complex Sentences with Correlatives (G12)"
+      ]
+    }
+  ],
+  "instructionalAndExerciseApproaches": [
+    {
+      "approach": "Five-Criterion Part-of-Speech Contrastive Matrix (Tertium Comparationis)",
+      "description": "Every part of speech in Chapters 1–8 is systematically contrasted between English and Ukrainian across 5 explicit parameters: (1) lexico-grammatical meaning, (2) stem-building morphemes (affixes), (3) grammatical categories & paradigms, (4) combinability/valency (left-hand vs. right-hand, agreement/government/adjoinment), and (5) syntactic functions in the sentence. This provides a rigorous, uniform template for grammar reference cards."
+    },
+    {
+      "approach": "Isomorphic vs. Allomorphic Feature Highlighting",
+      "description": "Explicitly separates shared structural features (isomorphisms, e.g., existence of 3 degrees of comparison or 3 moods) from language-unique features (allomorphisms, e.g., Ukrainian possessive adjectives батьків/сестрин, collective numerals двоє/троє, reflexive postfix -ся, intimate imperatives іди-но, diminutive infinitives спатоньки vs. English articles, gerunds, and secondary predication nexuses), preventing L1 interference for English-speaking learners."
+    },
+    {
+      "approach": "Authentic Literary & Journalistic Corpus Identification Drills",
+      "description": "Pairs English corpus sentences (from Biber, Conrad & Leech's Longman Student Grammar across conversation, fiction, newspaper, and academic registers) with authentic Ukrainian literary and journalistic passages (T. Shevchenko, I. Franko, Lesya Ukrainka, M. Kotsyubynsky, M. Rylsky, O. Honchar, L. Kostenko, V. Stus, Ostap Vyshnya, and linguistic essays from 'Урок Української') where learners classify morphological categories and syntactic roles in real texts."
+    },
+    {
+      "approach": "Structural Transformation & Cross-Language Recoding Drills",
+      "description": "Requires learners to translate and structurally transform constructions where surface structures diverge between English and Ukrainian—such as converting English passive indirect/prepositional objects ('She was given a book', 'The doctor was sent for') into Ukrainian active/indefinite-personal clauses ('Їй дали книжку', 'За лікарем послали'), or unpacking English Complex Object/Subject and Gerundial complexes into Ukrainian subordinate clauses with що/як/щоб."
+    },
+    {
+      "approach": "Syntactic Connection Triaging (Узгодження, Керування, Прилягання)",
+      "description": "Trains learners to analyze 20+ Ukrainian word-combinations (e.g., червоний від хвилювання, моє захоплення, їхня участь, ключі від помешкання, лігши на диван, ішов не поспішаючи) by identifying the head word and classifying the dependency as morphological agreement (узгодження), case/prepositional government (керування), or invariant adjoinment (прилягання)."
+    }
+  ],
+  "novelLinguisticDetailsNotInApp": [
+    {
+      "category": "Morphology & Word-Formation",
+      "details": [
+        "Possessive Adjectives (присвійні прикметники) formed from personal/kin nouns with -ів/-їв (-ова/-єва, -ове/-єве) and -ин/-їн (батьків, братів, сестрин, мамин, Настин, Андріїв, Ганнин, учителева, дідусів кожух) and their full gender/number/case agreement.",
+        "Short (uninflected) predicative adjectives in masculine nominative singular (певен, повен, винен, годен, рад: Будинок повен людей; Скільки я вам винен?) and folkloric/poetic short attributes (ясен місяць, дрібен дощик, зелен сад).",
+        "Strengthened Superlative Degree of adjectives and adverbs with prefixes як- and що- (якнайкращий, якнайбільший, якнайшвидше, щонайсильніший, щонайрозумніший) and absolute elative usage (найглибша повага, без найменших зусиль).",
+        "Extensive inventory of 53 noun diminutive suffixes, adjective/adverb suffixes of subjective appraisal (-есеньк-, -ісіньк-, -юсіньк-, -еньк-: білісінький, чистісінький, тонюсінький, манюсінький, тихесенько, швиденько), augmentative noun/adjective suffixes (-ил-, -ищ-, -ук-/-юк-, -уг-/-юг-, -ан/-ань, -яр, -езн-, -енн-, -ющ-: вовчище, каменюка, величезний, багатющий), and uniquely Ukrainian diminutive infinitives (спатоньки, їстоньки, питоньки, спатусі).",
+        "Complete classification of Ukrainian Collective Nouns (-ство/-цтво, -н(я), -инн(я)/-овинн(я), -ота, -еча) and cross-linguistic Singularia/Pluralia Tantum mismatches (e.g., Ukrainian plural-only дріжджі, гроші, канікули, вила, граблі, ворота, сани, шахи, сутінки, роковини, ревнощі vs. Ukrainian singular-only одяг, сміття, зміст, зелень, картопля, морква, цибуля).",
+        "Collective Numerals (двоє, троє, четверо... тридцятеро; обоє, обидва/обидві), their diminutive forms (двійко, трійко, четвірко, обойко), fractional numeral syntax (півдня, півроку, півтора/півтори, півтораста, два з половиною, п'ять шостих), and dual-part declension of hundreds (п'ятсот -> п'ятисот, п'ятистам, п'ятьмастами, на п'ятистах).",
+        "Seven semantic subclasses of -ся reflexive verbs (proper, indirect, reciprocal, general, active-objectless кусається/брикається, passive-qualitative скло б'ється, and reflexive-passive), plus fine-grained verbal Aktionsarten (iterative приспівувати, semelfactive грюкнути, intensive-sudden рубонути/штовхонути, distributive попереписувати/пороздавати, mono-aspectual розговоритися/поподумати).",
+        "Ukrainian Pluperfect Tense (давноминулий час: ходив був, ходила була, пішов був), habitual past particle було (Коли було він приходив...), intimate imperative particles -но / -бо (іди-но сюди, скажи-бо швидше), optative conditional particle бодай (Бодай ви терном поросли!), and plural imperative interjections (цитьте!, гетьте!)."
+      ]
+    },
+    {
+      "category": "Syntax & Contrastive Translation Rules",
+      "details": [
+        "Expressing English definite/indefinite article meanings in Ukrainian via Theme/Rheme word order (Хлопчик чекає на вас = The boy vs. Вас чекає хлопчик = A boy) and rules for when optional determiners (якийсь, один, цей, той) should or should not be used.",
+        "Relative tense usage (absence of English Sequence of Tenses) in Ukrainian indirect speech object clauses (Він сказав, що ця дівчина вчиться в школі).",
+        "Four contexts requiring Genitive instead of Accusative for direct objects in Ukrainian: (1) negated transitive verbs (не читав газет), (2) partitive quantities (дав води, купили меду), (3) singular countable objects taken for temporary use (попросив олівця, взяв ножа, одержав листа), and (4) parallel Accusative=Genitive vs. Accusative=Nominative in plural animal nouns (доглядаю овець/вівці, кіз/кози).",
+        "Comprehensive taxonomy of 7 Ukrainian one-member sentence types (означено-особові, неозначено-особові, узагальнено-особові, безособові дієслівні, безособові предикативно-прислівникові зі словами категорії стану, речення на -но/-то, інфінітивні, та називні речення).",
+        "Bare case adverbial modifiers without prepositions (spatial Instrumental лугами, берегами, степами; temporal Genitive одного вечора, наступного дня, пізньої ночі; temporal Instrumental весною, вечорами, ночами; manner/comparison Instrumental тихою ходою, згорнувшись бубликом, дим валить стовпом).",
+        "Systematic translation rules for rendering English Secondary Predication (Complex Object, Complex Subject, For-to-Infinitive, Gerundial & Absolute Participial complexes) and English indirect/prepositional passives (She was given a book; The doctor was sent for; This bed was not slept in) into natural Ukrainian subordinate clauses and active/indefinite-personal constructions.",
+        "Expressive Ukrainian compound sentences with the meaning of suddenness (складносурядні речення із значенням раптовості) using аж, коли, як after perception/state verbs (Дивлюсь — аж он...; Сиджу вдома, коли дзвонить...), and complex sentence matrix correlative pairings (той... хто, те... що, такий... який, туди... де, чим... тим, що... то)."
+      ]
+    }
+  ]
+}

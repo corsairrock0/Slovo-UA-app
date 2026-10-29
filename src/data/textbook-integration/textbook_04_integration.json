@@ -1,0 +1,46 @@
+{
+  "textbookNumber": 4,
+  "filename": "652675263-Ukrainian-Textbook_a3820c80.pdf",
+  "title": "Teach Yourself Ukrainian (Complete Course in Spoken and Written Ukrainian, 300 pp., 18 Units)",
+  "authors": ["Olena Bekh", "James Dingley"],
+  "publisher": "Hodder & Stoughton / Contemporary Books (1997 / 2003)",
+  "integratedAt": "2026-10-29",
+  "cefrCoverage": "A0 to B2 (18 communicative units covering greetings, hospitality, Kyivan Rus' & Cossack heritage, banking & joint ventures, Boryspil customs & air travel, night sleeper trains & urban transport, apartment rental, Odesa sights, restaurant dining & Ukrainian dishes, birthday toasts, polyclinic health care, appearance & personality portraits, and media/press)",
+  "extractedTopics": [
+    "Three ways to state & ask names (Моє ім'я... / Моє прізвище... vs. Мене звуть...) and formal introductions (Дозвольте відрекомендуватися)",
+    "Stress contrast between про́шу ('please / you're welcome / go ahead') and прошу́ ('I request / ask')",
+    "Modal contrast могти́ (circumstantial ability) vs. умі́ти/вмі́ти (learned skill), ма́ти + Infinitive ('to be supposed to / have to'), and Present Tense for ongoing duration with уже́/вже",
+    "Feminine animate Accusative plural (= Genitive plural: сесте́р, киць), Ukrainian surname declension (па́на Малярчука́ vs. indeclinable па́ні Малярчу́к), and проси́ти ('ask for') vs. пита́ти ('ask a question')",
+    "Past/Future of possession (У ме́не був/була́/були́ vs. impersonal У ме́не не було́ / не бу́де + Genitive), 4-way spatial prepositions (в / до / з / від університе́ту), and substantivized neuter ново́го (Що в те́бе ново́го?)",
+    "Inclusive plural Ми з дру́гом ('My friend and I'), Instrumental of path (гуля́ти ву́лицями Ки́єва), володі́ти мо́вою (+ Inst.) vs. зна́ти мо́ву (+ Acc.), гра́ти в (+ Acc. sports) vs. гра́ти на (+ Loc. musical instruments), and celebration formulas (Віта́ю з + Inst. vs. Бажа́ю + Gen.)",
+    "Three ways to say 'than' in comparisons (ніж + Nom., від + Gen., за + Acc.), якомо́га + comparative ('as ... as possible'), той са́мий vs. таки́й са́мий, не той ('the wrong one'), and сам vs. са́мий vs. са́ме",
+    "Gender-sensitive reciprocal pronouns (оди́н о́дного / одна́ о́дну / одне́ о́дного), phonetic assimilation of -шся [sʲsʲa] and -ться [tsʲtsʲa], and meaning-shifting -ся pairs (розрахо́вувати vs. розрахо́вуватися)",
+    "Approximation by noun-numeral inversion (до́ларів п'ятдеся́т, хвили́н де́сять), stress & vowel insertion in дві копі́йки vs. п'ять копійо́к, що- + Genitive frequency compounds (щодня́, щоти́жня, щомі́сяця, щоро́ку), and compound ordinal years",
+    "Purpose & wish clauses: щоб + Infinitive (same subject) vs. щоб + Past Tense (different subjects), prohibition (Не + Imperfective imperative) vs. warning (Не + Perfective imperative), and тре́ба було́ + Infinitive ('should have')",
+    "Accusative vs. Dative experiencers in health verbs (Мене́ ну́дить / лихома́нить / моро́зить vs. Мені́ бо́ляче) and sensory Па́хне + Instrumental (Па́хне весно́ю / кві́тами)",
+    "Three-tier indefinite pronoun system (-сь vs. -не́будь vs. будь- / ка́зна- / бо́зна-), stress-shift predicative negatives (ні́кого, ні́чого, ні́коли, ні́де, ні́куди + Infinitive without не), and passive participles in -ний/-тий vs. impersonal -но/-то"
+  ],
+  "curriculumChanges": {
+    "updatedModules": [
+      "A0.3: Added Rule 6 covering Three Ways to State & Ask Names (Моє ім'я/прізвище vs. Мене звуть), Formal Introductions (Дозвольте відрекомендуватися), and про́шу vs. прошу́.",
+      "A1.2: Added Rule 6 covering могти́ vs. умі́ти/вмі́ти, ма́ти + Infinitive ('have to / supposed to'), and Present Tense for ongoing duration (Я вивчаю українську мову вже два роки).",
+      "A1.3: Added Rule 6 covering Feminine Animate Accusative Plural (сесте́р, киць), Ukrainian Surname Declension (пана Малярчука vs. пані Малярчук), and проси́ти vs. пита́ти.",
+      "A1.4: Added Rule 7 covering Past/Future of Possession (був/була/були vs. не було/не буде + Genitive), 4-Way Place Directions (в/до/з/від університету), and Що в тебе нового?",
+      "A2.2: Added Rule 7 covering Inclusive Ми з другом, Instrumental of Path (гуляти вулицями Києва), володіти мовою (+ Inst.) vs. знати мову (+ Acc.), грати в (+ Acc.) vs. грати на (+ Loc.), and Вітаю з (+ Inst.) vs. Бажаю (+ Gen.).",
+      "A2.3: Added Rule 6 covering Three Ways to Say 'Than' (ніж / від / за), якомога + Comparative, той самий vs. такий самий, не той ('the wrong one'), and сам vs. самий vs. саме.",
+      "A2.4: Added Rule 5 covering Gender-Sensitive Reciprocal один одного / одна одну / одне одного, Pronunciation of -шся & -ться, and розраховувати vs. розраховуватися.",
+      "A2.5: Added Rule 5 covering Approximation by Noun-Numeral Inversion (доларів п'ятдесят), Stress Shift in дві копійки vs. п'ять копійок, що- Frequency Words, and Compound Ordinal Years.",
+      "B1.2: Added Rule 6 covering щоб + Infinitive (Same Subject) vs. щоб + Past Tense (Different Subjects), Prohibition (Не + Impf.) vs. Warning (Не + Pf.), and треба було + Infinitive ('should have').",
+      "B2.2: Added Rule 5 covering Accusative vs. Dative Experiencers in Health Verbs (Мене нудить / лихоманить / морозить) and Sensory Пахне + Instrumental."
+    ],
+    "newModulesAdded": [
+      "B2.3: Indefinite Pronouns (-сь / -не́будь / будь-), Stress-Shift Negatives (ні́кого / ні́коли) & Passive Participles (complete 6-stage CEFR module with dialogue, active recall, CFUs, practice drills, and 6-question mastery exam)."
+    ],
+    "vocabularyAddedCount": 68,
+    "newReaderPassages": [
+      "B1-boryspil-customs-hotel (Призе́млення в Бори́сполі: ми́тна деклара́ція, готі́вка та готе́ль)",
+      "B2-odesa-express-birthday (Нічни́й експре́с до Оде́си та ювіле́й на Примо́рському бульва́рі)"
+    ],
+    "everydayVocabLabUpdates": "Expanded Everyday Vocabulary & Memory Lab with 68 stressed Ukrainian entries and 13 new exercises (fb-17..20, sc-11..13, cc-11..13, ga-11..13)."
+  }
+}

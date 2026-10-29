@@ -1,0 +1,42 @@
+{
+  "textbookNumber": 10,
+  "totalPlannedTextbooks": 12,
+  "filename": "492483089-Ukrainian-for-Speakers-of-English-Text-Introductory-and-Intermediate-Levels-PDFDrive_aca87127.pdf",
+  "title": "Ukrainian for Speakers of English: Text — Introductory and Intermediate Levels (1994, 429 pp., 38 Lessons + 5 Appendices + Vocabularies)",
+  "author": "Roma Franko (Edited by Sonia Morris, Detselig Enterprises Ltd.)",
+  "cefrCoverage": "A0–B2 (Introductory to Upper-Intermediate University & Adult Reference Course)",
+  "educationalScope": "A comprehensive 38-lesson university and adult textbook specifically engineered for English speakers learning Ukrainian. Each lesson pairs an authentic cultural/family dialogue, vocabulary supplement, and grammar unit with systematic appendices covering noun declensions across all 7 cases, possessive adjectives (-ин/-їн and -ів/-їв), short predicate adjectives (повинен, винен, певен, потрібен, ладен, варт, рад, повен), the 5 subgroups of 2nd-conjugation verbs and the я/ти stem mutation diagnostic, definite Accusative vs. indefinite Genitive direct objects, reciprocal and split negative pronouns, collective numerals (двоє–тридцятеро, обидва/обоє, кілька), past counterfactual conditionals (був би + past tense), two-word що б vs. one-word щоб, and verbal prefixation chains.",
+  "extractedGrammarTopics": [
+    "Emphatic existence verb є vs. pointing particles ось / он ('here is / there is over there'), correlative conjunctions і... і, або... або, ні... ні, and the spatial adverb triad де / куди / звідки (including надворі vs. надвір)",
+    "Complete 5-subgroup architecture of Second Conjugation (-ити / -іти / -ати after ж, ч, ш, щ) verbs and the Golden я / ти Mutation Diagnostic contrasting 1st Conjugation (mutate throughout: пишу, пишеш) with 2nd Conjugation (mutate in я only: сиджу, сидиш; люблю, любиш)",
+    "Definite Accusative vs. Indefinite/Abstract Genitive direct objects after verbs of seeking, asking, and wanting (питати пораду vs. питати поради, шукати квиток vs. шукати роботи), plus іти / їхати по + Accusative for going to fetch someone or something",
+    "Lending vs. borrowing with позичати / позичити (+ Dative = lend to vs. у/від + Genitive = borrow from), permanent Nominative vs. temporary/changing Instrumental predicate nouns, and 3rd-declension feminine Instrumental singular consonant doubling (ніччю, річчю, сіллю, осінню, подорожжю vs. любов'ю, кров'ю, матір'ю vs. смертю, радістю)",
+    "Complete 4-way gender/number reciprocal pronoun system (одна одну for two females, один одного for two males, одне одного for mixed-gender pairs, одні одних for plural groups) and splitting negative pronouns with prepositions into three words (ні до кого, ні про що, ні з ким)",
+    "Declining collective numerals двоє–тридцятеро and обоє like plural adjectives in oblique cases (двох, двом, двома; обох, обом, обома), обидва / обидві → обидвох, обидвом, обидвома, кілька → кількох, кільком, кількома, and увесь → усіма",
+    "Past counterfactual conditionals using був / була / були + би + past tense ('would have done') and the orthographic/syntactic distinction between two-word що б ('what would' = object pronoun що + particle б) and one-word щоб ('in order to / so that')",
+    "Complete aspectual prefixation chains on a single root (писати → написати, переписати, виписати, підписати, вписати, дописати, списати, розписатися, записати, описати) and attenuative по- ('for a little while') vs. ingressive за- ('burst into / start suddenly')",
+    "Feminine possessive adjectives in -ин / -їн with velar palatalization (мамин, бабусин, доччин, Ольжин, свекрушин, Маріїн, Софіїн) and masculine possessive adjectives in -ів / -їв with three-way open-syllable alternation: -ов- after hard consonants (братів → братова), -ев- after soft/mixed consonants (зятів → зятева, товаришів → товаришева), and -єв- after -й (Юріїв → Юрієва, Андріїв → Андрієва)",
+    "Short predicate adjectives (повинен, винен, певен, потрібен, ладен, варт, рад, повен), masculine/common-gender nouns in -а/-я (суддя, тесля, дружба, староста vs. листоноша, сирота, нероба, нечепура, лівша, п'яниця), emphatic pronoun сам / сама / саме / самі ('myself / alone'), and relative/interrogative чий across all 7 cases"
+  ],
+  "curriculumModifications": {
+    "updatedExistingModules": [
+      "A0.4: Added Rule 7 + Example 7 covering emphatic є vs. pointing particles ось / он, correlative conjunctions і... і, або... або, ні... ні, and the spatial triad де / куди / звідки (надворі vs. надвір).",
+      "A1.2: Added Rule 9 + Example 9 detailing all 5 subgroups of 2nd-conjugation verbs and the Golden я / ти Mutation Diagnostic Rule.",
+      "A1.3: Added Rule 8 + Example 7 explaining Definite Accusative vs. Indefinite Genitive direct objects after питати / шукати / хотіти and іти / їхати по + Accusative ('to go fetch').",
+      "A2.2: Added Rule 9 + Example 8 covering позичати кому (lend) vs. позичати у кого (borrow), permanent Nominative vs. temporary Instrumental predicates, and 3rd-declension feminine Instrumental singular doubling (ніччю, сіллю, подорожжю vs. любов'ю).",
+      "A2.4: Added Rule 7 + Example 7 detailing the 4-way gender/number reciprocal system (одна одну, один одного, одне одного, одні одних) and three-word split negative pronouns with prepositions (ні з ким, ні про що, ні до кого).",
+      "B1.6: Added Rule 6 + Example 6 covering oblique declensions of collective numerals (двоє–тридцятеро), обидва / обидві / обоє, кілька (кількох, кільком, кількома), and увесь (усіма).",
+      "B1.9: Added Rule 5 + Example 6 explaining past counterfactual conditionals (був / була / були + би + past tense) and two-word що б ('what would') vs. one-word щоб ('in order to').",
+      "B2.1: Expanded Rule 5 + added Example 5 with the complete 10-verb prefixation chain on писати and attenuative по- vs. ingressive за-."
+    ],
+    "newModulesAdded": [
+      "B2.4: Possessive Adjectives (-ин/-їн & -ів/-їв), Short Adjectives (повинен, винен, певен), Masculine -а/-я Nouns & Emphatic «сам»"
+    ],
+    "newVocabularyAddedCount": 76,
+    "newEverydayVocabExercisesAdded": 13,
+    "newGradedReaderPassagesAdded": [
+      "A2-wedding-lviv-marusya-yuriy (Весілля у Львові: Маріїна вишивка, Юріїв подарунок та щирі побажання)",
+      "B2-winter-storm-embassy-judge (Завірюха в дорозі: що б ми робили, якби не допоміг справедливий суддя?)"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "textbookNumber": 5,
+  "filename": "100012355-04-Learn-Ukrainian-an-Elementary-Practical-Course-in-Conversational-Ukrainian_6fc26cc2.pdf",
+  "title": "Learn Ukrainian: An Elementary Practical Course in Conversational Ukrainian (Вивчайте українську мову, 253 pp.)",
+  "authors": ["Halina I. Makarova", "Larissa M. Palamar", "Nataliya K. Prisyazhnyuk"],
+  "publisher": "Vyshcha Shkola Publishing House, Kyiv (1975)",
+  "processingStatus": "COMPLETED",
+  "integratedAt": "2026-10-29",
+  "cefrCoverage": "A0 to B1+ (Part I: 9 Introductory Phonetic & Intonation Lessons; Part II: 21 Introductory Grammar & Conversational Lessons + Answer Key + Ukrainian-English Vocabulary + Reference Declension Tables)",
+  "successfullyAnalyzedSections": [
+    "Part I (pp. 9–97): Lessons 1–9 — Introductory Phonetic Course (Ukrainian vowel system, unstressed vowel harmony е/и and о/у, dental vs. alveolar articulation of т/д/н/л, unaspirated п/т/к, palatalization, apostrophe, fused affricates дж [dʒ] & дз [dz], prolonged double consonants -ння/-ття, and 5 Ukrainian intonation contours)",
+    "Part II Lessons 1–5 (pp. 100–127): Non-typical gender nouns, irregular plurals (мати→матері, дитина→діти, друг→друзі, людина→люди), neuter -ння nouns with identical singular/plural forms, present/past/future conjugation, aspectual pairs with frequency adverbs, and ordinal numerals",
+    "Part II Lessons 6–10 (pp. 128–157): Accusative singular & plural (inanimate vs. animate), multi-course Ukrainian restaurant dining (на закуску, на перше, на друге, на десерт; Я покладаюсь на ваш смак), object of speech/thought with про + Accusative, and water/air/vehicle motion verbs (плисти/плавати, летіти/літати, іти/ходити, їхати/їздити) with у/в vs. на",
+    "Part II Lessons 11–16 (pp. 158–193): Genitive of possession, attributive Genitive, Genitive after negation and prepositions (до, з/із/зі, від, біля, без, для, коло, після), Locative singular & plural (-ах/-ях) with positional verbs (стояти, лежати, сидіти, висіти; на столі vs. у столі), full declension of demonstratives цей and той, and 24-hour official vs. 12-hour conversational clock time",
+    "Part II Lessons 17–21 & Appendix (pp. 194–253): Dative singular (-ові/-еві/-єві, -і/-ї) & plural (-ам/-ям) with подобатися, аплодувати, належати; Instrumental of accompaniment, tool, path, and after керувати, захоплюватися, користуватися, пишатися, цікавитися; Vocative case; systematic synthesis of Hard, Soft, and Mixed Declension Groups across all 7 cases; full declension of possessives мій, твій, свій, наш, ваш, їхній vs. invariable його/її; and multi-hundred/thousand ordinals"
+  ],
+  "skippedOrFilteredContent": [
+    "Filtered out dated 1970s Soviet political/ideological phrases while preserving all authentic Ukrainian linguistic explanations, phonetic rules, cultural heritage (Kyiv, Khreshchatyk, Dnipro river cruise, Kaniv & Tarasova/Chernecha Hora, Taras Shevchenko, Oleksandr Dovzhenko, Ukrainian folk art, embroidery, woodcarving, and traditional cuisine)"
+  ],
+  "extractedTopics": [
+    "Unstressed vowel harmony (е approaching и in село́/весна́, и approaching е in живе́, о rounding slightly before stressed у in голу́бка/зозу́ля without ever reducing to schwa) and the 5 Ukrainian intonation contours (declarative falling, wh-question initial high fall, yes/no sharp rise-fall without auxiliary verbs, contrastive А/alternative чи rise-fall, and polite request contour)",
+    "Dental articulation of т, д, н, л; unaspirated voiceless stops п, т, к; fused unit affricates дж [dʒ] (бджола́, джерело́, піджа́к, сиджу́) and дз [dz] (дзво́ник, ґу́дзик); and prolonged geminated soft consonants (-ння, -ття, -лля)",
+    "Non-typical gender nouns (дя́дько, суддя́, риба́лка = masculine; ніч, річ, тінь, сіль, любо́в, по́дорож = feminine; ім’я́, дівча́ = neuter), irregular plurals (люди́на→лю́ди, дити́на→ді́ти, друг→дру́зі, ма́ти→матері́), identical Nom. sg. / Gen. sg. / Nom. pl. in neuter -ння nouns (це ціка́ве оповіда́ння → ці ціка́ві оповіда́ння), and feminine profession suffixes vs. invariant specialist titles with feminine verb agreement (екскурсово́д розповіла́, лі́кар увійшла́)",
+    "Positional verbs of placement: стоя́ти (upright objects with a base: стіл, ла́мпа, ва́за, ча́шка, скля́нка, тарі́лка, взуття́ стої́ть), лежа́ти (flat objects: кни́жка, зо́шит, ру́чка, оліве́ць, ніж, виде́лка, ло́жка, скате́рка лежи́ть), висі́ти (hanging objects: карти́на, рушни́к, су́кня, па́льто виси́ть у ша́фі), сиді́ти (сиджу́, сиди́ш), and на столі́ ('on top of the desk') vs. у столі́ ('inside the desk drawer')",
+    "Multi-course Ukrainian dining formulas (на заку́ску, на пе́рше, на дру́ге, на десе́рт / на тре́тє; Я поклада́юсь на ваш смак) and object of thought/speech with про + Accusative (розповіда́ти, чита́ти, писа́ти, ду́мати, мрі́яти, зга́дувати про ко́го? про що?)",
+    "Official 24-hour timetable/radio time (трина́дцять годи́н три́дцять хвили́н) vs. 12-hour conversational time with ра́нку / дня / ве́чора / но́чі, без чве́рті vs. за чверть, watch accuracy expressions (годи́нник поспіша́є / відстає́ / іде́ то́чно), and single-word multi-hundred/thousand ordinals (со́тий, двохсо́тий, трьохсо́тий, тися́чний, двохтися́чний, мільйо́нний)",
+    "Water & air motion verb pairs (плисти́/пла́вати, леті́ти/літа́ти) and destination grouping with у/в vs. на",
+    "Complete 7-case synthesis of Hard, Soft, and Mixed (post-sibilant ж, ч, ш, щ) declension groups for masculine, feminine, and neuter nouns (including feminine mixed-group пло́ща → пло́щею, на пло́щі and masculine soft/mixed Dative -еві in учи́телеві, Кобзаре́ві, митце́ві, глядаче́ві)",
+    "Full 7-case declension of demonstratives цей (цього́, цьому́, цим; ціє́ї, цій, цю, ціє́ю; цих, цим, ци́ми) and той, and possessives мій/твій/свій, наш/ваш, and declinable їхній vs. invariable його́/її́",
+    "High-frequency verb case government: керува́ти, користува́тися, захо́плюватися, пиша́тися, ціка́витися, милува́тися (+ Instrumental) vs. аплодува́ти, подо́батися, належа́ти, раді́ти (+ Dative)"
+  ],
+  "curriculumChanges": {
+    "updatedModules": [
+      "A0.1: Added Rule 5 covering Unstressed Vowel Harmony (е/и, о/у) and the 5 Core Ukrainian Intonation Contours.",
+      "A0.2: Added Rule 5 covering Dental Consonants (т, д, н, л), Unaspirated Stops (п, т, к), Fused Affricates (дж [dʒ], дз [dz]), and Prolonged Double Consonants (-ння, -ття).",
+      "A1.1: Added Rule 6 covering Non-Typical Gender Nouns (дядько, суддя, рибалка vs. ніч, річ, тінь, любов), Irregular Plurals (люди, діти, друзі, матері), Neuter -ння Plurals, and Profession Gender Pairs.",
+      "A1.2: Added Rule 7 covering Positional Verbs of Placement (стояти, лежати, сидіти, висіти) and на столі ('on top') vs. у столі ('inside the drawer').",
+      "A1.3: Added Rule 7 covering Multi-Course Ukrainian Dining (на закуску, на перше, на друге, на десерт; Я покладаюсь на ваш смак) and Object of Thought/Speech (про + Accusative).",
+      "A2.5: Added Rule 6 covering Official 24-Hour Timetable/Radio Time vs. 12-Hour Conversational Time with ранку/дня/вечора/ночі, годинник поспішає/відстає, and Multi-Hundred/Thousand Ordinals (двохсотий, тисячний).",
+      "B1.1: Added Rule 6 covering Water & Air Motion Verbs (плисти/плавати, летіти/літати) and Destinations with у/в vs. на."
+    ],
+    "newModulesAdded": [
+      "B1.5: The 7-Case Declension System: Hard, Soft & Mixed Groups, Demonstratives (цей/той) & Possessives (complete 6-stage CEFR module with 5 core rules, Kaniv & Tarasova Hora dialogue, active recall, CFUs, practice drills, 8 vocab cards, and 6-question mastery exam)."
+    ],
+    "vocabularyAddedCount": 87,
+    "newReaderPassages": [
+      "A2-kyiv-khreshchatyk-dinner (Прогу́лянка Хреща́тиком і святко́вий обі́д у рестора́ні)",
+      "B1-kaniv-tarasova-hora-cruise (Теплохо́дом по Дніпру́ до Ка́нева та Черне́чої гори́)"
+    ],
+    "everydayVocabLabUpdates": "Mapped 87 verified stressed Textbook 5 vocabulary entries across all 27 Everyday Vocabulary categories and added 13 new interactive exercises (fb-21..24, sc-14..16, cc-14..16, ga-14..16)."
+  },
+  "validationResults": {
+    "unitTests": "7/7 tests passing in src/__tests__/slovo.test.ts",
+    "compilation": "Clean TypeScript & Vite production build via compile_applet",
+    "progressPreservation": "All existing module IDs (A0.1–C1.1), FSRS flashcard ranks, and localStorage keys preserved."
+  },
+  "remainingIntegrationWork": "Ready for Textbook 6 of 12."
+}

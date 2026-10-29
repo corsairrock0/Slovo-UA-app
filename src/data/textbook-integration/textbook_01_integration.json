@@ -1,0 +1,109 @@
+{
+  "textbookNumber": 1,
+  "totalPlannedTextbooks": 12,
+  "filename": "182083997-Karamysheva-I-D-Contrastive-Grammar-of-English-and-Ukrainian-Languages_aa558e35.pdf",
+  "title": "Contrastive Grammar of English and Ukrainian Languages (Second edition, revised)",
+  "author": "Iryna D. Karamysheva",
+  "publisher": "Nova Knyha Publishers, Vinnytsia, 2012",
+  "totalPages": 322,
+  "processingStatus": "COMPLETED",
+  "cefrCoverage": ["A1", "A2", "B1", "B2", "C1"],
+  "successfullyAnalyzedSections": [
+    "Part I (Lectures 1–4): Contrastive Typology, Synthetic vs. Analytic Devices, Morphological Paradigms, Parts of Speech",
+    "Part II (Lectures 5–11): Contrastive Morphology of the Noun (Number mismatches: Singularia vs. Pluralia Tantum, Case semantics, Partitive Genitive), Article Compensation via Ukrainian Word Order, Adjective (Qualitative/Relative/Possessive in -ин/-ів, Short Predicative певен/повен/винен, Strengthened Superlatives якнай-/щонай-, Subjective Evaluation Suffixes -еньк-/-есеньк-/-ісіньк-/-юсіньк-), Pronoun (Reflexive свій/себе, Reciprocal один одного, Double Negation), Numeral (Collective двоє/троє/обоє/одні, Fractional півтора/півтори), Verb (Consonant-stem past tense, Sequence of tenses absence, 8 Reflexive -ся semantic groups, Impersonal Dative passive, Imperative -но and хай/нехай), Adverb & Stative (Dynamic vs. Static spatial adverbs, Modal words)",
+    "Part III (Lectures 12–16): Contrastive Syntax (Theme-Rheme word order, One-member Definite-Personal, Indefinite-Personal, Generalized-Personal, and Impersonal clauses, Correlative comparative clauses чим... тим)"
+  ],
+  "unreadableOrSkippedSections": [],
+  "grammarTopicsIdentified": [
+    "Singularia Tantum vs. Pluralia Tantum mismatches between Ukrainian and English (морква, цибуля, зелень, сміття, зміст, одяг, порада vs. гроші, канікули, ворота, сани, ножиці, штани, шахи, парфуми, вершки, сутінки, будні)",
+    "How Ukrainian compensates for the absence of articles ('the' vs. 'a/an') through Theme-Rheme word order and case choice (Partitive Genitive vs. Accusative)",
+    "Family possessive adjectives in -ин/-їн and -ів/-їв (мамин, батьків, сестрин, братів) and universal reflexive possessive свій across all persons",
+    "Relative adjectives vs. English noun adjuncts (кам'яна стіна, залізний міст, настільна лампа), strengthened superlatives (якнайкращий, щонайбільший), short predicative adjectives (певен, повен, винен), and expressive diminutive/intensive suffixes (малесенький, білісінький, величезний)",
+    "Collective numerals (двоє, троє, обоє, одні) with pluralia tantum and personal groups, plus gender-sensitive fractional numeral півтора (m/n) vs. півтори (f) + Genitive singular",
+    "Consonant-stem past tense verbs (ніс/несла, віз/везла, міг/могла, допоміг/допомогла) and preservation of original present/future tense in Ukrainian indirect speech",
+    "Ukrainian Dative recipient + 3rd-person plural active verb as the natural counterpart to English indirect passives (Мені дали книжку)",
+    "Reflexive verbs in -ся/-сь across daily routines (вмиватися, одягатися, взуватися), reciprocals (зустрічатися, миритися, листуватися, один одного), and emotional states + Instrumental/Dative (пишатися, цікавитися, дивуватися, сердитися, ображатися)",
+    "Mandatory double/multiple negation in Ukrainian (Ніхто ніколи нічого не забуває)",
+    "One-member impersonal sentences (світає, сутеніє, вечоріє, мені щастить, бракує часу, вистачає сил, мені шкода, слід), correlative clauses (чим швидше, тим краще), and modal words (мабуть, безумовно, між іншим, зрештою)"
+  ],
+  "vocabularyCategoriesIdentified": [
+    "Greetings and introductions",
+    "Family and relationships",
+    "Food and drinks",
+    "Cooking and kitchen",
+    "Restaurants and cafés",
+    "Shopping and money",
+    "Home and household",
+    "Clothing",
+    "Health and body",
+    "Feelings and emotions",
+    "Daily routines",
+    "Common verbs",
+    "Time and dates",
+    "Weather",
+    "Transportation",
+    "Travel",
+    "Directions",
+    "Work and professions",
+    "Education",
+    "Technology",
+    "Hobbies",
+    "Sports and exercise",
+    "Nature",
+    "Common adjectives",
+    "Common adverbs",
+    "Prepositions",
+    "Questions and useful expressions"
+  ],
+  "lessonsAdded": [
+    {
+      "id": "A2.4",
+      "level": "A2",
+      "title": "Reflexive Verbs (-ся), Daily Routines, Reciprocals & Double Negation"
+    },
+    {
+      "id": "B2.2",
+      "level": "B2",
+      "title": "Natural Ukrainian Syntax: Impersonal Sentences, Correlatives (чим... тим) & Modal Words"
+    }
+  ],
+  "lessonsModified": [
+    "A0.4 (Added Rule 5 on how Ukrainian Theme-Rheme word order expresses English 'the' vs. 'a/an')",
+    "A1.1 (Added Rule 5 on Singularia Tantum vs. Pluralia Tantum mismatches between Ukrainian and English)",
+    "A1.3 (Added Rule 5 on Partitive Genitive -у/-ю/-и for food/drink portions)",
+    "A1.4 (Added Rule 5 on family possessive adjectives мамин, батьків, сестрин and reflexive свій)",
+    "A2.1 (Added Rule 5 on consonant-stem past verbs ніс, віз, міг, допоміг and keeping original tense in indirect speech)",
+    "A2.2 (Added Rule 5 on Dative + 3pl active translation of English indirect passives Мені дали книжку)",
+    "A2.3 (Added Rule 5 on relative adjectives кам'яна стіна, настільна лампа, strengthened superlatives якнайкращий, and expressive suffixes малесенький, білісінький, швиденько)",
+    "B1.2 (Added Rule 5 on intimate -но imperatives подивися-но and 3rd-person хай/нехай)",
+    "B1.3 (Added Rule 5 on collective numerals двоє, троє, обоє, одні and fractional півтора / півтори)"
+  ],
+  "vocabularyEntriesAddedCount": 85,
+  "readerPassagesAdded": [
+    "A2-contrastive-market (Ранко́вий я́рмарок і родинні поку́пки — Morning Fair and Family Shopping)",
+    "B1-evening-carpathians (Вечі́рні су́тінки в Карпа́тах — Evening Twilight in the Carpathians)"
+  ],
+  "quizzesAndExercisesAdded": {
+    "everydayVocabCategories": 27,
+    "interactiveVocabModes": 8,
+    "fillInBlankExercises": 10,
+    "sentenceConstructionExercises": 6,
+    "contextualChoiceExercises": 6,
+    "grammarAwareExercises": 6,
+    "newCourseCheckQuestions": 6,
+    "newCoursePracticeDrills": 8,
+    "newCourseExamQuestions": 12
+  },
+  "existingFeaturesAffected": [
+    "FREQ_6000_DB expanded from 563 to 648 verified stressed Ukrainian entries while preserving existing ranks 1–563 and FSRS user progress",
+    "Course curriculum expanded from 16 to 18 CEFR modules while preserving all existing module IDs (A0.1–C1.1)",
+    "Added Everyday Vocabulary & Memory Lab tab (#tab-vocab) with 27 categories and 8 practice modes connected to FSRS flashcards",
+    "Comprehensible Reader expanded from 30 to 32 graded passages"
+  ],
+  "validationResults": {
+    "buildSuccess": true,
+    "unitTestsPassed": 7,
+    "zeroForbiddenTextbookCitations": true
+  },
+  "remainingIntegrationWork": "Ready for Textbook 2 of 12."
+}

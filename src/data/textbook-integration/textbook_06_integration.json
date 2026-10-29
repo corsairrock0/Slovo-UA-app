@@ -1,0 +1,48 @@
+{
+  "textbookNumber": 6,
+  "filename": "700393490-Beginners-Ukrainian-by-Johannes-Poulard_5e974cb2.pdf",
+  "title": "Beginner's Ukrainian (Як ся маєш)",
+  "author": "Johannes Poulard (Hippocrene Books, New York, 1996, 334 PDF pages: Prechapter, 15 Lessons, 2 Reviews, Appendix, Glossaries)",
+  "cefrCoverage": "A0–B1 (Alphabet, Euphony, 7-Case Noun & Pronoun Declensions, Complete 7-Case Cardinal Numeral Declensions 1–1,000,000, Aspect, Verbal Nouns, Diminutives, Ukrainian Holiday Cycle & Diaspora Heritage)",
+  "processedDate": "2026-10-29",
+  "educationalScopeAndStrengths": [
+    "Prechapter & Lesson 13: Clear rules for Ukrainian euphonic alternations (милозвучність), including word-initial у-/в- in verbs and nouns (вставати/уставати, вчитися/учитися, вчитель/учитель) and і-/й- (іти/йти, іде/йде, ішов/йшов) conditioned by whether the preceding word ends in a vowel or consonant.",
+    "Lessons 1, 2, 12, 13: Systematic contrast of the three functions of чи (yes/no question marker, 'or' in alternatives, and 'whether/if' in indirect questions) versus conditional якщо ('if') and contrastive question starter А.",
+    "Lessons 7, 11, 15: Rich cultural readings on the Ukrainian holiday cycle—Christmas (Різдво Христове, Святий вечір, дідух, колач, книш, колядки, щедрівки, Mykola Leontovych's «Щедрик» with прилетіла ластівочка, «Христос рождається! — Славімо Його!») and Easter (Великдень, Великий піст, Страсний тиждень, паска, бабка, symbolic wax-resist писанки written with a писачок/кістка and бджолиний віск vs. solid-dyed boiled крашанки, веснянки, «Христос воскре́с! — Воістину воскре́с!»).",
+    "Lesson 10: Ukrainian letter-writing etiquette (Vocative salutations with exclamation mark, warm closings), strict DD.MM.YYYY date order, and Ukrainian postal envelope abbreviations (обл., м., с., вул., буд., кв.).",
+    "Lesson 11: Vocative mutations of -ець nouns (українче!, хлопче!, зайче!, молодче! vs. отче!, бійцю!) and velars (Боже!, друже!, козаче!), plus affectionate Ukrainian diminutives (-еньк-, -ечк-, -очк-, -усь, -унь) and full irregular plural declensions (дівчина → дівчата/дівчат/дівчатам; дитина → діти/дітей/дітьми).",
+    "Lessons 12, 13, 14: Complete 7-case declension tables of cardinal numerals from 1 to 1,000,000 (одного/однієї; двох/двом/двома, трьох/трьом/трьома, чотирьох/чотирьом/чотирма; parallel 5–20 & 30 oblique endings -и/-ма vs. -ьох/-ьома with root vowel shifts шість → шести/шістьох, сім → семи/сімох, вісім → восьми/вісьмох; сорока/дев'яноста/ста; двохсот–дев'ятисот) and oblique case agreement with plural nouns.",
+    "Lesson 15: Productive verbal noun formation in -ння / -ття (читання, навчання, вишивання, збагачування, воскресіння, краснописання)."
+  ],
+  "errataAndDiasporaCalquesFilteredOrCorrected": [
+    "Greeting «Як ся маєш? / Як ся маєте?» (subtitle and dialogues): Contextualized in A0.3 as a warm Western Ukrainian (Galician) and North American diaspora greeting alongside standard literary «Як у тебе (у Вас) справи? / Як поживаєш?».",
+    "Language adverbials «по-українському, по-англійському» (pp. 18, 34): Contrasted in A0.3 with standard literary Ukrainian «українською мовою / по-українськи, англійською мовою / по-англійськи».",
+    "Erroneous Vocative «*пано» for пані (p. 110) and «*Марії» for Марія (p. 114): Corrected in B1.2 to indeclinable «пані!» and soft feminine Vocative «Маріє!, Софіє!».",
+    "Non-standard «*Мені цікавується» (p. 61), «*попасти лікарем/президентом» (p. 93), «*покруги + Inst.» (p. 176), and typo «*внижа» for harvest (p. 122): Corrected in C1.1 and vocabData.ts to authentic standard Ukrainian «Я цікавлюся + Instrumental / Мені цікаво», «стати лікарем / президентом», «навколо / довкола / навкруги + Genitive», and pluralia tantum «жнива» (Gen. жнив)."
+  ],
+  "curriculumModulesModified": [
+    "A0.3 (Added Rule 7: Standard vs. Regional/Diaspora Greetings «Як ся маєш?», Language Adverbials «українською мовою / по-українськи» vs. diaspora «по-українському», and Phone/Parting Expressions «Алло!», «Нема за що!», «На все добре!»)",
+    "A0.4 (Added Rule 6: The Three Roles of «чи» — Yes/No Question, 'Or', and Indirect 'Whether/If' — vs. Expressive «хіба», Conditional «якщо», and Contrastive «А»)",
+    "B1.2 (Added Rule 7: Vocative Consonantal Mutations «-ець → -че» & Velars, Soft «-ія → -іє», Indeclinable «пані», and Affectionate Diminutives «-еньк-, -ечк-, -очк-»)",
+    "B1.3 (Added Rule 7: Productive Verbal Nouns in «-ння / -ття» & Complete Irregular Plural Paradigms of «дівчина → дівчата» and «дитина → діти»)",
+    "C1.1 (Added Rule 6: Word-Initial Euphony in Verbs & Nouns «вчитися/учитися, вставати/уставати, іти/йти» & Avoiding Non-Standard Diaspora/Soviet Calques)"
+  ],
+  "newCourseModulesAdded": [
+    {
+      "id": "B1.6",
+      "level": "B1",
+      "title": "Declining Cardinal Numerals Across All 7 Cases, Ukrainian Holiday Traditions & Letter Etiquette"
+    }
+  ],
+  "vocabularyAddedCount": 71,
+  "newReaderPassagesAdded": [
+    "A2-ukrainian-christmas-shchedryk (Святий вечір, золотистий дідух і мелодія «Щедрика»)",
+    "B1-velykden-pysanky-poltava (Великодні писанки, крашанки та веснянки на Полтавщині)"
+  ],
+  "everydayVocabExercisesAdded": {
+    "fillInTheBlank": ["fb-25", "fb-26", "fb-27", "fb-28"],
+    "sentenceConstruction": ["sc-17", "sc-18", "sc-19"],
+    "contextualChoice": ["cc-17", "cc-18", "cc-19"],
+    "grammarAware": ["ga-17", "ga-18", "ga-19"]
+  }
+}

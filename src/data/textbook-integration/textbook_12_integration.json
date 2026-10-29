@@ -1,0 +1,65 @@
+{
+  "textbookNumber": 12,
+  "totalPlannedTextbooks": 12,
+  "filename": "687276877-Ukrainian-Phrasebook-5-for-Shop_1e614f76.pdf",
+  "title": "Ukrainian Phrasebook & Dictionary (5th Edition, July 2020, 292 PDF pages)",
+  "authors": ["Marko Pavlyshyn"],
+  "cefrCoverage": "A0–B2",
+  "processedAt": "2026-10-29",
+  "educationalScope": [
+    "Comprehensive practical Ukrainian travel, culture, folklore, gastronomy, emergency, medical/dental/optical, cycling/driving, and sustainable ecology reference with two-way dictionary and grammar chapters.",
+    "Authentic real-world Ukrainian public signage, natural-world month etymologies, Cossack compound surnames, traditional instruments and folk dress, false friends to avoid, and green travel practices."
+  ],
+  "extractedGrammarTopics": [
+    {
+      "topic": "History of «Ґ ґ», Two-Sound «зг» [zɦ] vs. «ж» [ʒ], Place-Name Romanization & Stress Minimal Pairs",
+      "targetModule": "A0.2 (Rule 8 & Example 8)",
+      "details": "Explains the 1933–1990 ban and restoration of «Ґ ґ» [ɡ], why «зг» in «зго́да!» is pronounced as two distinct sounds [zɦ] rather than [ʒ], Ukrainian-to-English place-name romanization (Kyiv, Lviv, Kharkiv, Odesa, Dnipro), and stress minimal pairs (доро́га/дорога́, за́мок/замо́к, о́рган/орга́н, брати́/бра́ти)."
+    },
+    {
+      "topic": "Menu Word Order (Post-Nominal Adjectives), Traditional Dishes, Three Words for Jam & Culinary False Friends",
+      "targetModule": "A2.2 (Rule 11 & Example 10)",
+      "details": "Explains post-nominal menu adjectives (карто́пля сма́жена, бали́к осетро́вий), iconic dishes and beverages (борщ із пампу́шками, холоде́ць із хро́ном, на́лисники, кисі́ль, квас), the 3 words for jam (варе́ння vs. пови́дло vs. джем), and false friends («без консерва́нтів» vs. «презервати́ви», «кру́глий стіл»)."
+    },
+    {
+      "topic": "Natural-World Etymologies of All 12 Ukrainian Months, Parallel Clock Expressions & 'Last Night' vs. 'In the Morning'",
+      "targetModule": "A2.5 (Rule 9 & Example 10)",
+      "details": "Traces all 12 native Ukrainian month names to seasonal nature (сі́чень to гру́день), introduces parallel clock forms (пів дру́гої alongside пів на дру́гу; два́дцять по сьо́мій alongside два́дцять на во́сьму), and contrasts «учо́ра вве́чері» ('last night') and «дру́га годи́на но́чі» ('2 AM')."
+    },
+    {
+      "topic": "Public Signage («ДО СЕБЕ» vs. «ВІД СЕБЕ»), 4 Train Carriage Classes & Car/Bicycle Rental & Breakdowns",
+      "targetModule": "B1.1 (Rule 9 & Example 8)",
+      "details": "Covers essential Ukrainian door/station signs (ДО СЕ́БЕ = Pull vs. ВІД СЕ́БЕ = Push, КА́МЕРА СХО́ВУ, БЮРО́ ЗНАХІ́ДОК), the 4 train carriage classes (СВ, купе́йний, плацка́ртний, зага́льний), and car/bicycle rental & mechanical diagnostics (взя́ти на прока́т, спусти́ла ши́на, сів акумуля́тор, двигу́н перегріва́ється, радіа́тор тече́, за кермо́м)."
+    },
+    {
+      "topic": "Ukrainian Surname Suffixes (-енко, -ук/-чук, -ів) & Zaporozhian Cossack Compound Surnames",
+      "targetModule": "B1.6 (Rule 7 & Example 7)",
+      "details": "Explains regional patronymic/occupational surname suffixes (-енко, -ук/-чук, -ський/-цький, -ів/-шин) and expressive Zaporozhian Cossack imperative+object compound surnames (Непийпи́во, Загубико́лесо, Півторакожу́ха, Тягниря́дно, Перебийні́с)."
+    },
+    {
+      "topic": "Three Landscape Belts, Dnipro Rapids & Estuaries, Folk Instruments, Dances & Traditional Attire",
+      "targetModule": "B1.8 (Rule 4 & Example 5)",
+      "details": "Expands Ukrainian geography and folklore with the three mainland landscape belts (ліс, лісосте́п, степ + родю́чі чорнозе́ми), Дніпро́ві поро́ги & лима́ни, folk instruments (банду́ра, ко́бза, колі́сна лі́ра, цимба́ли, трембі́та, сопі́лка, дри́мба, бу́бон), dances (гопа́к, мете́лиця, арка́н, хорово́д), and traditional dress (пла́хта, керсе́тка, віно́к зі стрічка́ми, кора́лі, шарова́ри, кепта́р)."
+    },
+    {
+      "topic": "Safe Travel, Emergencies, Dental & Optical Care, and Sustainable Ecology",
+      "targetModule": "B1.10 (New Module)",
+      "details": "Dedicated B1 module covering emergency cries and police/legal assistance (Допоможі́ть!, Ряту́йте!, заблука́ти, обікра́ли, зверну́тися до посо́льства й адвока́та), dental care (стомато́лог, ви́пала пло́мба, поста́вити пло́мбу, місце́ве знебо́лювання, я́сна, ви́далити зуб), optical & chronic condition care (окулі́ст, конта́ктні лі́нзи, цукро́вий діабе́т, інсулі́н), and sustainable travel/ecology (переро́бка, охоро́на навколи́шнього середо́вища, забру́днення, вуглеки́слий газ, парнико́вий ефе́кт, доброво́льці, жертвува́ти ко́шти)."
+    }
+  ],
+  "curriculumChanges": {
+    "modifiedModules": ["A0.2", "A2.2", "A2.5", "B1.1", "B1.6", "B1.8"],
+    "addedModules": ["B1.10"],
+    "newVocabularyEntriesCount": 74,
+    "everydayVocabDrillsAdded": {
+      "fillInTheBlank": ["fb-49", "fb-50", "fb-51", "fb-52"],
+      "sentenceConstruction": ["sc-35", "sc-36", "sc-37"],
+      "contextualChoice": ["cc-35", "cc-36", "cc-37"],
+      "grammarAware": ["ga-35", "ga-36", "ga-37"]
+    },
+    "addedReaderPassages": [
+      "A2-carpathian-green-tourism-trembita",
+      "B1-sustainable-travel-dnipro-estuary-safety"
+    ]
+  }
+}

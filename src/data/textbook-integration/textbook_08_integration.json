@@ -1,0 +1,80 @@
+{
+  "textbookNumber": 8,
+  "filename": "587704497-Pysanka-Ukrainian-Language-and-Culture_0542efbc.pdf",
+  "title": "Pysanka: Ukrainian language and culture — Coursebook and culture guide (25 pp., Unit 1: Places & Unit 2: Nature)",
+  "author": "Hanna Yurchenko (2022)",
+  "cefrCoverage": "A1–B1 (Noun gender & plural formation, stem vowel alternations & plural stress shifts, stress-based imperative mood, passive participles in cultural/geographical descriptions, conversational synthetic future -тиму, reading historical years/centuries, and regional cultural geography of Kyiv, Lviv, the Ukrainian Carpathians, and the Black Sea & Danube Biosphere Reserve)",
+  "analysisSummary": {
+    "strengths": [
+      "Rich, authentic cultural and geographical texts with inline Ukrainian stress marks covering four iconic regions of Ukraine: Kyiv & Pyrohiv Open-Air Museum, Lviv & Rynok Square coffee culture, the Ukrainian Carpathians (Mount Hoverla, alpine polonynas, Carpathian Biosphere Reserve, Hutsul banush), and the Black Sea coast (Odesa seafood cuisine, hydrogen sulfide deep-layer ecology, and the Danube Biosphere Reserve at Vylkove).",
+      "Clear grammar tables for Noun Gender (Unit 1), the Imperative Mood across -и/-ім(о)/-іть, -й/-ймо/-йте, and -ь/-ьмо/-ьте (Unit 1), Nominative Plural formation with mandatory stress shifts (чолові́к → чоловіки́, жі́нка → жінки́, ба́тько → батьки́, гора́ → го́ри, ріка́ → рі́ки, мо́ре → моря́, мі́сце → місця́, о́зеро → озе́ра, де́рево → дере́ва), and plural stem vowel alternations (ко́лір → кольори́, стіл → столи́, буди́нок → буди́нки, гребіне́ць → гребінці́) (Unit 2).",
+      "Natural conversational dialogues for planning weekend trips with high-frequency spoken idioms («І не кажи́!», «Дай поду́мати...», «Домо́вилися!», «Авже́ж!», «Чека́тиму з нетерпі́нням!», «страше́нно втоми́вся»)."
+    ],
+    "limitationsAndErrorsCorrected": [
+      "Corrected multiple English translation typos in the source PDF before integration: 'All video and audio materials are avaiable' → 'available', 'Ukrainan Carpathians' → 'Ukrainian Carpathians', 'Its hight is 2061 meters' → 'Its height is 2,061 meters', 'This park include mountains, forests' → 'This reserve includes mountains and forests'.",
+      "Clarified the crucial semantic and grammatical distinction between masculine па́м’ятник (+ Dative: sculptural statue/monument to a person, e.g., па́м’ятник кня́зю Володи́миру / королю́ Дани́лу) and feminine па́м’ятка (+ Genitive: architectural or historical heritage landmark, e.g., архітекту́рна па́м’ятка).",
+      "Expanded the brief textbook tables with complete morphological explanations of when Imperative takes stressed -и́/-і́мо/-і́ть vs. post-vowel -й/-ймо/-йте vs. unstressed -ь/-ьмо/-ьте."
+    ]
+  },
+  "curriculumChanges": {
+    "modifiedModules": [
+      {
+        "moduleId": "A1.1",
+        "title": "Gender of Nouns, Nominative Plural & Personal Pronouns",
+        "changes": "Added Rule 8 and Example 7 covering mandatory plural stress shifts (чолові́к → чоловіки́, жі́нка → жінки́, ба́тько → батьки́ = parents, гора́ → го́ри, ріка́ → рі́ки, мо́ре → моря́, мі́сце → місця́, о́зеро → озе́ра, де́рево → дере́ва), plural stem vowel alternations (ко́лір → кольори́, стіл → столи́, буди́нок → буди́нки, гребіне́ць → гребінці́), and the contrast between па́м’ятник (statue/monument) and па́м’ятка (architectural/historical landmark)."
+      },
+      {
+        "moduleId": "A2.1",
+        "title": "Verbal Aspect & Future Tense Architecture",
+        "changes": "Added Rule 7 and Example 7 covering conversational synthetic imperfective future forms in travel planning («За́втра відпочива́тиму ці́лий день», «Чека́тиму з нетерпі́нням!») and idiomatic spoken agreement phrases («І не кажи́!», «Домо́вилися!», «Авже́ж!», «Дай поду́мати...»)."
+      },
+      {
+        "moduleId": "A2.5",
+        "title": "Telling Time, Dates, Seasons, Numbers 100–1,000,000 & Arithmetic",
+        "changes": "Added Rule 7 and Example 8 explaining how to read historical years («у 1272 [тисяча дві́сті сімдеся́т дру́гому] ро́ці», «у 1829 ро́ці») vs. decades («у 1230-х [тисяча дві́сті тридця́тих] рока́х») and centuries («столі́ття», «у сере́дні віки́»)."
+      },
+      {
+        "moduleId": "B1.2",
+        "title": "The Imperative Mood &The Vocative Case",
+        "changes": "Added Rule 8 and Example 7 detailing the 3 stress-based Imperative Ending Patterns (-и́/-і́мо/-і́ть when end-stressed in 1st sg. like пиши́/пиші́мо/пиші́ть; -й/-ймо/-йте after a vowel stem like знай/зна́ймо/зна́йте; -ь/-ьмо/-ьте after a stem-stressed coronal consonant like сядь/ся́дьмо/ся́дьте) and travel cohortatives (ході́мо!, ї́дьмо!, руша́ймо!)."
+      },
+      {
+        "moduleId": "B2.3",
+        "title": "Indefinite Pronouns (-сь / -небудь / будь-), Stress-Shift Negatives & Passive Participles",
+        "changes": "Added Rule 5 and Example 5 covering high-frequency passive participles in cultural and geographical descriptions and their case governance: присвя́чений + Dative (dedicated to), засно́ваний + Instrumental (founded by), на́званий на честь + Genitive (named in honor of), вкри́тий + Instrumental (covered with), наси́чений + Instrumental (saturated/rich with), and вра́жений + Instrumental (impressed by)."
+      }
+    ],
+    "newModulesAdded": [
+      {
+        "moduleId": "B1.8",
+        "level": "B1",
+        "title": "Regions & Natural Wonders of Ukraine: Kyiv, Lviv, the Carpathian Polonynas & the Black Sea Coast",
+        "summary": "Comprehensive cultural, geographical, culinary, and grammatical module covering Kyiv landmarks & Pyrohiv Open-Air Museum, Chicken Kyiv culinary vocabulary, Lviv Rynok Square & 1675 coffee heritage, the Ukrainian Carpathians (Mount Hoverla, alpine polonynas, Carpathian Biosphere Reserve, Hutsul banush with brynza), and the Black Sea coast (Odesa seafood catch, deep hydrogen sulfide ecology, and pink pelicans of the Danube Biosphere Reserve)."
+      }
+    ]
+  },
+  "vocabularyAndExercisesAdded": {
+    "newLexiconItemsCount": 76,
+    "totalLexiconItemsNow": 1108,
+    "sampleNewWords": [
+      "присвя́чувати", "во́їн", "промисло́вий", "фіна́нсовий", "могу́тній", "заснува́ти", "по́бут", "вируша́ти", "руша́ти", "кущ",
+      "поете́са", "коро́ль", "королі́вство", "вла́да", "торгове́льний", "ра́туша", "кам’яни́ця", "па́м’ятка", "бе́зліч", "скрізь",
+      "скуштува́ти", "мрі́яти", "фі́рмовий", "філе́", "жовто́к", "спе́ція", "те́ртий", "ба́нуш", "кукуру́дзяний", "бри́нза",
+      "поділя́тися", "верши́на", "висота́", "полони́на", "лу́ка", "тягну́тися", "вкри́тий", "яскра́вий", "едельве́йс", "фіа́лка",
+      "а́йстра", "мак", "густи́й", "сокови́тий", "запові́дник", "неймові́рно", "вра́жений", "страше́нно", "втоми́тися", "морськи́й",
+      "гости́нний", "куро́ртний", "вило́влювати", "уло́в", "ску́мбрія", "кефа́ль", "камбала́", "запа́с", "глибина́", "наси́чений",
+      "во́дорості", "меду́за", "мі́дія", "у́стриця", "креве́тка", "дельфі́н", "тюле́нь", "трапля́тися", "насолоди́тися", "мілково́ддя",
+      "пеліка́н", "степ", "обо́жнювати", "неподалі́к", "рідкі́сний", "домо́витися", "авже́ж", "нетерпі́ння"
+    ],
+    "newExercises": {
+      "fillBlank": ["fb-33", "fb-34", "fb-35", "fb-36"],
+      "sentenceConstruction": ["sc-23", "sc-24", "sc-25"],
+      "contextualChoice": ["cc-23", "cc-24", "cc-25"],
+      "grammarAware": ["ga-23", "ga-24", "ga-25"]
+    },
+    "newReaderPassages": [
+      "A2-carpathian-polonyna-hoverla",
+      "B1-odesa-black-sea-danube-reserve"
+    ]
+  }
+}

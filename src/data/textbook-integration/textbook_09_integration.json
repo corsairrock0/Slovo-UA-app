@@ -1,0 +1,112 @@
+{
+  "textbookNumber": 9,
+  "filename": "500264580-Beginners-Ukrainian-En_9f424489.pdf",
+  "title": "Beginner's Ukrainian with Interactive Online Workbook (2nd Edition, 2013, 446 pp., 15 Lessons + Appendices)",
+  "author": "Yuri Shevchuk",
+  "publisher": "Hippocrene Books, New York",
+  "integratedAt": "2026-10-29",
+  "cefrCoverage": "A0 – B1+ (Ukrainian Alphabet, Phonetics & Assimilation Rules, 4th-Declension Neuter Nouns in -а/-я, 7-Case Declension System, Prepositions & Spatial/Temporal Expressions, Comparative & Superlative Degrees, Cardinal/Ordinal/Collective Numerals, Real vs. Hypothetical Conditionals якщо vs. якби, Medical Care, University Life, Travel & Ukrainian Cuisine)",
+  "educationalScope": {
+    "structure": "15 comprehensive thematic lessons with dialogues, vocabulary, grammar explanations, idioms, and exercises, plus 5 Grammar Appendices (Noun Declensions, Pronoun Declensions, Adjectives, Numerals, Verbs) and Ukrainian-English / English-Ukrainian glossaries.",
+    "keyPhoneticAndOrthographicTopics": [
+      "Complete 33-letter Ukrainian alphabet with positional pronunciation rules",
+      "Voicing of voiceless obstruents before voiced obstruents (вокза́л [воґза́л], боротьба́ [бородьба́], про́сьба [про́зьба], якби́ [яґби́], футбо́л [фудбо́л]) vs. preservation of final voiced consonants (дуб, сад, ніж, гара́ж)",
+      "Bilabial [w] realization of в and unrounded vowel [и] before л/в (пи́во, ми́ло, си́ла, кри́ла)",
+      "4th-declension neuter nouns ending in -а/-я (ім’я́, прі́звище/дитя́, цуценя́, котеня́, курча́, теля́, порося́, лоша́, ягня́) that insert -ат-/-ят- or -ен- in oblique cases except Instrumental singular (-м) and neuter nouns in doubled consonant + -я (життя́, знання́, дозві́лля, узбі́ччя, збі́жжя) vs. apostrophe + -я (пі́р’я, подві́р’я)"
+    ],
+    "keyMorphologicalAndSyntacticTopics": [
+      "Genitive plural zero-ending with fleeting vowel insertion (лі́жко → лі́жок, вікно́ → ві́кон, крі́сло → крі́сел), mountain chains (Карпа́ти → Карпа́т, А́льпи → Альп), and dual Genitive plural of чолові́к (чоловікі́в = men/husbands vs. п’ять чолові́к = five people)",
+      "Stem-changing and -янин nouns taking Genitive singular after numerals 2, 3, 4 (дві дити́ни, дві ді́вчини, три люди́ни, чоти́ри і́мені, два дру́га, два кия́нина, три селя́нина, чоти́ри громадя́нина)",
+      "Oblique declension of бага́то / небага́то across cases (багатьо́х, багатьо́м, багатьма́, у багатьо́х)",
+      "Locative singular in -у/-ю after preposition по meaning 'around / along / through' on inanimate masculine and neuter nouns (ходи́ти по мі́сту, по селу́, по по́лю, пла́вати по мо́рю) vs. static у мі́сті, у селі́, на мо́рі",
+      "Locative singular in -у on monosyllabic masculine nouns with fleeting o/e (у ро́ті, у сні, на льоду́) and accented -у́ after в/у (у лісу́, у саду́, у бою́, на краю́, у кутку́)",
+      "Reflexive verbs in -ся/-сь (вдяга́тися, вмива́тися, голи́тися, причі́суватися, віта́тися, проща́тися, сподіва́тися, дивува́тися, боя́тися, смія́тися, посміха́тися) and reflexive contraction -ться [-цця] / -шся [-сся]",
+      "Comparative degree intensifiers (ще, набага́то, зна́чно, помі́тно, дале́ко, куди́), semantic pairs (моло́дший/молоді́ший, ста́рший/старі́ший, кра́щий/добрі́ший), and all four 'than' constructions (ніж + Nom., як + Nom., від + Gen., за + Acc.)",
+      "Real conditionals with якщо́ / коли́ + indicative future/present vs. hypothetical/counterfactual conditionals with якби́ + past-tense verb (+ б/би in the result clause)",
+      "Medical symptom impersonal constructions (мене́ ну́дить, мене́ моро́зить, у ме́не па́морочиться в голові́, у ме́не печія́ / проно́с / висо́кий тиск / харчове́ отру́єння / запа́лення легень / ангі́на)"
+    ]
+  },
+  "curriculumModifications": {
+    "updatedModules": [
+      {
+        "moduleId": "A0.2",
+        "title": "Vowels, Consonants & Authentic Sound Rules",
+        "changes": "Added Rule 7 & Example 7 covering regressive voicing assimilation of voiceless obstruents before voiced obstruents (вокза́л [воґза́л], боротьба́ [бородьба́], про́сьба [про́зьба], якби́ [яґби́], футбо́л [фудбо́л]) contrasted with absence of final devoicing (дуб, сад, ніж), plus unrounded [и] before л/в (пи́во, ми́ло, си́ла)."
+      },
+      {
+        "moduleId": "A1.2",
+        "title": "Gender of Nouns, Personal Pronouns & 'To Be'",
+        "changes": "Added Rule 8 & Example 8 covering 4th-declension neuter baby-animal & child nouns in -а/-я (дитя́, цуценя́, котеня́, курча́, теля́, порося́, лоша́, ягня́) with -ат-/-ят- stem extension and Instrumental singular in -м (з цуценя́м, з курча́м), plus neuter nouns in doubled consonant + -я (дозві́лля, узбі́ччя, збі́жжя) and apostrophe + -я (подві́р’я, пі́р’я)."
+      },
+      {
+        "moduleId": "A1.4",
+        "title": "Where Is It? The Locative Case & Prepositions У / В / На",
+        "changes": "Added Rule 9 & Example 8 contrasting static Locative in -і (у мі́сті, у селі́, у по́лі, на мо́рі) with motion-around Locative in -у/-ю after preposition по (ходи́ти по мі́сту, ї́здити по селу́, бі́гати по по́лю, пла́вати по мо́рю), plus monosyllabic fleeting-vowel Locatives (у ро́ті, у сні) and accented -у́ Locatives (у лісу́, у саду́, на краю́)."
+      },
+      {
+        "moduleId": "A2.1",
+        "title": "Adjectives, Agreement, Possession & 'У мене є'",
+        "changes": "Added Rule 8 & Example 8 covering specialized Ukrainian hair and eye color adjectives (ка́рі о́чі, бруна́тний, руся́вий, си́вий, попеля́стий, біля́вий, руди́й, ли́сий) and hotel/daily-life duration expressions with доба́ (дві доби́, п’ять діб, цілу́ добу́)."
+      },
+      {
+        "moduleId": "A2.2",
+        "title": "Genitive Case: Negation, Quantity, Origins & Dates",
+        "changes": "Added Rule 8 & Example 7 covering food & grocery containers with Genitive of substance (буха́нка хлі́ба, деся́ток яє́ць, пли́тка шокола́ду, ба́нка ме́ду, па́чка ма́сла, пля́шка олі́ї, кілогра́м боро́шна), the Ukrainian dining order formula «На пе́рше..., на дру́ге..., на десе́рт / на тре́тє...», and traditional dishes (щавле́вий борщ, деруни́, голубці́, пече́ня, узва́р, рога́лик)."
+      },
+      {
+        "moduleId": "B1.2",
+        "title": "Degrees of Comparison, Adverbs & Aspect in the Past/Future",
+        "changes": "Added Rule 9 & Example 8 covering comparative intensifiers (ще, набага́то, зна́чно, помі́тно, дале́ко, куди́), semantic comparative pairs (моло́дший vs. молоді́ший, ста́рший vs. старі́ший, кра́щий vs. добрі́ший), and all four 'than' constructions (ніж + Nom., як + Nom., від + Gen., за + Acc.)."
+      },
+      {
+        "moduleId": "B1.3",
+        "title": "Numbers with Nouns, Complex Sentences (Який, Що, Щоб) & Verbal Nouns",
+        "changes": "Added Rule 9 & Example 8 covering stem-changing and -янин nouns that take Genitive singular after 2, 3, 4 (дві дити́ни, дві ді́вчини, три люди́ни, чоти́ри і́мені, два дру́га, два кия́нина, три селя́нина), dual Genitive plurals (чоловікі́в vs. п’ять чолові́к) and mountain chains (Карпа́т, Альп), and oblique declension of бага́то (багатьо́х, багатьо́м, багатьма́)."
+      }
+    ],
+    "newModulesAdded": [
+      {
+        "moduleId": "B1.9",
+        "level": "B1",
+        "title": "Real vs. Hypothetical Conditionals («якщо́» vs. «якби́»), Medical Care, University Life & Expressing Opinions",
+        "summary": "Full CEFR B1 module with 6 grammar rules, 6 contextual examples, a 6-line dialogue ('Visiting the University Polyclinic Before Exams'), 22 stressed vocabulary items, 3 CFU questions, 6 audio-enabled practice exercises, 4 active recall prompts, and a 6-question mastery exam."
+      }
+    ]
+  },
+  "vocabularyAdditions": {
+    "newVerifiedLexiconCount": 78,
+    "rankRange": "1109–1186",
+    "sampleEntries": [
+      "банкома́т", "та́ця", "обіця́нка", "дитя́", "цуценя́", "котеня́", "курча́", "теля́", "порося́",
+      "дозві́лля", "узбі́ччя", "збі́жжя", "подві́р’я", "по́тяг", "гурто́житок", "філіжа́нка", "світли́на",
+      "кінокарти́на", "фах", "фахіве́ць", "науко́вець", "племі́нник", "не́біж", "середмі́стя", "книга́рня",
+      "засмага́ти", "мобі́лка", "несподі́ванка", "уроди́ни", "горо́дина", "щавле́вий", "інди́чка",
+      "підли́ва", "гарні́р", "рога́лик", "голубці́", "деруни́", "шашли́к", "узва́р", "са́ло", "плацка́ртний",
+      "маршру́тка", "перехре́стя", "ріг", "прову́лок", "кварта́л", "узві́з", "бруна́тний", "руся́вий",
+      "си́вий", "попеля́стий", "доба́", "посели́тися", "влашто́вувати", "буха́нка", "деся́ток",
+      "добро́дій", "перестуди́тися", "отру́єння", "моро́зити", "ну́дити", "тиск", "печія́", "проно́с",
+      "шлу́нок", "запа́лення", "ангі́на", "знебо́лююче", "сноді́йне", "оду́жувати", "ускла́днення",
+      "зга́дка", "виба́гливий", "вважа́ти", "гада́ти", "якби́", "семе́стр"
+    ]
+  },
+  "everydayVocabAndMemoryExercises": {
+    "fillInTheBlankAdded": ["fb-37", "fb-38", "fb-39", "fb-40"],
+    "sentenceConstructionAdded": ["sc-26", "sc-27", "sc-28"],
+    "contextualChoiceAdded": ["cc-26", "cc-27", "cc-28"],
+    "grammarAwareAdded": ["ga-26", "ga-27", "ga-28"]
+  },
+  "readerPassagesAdded": [
+    {
+      "id": "A2-chernihiv-hotel-desna-borscht",
+      "level": "A2",
+      "titleUk": "По́дорож до Черні́гова: готе́ль «Десна́», кімна́та на дві доби́ та зе́лений борщ",
+      "titleEn": "A Trip to Chernihiv: Hotel Desna, a Room for Two Nights, and Green Sorrel Borscht"
+    },
+    {
+      "id": "B1-lviv-university-andriyivskyi-uzviz",
+      "level": "B1",
+      "titleUk": "Університе́тське життя́, і́спити в се́сії та спо́гади про Андрі́ївський узві́з",
+      "titleEn": "University Life, Semester Exams, and Memories of Andriyivskyi Descent"
+    }
+  ]
+}

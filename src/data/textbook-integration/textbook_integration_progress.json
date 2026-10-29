@@ -1,0 +1,125 @@
+{
+  "application": "Slovo UA (LangoUA)",
+  "totalPlannedTextbooks": 12,
+  "completedTextbooksCount": 12,
+  "lastUpdated": "2026-10-29",
+  "curriculumStats": {
+    "totalCourseModules": 29,
+    "totalEverydayVocabCategories": 27,
+    "totalVerifiedLexiconEntries": 1422,
+    "totalReaderPassages": 52,
+    "interactiveVocabMemoryModes": 8
+  },
+  "processedTextbooks": [
+    {
+      "textbookNumber": 1,
+      "filename": "182083997-Karamysheva-I-D-Contrastive-Grammar-of-English-and-Ukrainian-Languages_aa558e35.pdf",
+      "title": "Contrastive Grammar of English and Ukrainian Languages (2nd ed., 2012)",
+      "author": "Iryna D. Karamysheva",
+      "status": "COMPLETED",
+      "recordPath": "src/data/textbook-integration/textbook_01_integration.json",
+      "summaryOfChanges": "Integrated contrastive English-Ukrainian morphology and syntax across 9 existing modules (A0.4, A1.1, A1.3, A1.4, A2.1, A2.2, A2.3, B1.2, B1.3), added 2 new CEFR modules (A2.4 Reflexive Verbs/Reciprocals/Double Negation and B2.2 Impersonal Sentences/Correlatives/Modal Words), added 85 verified stressed vocabulary entries, created the Everyday Vocabulary & Memory Lab tab with 27 practical categories and 8 exercise modes, and added 2 graded reader passages (A2-contrastive-market and B1-evening-carpathians)."
+    },
+    {
+      "textbookNumber": 2,
+      "filename": "253213870-Conversational-Ukrainian_6388302f.pdf",
+      "title": "Conversational Ukrainian (2nd revised ed., 608 pp.)",
+      "author": "Yar Slavutych",
+      "status": "COMPLETED",
+      "recordPath": "src/data/textbook-integration/textbook_02_integration.json",
+      "summaryOfChanges": "Integrated conversational grammar, idioms, and cultural usage across 8 existing modules (A0.3, A1.2, A1.4, A2.2, B1.1, B1.3, B2.1, C1.1), added 2 new CEFR modules (A2.5 Telling Time, Dates, Seasons, Numbers 100–1,000,000 & Arithmetic and B1.4 Mastering Ukrainian Prepositions: Spatial, Temporal & Causal Contrasts), added 73 verified stressed conversational vocabulary entries, expanded Everyday Vocabulary & Memory Lab drills, and added 2 graded reader passages (A2-kyiv-tram-excursion and B2-ukrainian-idioms-theater)."
+    },
+    {
+      "textbookNumber": 3,
+      "filename": "652675610-Ukrainian-Numbers_1c0e31b8.pdf",
+      "title": "Ukrainian Numbers (Ukrainian Numbering Rules, Structure & Practice Drills, 7 pp.)",
+      "author": "Ukrainian Numbers Reference Guide",
+      "status": "COMPLETED",
+      "recordPath": "src/data/textbook-integration/textbook_03_integration.json",
+      "summaryOfChanges": "Integrated complete Ukrainian numeral architecture into A0.4 (teens 11–19 in -надцять, tens 20–100, compound number agreement, Dative age Мені сімнадцять років) and A2.5 (hundreds 100–900 сто/двісті/триста/чотириста/п'ятсот–дев'ятсот, feminine тисяча agreement одна тисяча / дві тисячі / п'ять тисяч, мільйон/мільярд/трильйон, and Ukrainian arithmetic operations додавати, віднімати, множити, ділити, дорівнює), plus 32 verified stressed numeral and arithmetic lexicon entries and memory drills."
+    },
+    {
+      "textbookNumber": 4,
+      "filename": "652675263-Ukrainian-Textbook_a3820c80.pdf",
+      "title": "Teach Yourself Ukrainian (Complete Course in Spoken and Written Ukrainian, 300 pp., 18 Units)",
+      "author": "Olena Bekh & James Dingley",
+      "status": "COMPLETED",
+      "recordPath": "src/data/textbook-integration/textbook_04_integration.json",
+      "summaryOfChanges": "Integrated communicative Ukrainian grammar and vocabulary across 10 existing modules (A0.3, A1.2, A1.3, A1.4, A2.2, A2.3, A2.4, A2.5, B1.2, B2.2), added 1 new CEFR module (B2.3 Indefinite Pronouns -сь/-небудь/будь-, Stress-Shift Negatives ні́кого/ні́коли & Passive Participles), added 68 verified stressed vocabulary entries (customs, sleeper trains, banking, apartment rental, Ukrainian dishes, birthday toasts, polyclinic health care, physical appearance), added 13 Everyday Vocabulary & Memory Lab drills, and added 2 graded reader passages (B1-boryspil-customs-hotel and B2-odesa-express-birthday)."
+    },
+    {
+      "textbookNumber": 5,
+      "filename": "100012355-04-Learn-Ukrainian-an-Elementary-Practical-Course-in-Conversational-Ukrainian_6fc26cc2.pdf",
+      "title": "Learn Ukrainian: An Elementary Practical Course in Conversational Ukrainian (Вивчайте українську мову, 253 pp.)",
+      "author": "Halina I. Makarova, Larissa M. Palamar & Nataliya K. Prisyazhnyuk",
+      "status": "COMPLETED",
+      "recordPath": "src/data/textbook-integration/textbook_05_integration.json",
+      "summaryOfChanges": "Integrated phonetic, intonation, positional, and 7-case declension patterns across 7 existing modules (A0.1, A0.2, A1.1, A1.2, A1.3, A2.5, B1.1), added 1 new CEFR module (B1.5 The 7-Case Declension System: Hard, Soft & Mixed Groups, Demonstratives цей/той & Possessives), integrated 87 verified stressed vocabulary entries (Shevchenko & cultural heritage, multi-course Ukrainian dining, Dnipro river cruise, folk arts, high-frequency case-governing verbs), added 13 Everyday Vocabulary & Memory Lab drills (fb-21..24, sc-14..16, cc-14..16, ga-14..16), and added 2 graded reader passages (A2-kyiv-khreshchatyk-dinner and B1-kaniv-tarasova-hora-cruise)."
+    },
+    {
+      "textbookNumber": 6,
+      "filename": "700393490-Beginners-Ukrainian-by-Johannes-Poulard_5e974cb2.pdf",
+      "title": "Beginner's Ukrainian (Як ся маєш, 334 pp., 15 Lessons)",
+      "author": "Johannes Poulard",
+      "status": "COMPLETED",
+      "recordPath": "src/data/textbook-integration/textbook_06_integration.json",
+      "summaryOfChanges": "Integrated cardinal numeral 7-case declensions, word-initial verbal/nominal euphony, Vocative mutations, affectionate diminutives, productive verbal nouns (-ння/-ття), Ukrainian holiday traditions (Різдво, дідух, колядки, щедрівки, «Щедрик», Великдень, писанка with писачок & віск vs. крашанка, паска, веснянки), and postal/date conventions across 5 existing modules (A0.3, A0.4, B1.2, B1.3, C1.1), added 1 new CEFR module (B1.6 Declining Cardinal Numerals Across All 7 Cases, Ukrainian Holiday Traditions & Letter Etiquette), integrated 71 verified stressed vocabulary entries, added 13 Everyday Vocabulary & Memory Lab drills (fb-25..28, sc-17..19, cc-17..19, ga-17..19), and added 2 graded reader passages (A2-ukrainian-christmas-shchedryk and B1-velykden-pysanky-poltava)."
+    },
+    {
+      "textbookNumber": 7,
+      "filename": "642520675-Colloquial-Ukrainian-The-Complete-Course-for-Beginners-Ian-Press-Stefan-Pugh-pdf_206d016c.pdf",
+      "title": "Colloquial Ukrainian: The Complete Course for Beginners (382 pp., 20 Lessons)",
+      "author": "Ian Press & Stefan Pugh",
+      "status": "COMPLETED",
+      "recordPath": "src/data/textbook-integration/textbook_07_integration.json",
+      "summaryOfChanges": "Integrated consonant cluster simplification, nationality/resident suffixes (-янин → pl. -яни), Genitive -а vs. -у & singulative -и́на, athematic verbs (дати, їсти, відповісти/розповісти), compound adjectives & -ува́тий, wearing vs. putting on clothes/footwear, transitive motion verbs (нести, везти, вести), numerical approximation by inversion (днів чотири), and special Instrumental plurals (дітьми, людьми, очима, дверима) across 8 existing modules (A0.2, A1.1, A1.4, A2.1, A2.3, A2.4, B1.1, B1.3); added 1 new CEFR module (B1.7 Placing vs. Resting класти/лежати/лягати, Ukrainian Surnames, In-Laws & Applying); integrated 72 verified stressed vocabulary entries; added 13 Everyday Vocabulary & Memory Lab drills (fb-29..32, sc-20..22, cc-20..22, ga-20..22); and added 2 graded reader passages (A2-kyiv-post-office-hotel-lybid and B2-lviv-vysokyi-zamok-history)."
+    },
+    {
+      "textbookNumber": 8,
+      "filename": "587704497-Pysanka-Ukrainian-Language-and-Culture_0542efbc.pdf",
+      "title": "Pysanka: Ukrainian language and culture — Coursebook and culture guide (25 pp., Unit 1: Places & Unit 2: Nature)",
+      "author": "Hanna Yurchenko",
+      "status": "COMPLETED",
+      "recordPath": "src/data/textbook-integration/textbook_08_integration.json",
+      "summaryOfChanges": "Integrated plural stress shifts (чоловік → чоловіки, батько → батьки, гора → гори, ріка → ріки, море → моря, озеро → озера) and stem vowel alternations (колір → кольори, стіл → столи), па́м’ятник vs. па́м’ятка, conversational synthetic future (-тиму) & spoken agreement idioms («І не кажи!», «Домовилися!», «Авжеж!»), historical year/decade/century reading, stress-based Imperative formation (-и/-імо/-іть vs. -й/-ймо/-йте vs. -ь/-ьмо/-ьте), and passive participles in cultural/geographical descriptions (присвячений, заснований, вкритий, насичений, вражений) across 5 existing modules (A1.1, A2.1, A2.5, B1.2, B2.3); added 1 new CEFR module (B1.8 Regions & Natural Wonders of Ukraine: Kyiv, Lviv, the Carpathian Polonynas & the Black Sea Coast); integrated 76 verified stressed vocabulary entries; added 13 Everyday Vocabulary & Memory Lab drills (fb-33..36, sc-23..25, cc-23..25, ga-23..25); and added 2 graded reader passages (A2-carpathian-polonyna-hoverla and B1-odesa-black-sea-danube-reserve)."
+    },
+    {
+      "textbookNumber": 9,
+      "filename": "500264580-Beginners-Ukrainian-En_9f424489.pdf",
+      "title": "Beginner's Ukrainian with Interactive Online Workbook (2nd Edition, 2013, 446 pp., 15 Lessons + Appendices)",
+      "author": "Yuri Shevchuk",
+      "status": "COMPLETED",
+      "recordPath": "src/data/textbook-integration/textbook_09_integration.json",
+      "summaryOfChanges": "Integrated regressive voicing assimilation (вокзал, боротьба, просьба, якби), 4th-declension neuter baby-animal & child nouns in -а/-я (дитя, цуценя, котеня, курча, теля, порося) with Instrumental singular in -м, Locative singular in -у/-ю after по meaning 'around/along' (ходити по місту, по селу, по полю), specialized hair/eye color adjectives (карі, брунатний, русявий, сивий, попелястий) & доба duration expressions, grocery containers & multi-course Ukrainian dining («На перше..., на друге..., на третє...»), comparative intensifiers & all 4 'than' constructions (ніж, як, від + Gen., за + Acc.), and Genitive singular after 2, 3, 4 on stem-changing & -янин nouns (дві дитини, три людини, два киянина) across 7 existing modules (A0.2, A1.2, A1.4, A2.1, A2.2, B1.2, B1.3); added 1 new CEFR module (B1.9 Real vs. Hypothetical Conditionals якщо vs. якби, Medical Care, University Life & Expressing Opinions); integrated 78 verified stressed vocabulary entries; added 13 Everyday Vocabulary & Memory Lab drills (fb-37..40, sc-26..28, cc-26..28, ga-26..28); and added 2 graded reader passages (A2-chernihiv-hotel-desna-borscht and B1-lviv-university-andriyivskyi-uzviz)."
+    },
+    {
+      "textbookNumber": 10,
+      "filename": "492483089-Ukrainian-for-Speakers-of-English-Text-Introductory-and-Intermediate-Levels-PDFDrive_aca87127.pdf",
+      "title": "Ukrainian for Speakers of English: Text — Introductory and Intermediate Levels (1994, 429 pp., 38 Lessons + 5 Appendices + Vocabularies)",
+      "author": "Roma Franko",
+      "status": "COMPLETED",
+      "recordPath": "src/data/textbook-integration/textbook_10_integration.json",
+      "summaryOfChanges": "Integrated emphatic є vs. ось/он & correlative conjunctions, the 5-subgroup Second Conjugation system & я/ти mutation diagnostic, Definite Accusative vs. Indefinite Genitive direct objects & іти/їхати по + Accusative, позичати кому (lend) vs. позичати у кого (borrow) & 3rd-declension feminine Instrumental singular doubling (ніччю, сіллю, подорожжю vs. любов'ю), the 4-way gender/number reciprocal system (одна одну, один одного, одне одного, одні одних) & split negative pronouns (ні з ким, ні про що, ні до кого), oblique collective numerals (двоє–тридцятеро, обидва/обоє, кілька, усіма), past counterfactual conditionals (був би + past) & two-word що б vs. one-word щоб, and complete verbal prefixation chains across 8 existing modules (A0.4, A1.2, A1.3, A2.2, A2.4, B1.6, B1.9, B2.1); added 1 new CEFR module (B2.4 Possessive Adjectives -ин/-їн & -ів/-їв, Short Adjectives повинен/винен/певен, Masculine -а/-я Nouns & Emphatic «сам»); integrated 76 verified stressed vocabulary entries; added 13 Everyday Vocabulary & Memory Lab drills (fb-41..44, sc-29..31, cc-29..31, ga-29..31); and added 2 graded reader passages (A2-wedding-lviv-marusya-yuriy and B2-winter-storm-embassy-judge)."
+    },
+    {
+      "textbookNumber": 11,
+      "filename": "887267138-Complete-Ukrainian-Enhanced-eBook_22568a0f.pdf",
+      "title": "Complete Ukrainian (Revised 3rd Edition, 2016, 320 PDF pages, 18 Units)",
+      "author": "Olena Bekh & James Dingley",
+      "status": "COMPLETED",
+      "recordPath": "src/data/textbook-integration/textbook_11_integration.json",
+      "summaryOfChanges": "Integrated «Будь ласка» vs. «Прошу!», Ukrainian business card (візитка) name/title conventions, declinable «пальто» (в новому пальті) vs. indeclinable loanwords, the complete 3-way spatial adverb matrix (Де? / Куди? / Звідки?), official weather forecasts & impersonal scent/twilight verbs + «оксамитовий сезон», aspectual contrast of «запізнюватися» (running late) vs. «запізнитися» (missed it) & city transit, «будучи» & negated verbal adverbs for English 'without -ing' (не поспішаючи, не будучи), and formal letter/email salutations across 8 existing modules (A0.3, A1.4, A2.2, A2.3, A2.5, B1.1, B2.1, C1.1); added 1 new CEFR module (B2.5 Business Ukrainian, Joint Ventures, Conversational Tactics, Exclamations & Word Families); integrated 86 verified stressed vocabulary entries; added 13 Everyday Vocabulary & Memory Lab drills (fb-45..48, sc-32..34, cc-32..34, ga-32..34); and added 2 graded reader passages (B1-kyiv-simferopol-express-velvet-season and B2-joint-venture-kyiv-fashion-botanical)."
+    },
+    {
+      "textbookNumber": 12,
+      "filename": "687276877-Ukrainian-Phrasebook-5-for-Shop_1e614f76.pdf",
+      "title": "Ukrainian Phrasebook & Dictionary (5th Edition, July 2020, 292 PDF pages)",
+      "author": "Marko Pavlyshyn",
+      "status": "COMPLETED",
+      "recordPath": "src/data/textbook-integration/textbook_12_integration.json",
+      "summaryOfChanges": "Integrated the history of «Ґ ґ», two-sound «зг» [zɦ] vs. «ж» [ʒ], place-name romanization & stress minimal pairs, post-nominal menu adjectives (картопля смажена), 3 words for jam (варення/повидло/джем) & culinary false friends (консерванти vs. презервативи, круглий стіл), natural-world etymologies of all 12 Ukrainian months & parallel clock/time idioms (учора ввечері = last night), public signage (ДО СЕБЕ vs. ВІД СЕБЕ), 4 train classes & car/bicycle rental & breakdowns, Zaporozhian Cossack compound surnames (Непийпиво, Загубиколесо), and Ukrainian landscape belts, folk instruments (трембіта, цимбали, сопілка, дримба, ліра), dances (аркан, метелиця) & folk attire (плахта, керсетка, кептар, шаровари, коралі) across 6 existing modules (A0.2, A2.2, A2.5, B1.1, B1.6, B1.8); added 1 new CEFR module (B1.10 Safe Travel, Emergencies, Dental & Optical Care, and Sustainable Ecology); integrated 74 verified stressed vocabulary entries; added 13 Everyday Vocabulary & Memory Lab drills (fb-49..52, sc-35..37, cc-35..37, ga-35..37); and added 2 graded reader passages (A2-carpathian-green-tourism-trembita and B1-sustainable-travel-dnipro-estuary-safety)."
+    }
+  ],
+  "pendingTextbooks": []
+}
+

@@ -1,0 +1,543 @@
+{
+  "textbookId": "textbook_01",
+  "sourceFile": "/public/assets/aistudio/100012355-04-Learn-Ukrainian-an-Elementary-Practical-Course-in-Conversational-Ukrainian_6fc26cc2.pdf",
+  "bibliographicInfo": {
+    "titleEn": "Learn Ukrainian: An Elementary Practical Course in Conversational Ukrainian",
+    "titleUk": "Вивчайте українську мову",
+    "authors": [
+      "Halina I. Makarova (Г. І. Макарова)",
+      "Larissa M. Palamar (Л. М. Паламар)",
+      "Nataliya K. Prisyazhnyuk (Н. К. Присяжнюк)"
+    ],
+    "publisher": "Vyshcha Shkola Publishing House (Видавниче об'єднання «Вища школа»)",
+    "city": "Kyiv (Kiev)",
+    "year": 1975,
+    "totalPdfPages": 253,
+    "bookPageRange": "1–255",
+    "activeVocabularyTarget": 1000,
+    "structureOverview": {
+      "part1": "Introductory Phonetic Course (Lessons 1–9, Book pp. 9–99): Articulatory phonetics, Cyrillic script (printed & cursive), stress models, intonation contours, core pronouns, noun gender/plural basics, and Present Tense Conjugations I & II.",
+      "part2": "Introductory Course in Grammar (Lessons 1–21, Book pp. 100–228): Systematic functional-syntactic introduction of tenses, aspect, adjectives, numerals, verbs of motion, and all seven Ukrainian cases.",
+      "backMatter": "Answer Key to Part I & II Exercises (Book pp. 229–237), Ukrainian-English Vocabulary with stress & verb conjugation markers (Book pp. 238–253), Appendix of Days, Months, Seasons, Names, Colors, and Cardinal/Ordinal Numerals up to 1,000,000,000 (Book pp. 254–255)."
+    }
+  },
+  "analysisCompleteness": {
+    "analyzedPdfPages": "1–253 (all 253 pages in the PDF)",
+    "unanalyzedOrMissingPages": [
+      "Book pages 8, 99, 239 are blank separator/verso pages omitted in pagination or unnumbered.",
+      "Note on Appendix table headers (PDF pp. 252–253 / Book pp. 254–255): The printed book transposed the column headers 'Ordinal numerals' and 'Cardinal numerals' (listing один, два, три under 'Ordinal' and перший, другий, третій under 'Cardinal'). This printing erratum is flagged so it is not propagated."
+    ]
+  },
+  "cefrMapping": {
+    "overallRange": "A0 to A2+ (with B1 morphological foundations in full case/adjective/numeral paradigms)",
+    "segments": [
+      {
+        "section": "Part I, Lessons 1–4",
+        "cefrLevel": "A0",
+        "scope": "Cyrillic alphabet (printed & handwritten), core vowels/consonants, palatalization, apostrophe, zero copula in present, negation (не/ні), gender of nouns, nominative plural (-и), personal & possessive pronouns (мій, твій), intonation of statements/questions, euphonic і/й."
+      },
+      {
+        "section": "Part I, Lessons 5–9",
+        "cefrLevel": "A0–A1",
+        "scope": "Sibilants, affricates, pharyngeal [г] vs velar [ґ], rolled [р]/[р'], geminated consonants, Present Tense Conjugations I & II (including labial mutation in робити/любити, -ува- verbs like купувати/працювати, reflexive -ся/-сь in учитися/вчитися), imperative mood, euphonic у/в, complete nominative plural patterns (-и, -і, -ї, -а/-я)."
+      },
+      {
+        "section": "Part II, Lessons 1–5",
+        "cefrLevel": "A1",
+        "scope": "Parts of speech & sentence syntax, animate vs inanimate nouns (хто? vs що?), gender exceptions (дядько, суддя, тінь, ніч, дівча), patronymics (-ович, -івна/-ївна), Vocative case, Past Tense, Analytical & Synthetic Future Tense (-му, -меш), adjective gender/number agreement, ordinal numerals (1st–12th) & basic clock time, verbal aspect pairs (imperfective vs perfective)."
+      },
+      {
+        "section": "Part II, Lessons 6–10 & Summary",
+        "cefrLevel": "A1–A2",
+        "scope": "Accusative case (inanimate & animate singular/plural, adjectives, personal & possessive pronouns), irregular verbs їсти/пити, unidirectional vs multidirectional verbs of motion (іти/їхати vs ходити/їздити; піти/поїхати), Accusative of direction (у/в vs на), Accusative of object of thought (про + Acc.), days of the week (у/в + Acc.), half/quarter clock time (пів на, чверть на)."
+      },
+      {
+        "section": "Part II, Lessons 11–16",
+        "cefrLevel": "A2",
+        "scope": "Genitive case (possession, origin/attribution, Genitive singular -а/-я vs -у/-ю for masculine nouns, Genitive after negation немає, Genitive of possession у мене є, Genitive after cardinal numerals 1, 2–4 vs 5+, Soviet currency expressions, Genitive of direction до/з/зі + Gen., calendar dates), Locative case of place (singular & plural, क/г/х -> ц/з/с mutation, -у/-ю locatives, adjectives & demonstratives цей/той in Nom/Acc/Gen/Loc), full clock time expressions (о котрій годині?, за чверть, без чверті, minutes with на/за, 24-hour radio time)."
+      },
+      {
+        "section": "Part II, Lessons 17–21",
+        "cefrLevel": "A2–B1",
+        "scope": "Dative case (indirect object, masculine parallel endings -ові/-еві/-єві vs -у/-ю, feminine k/g/kh mutation, personal/possessive pronouns, adjectives, plural -ам/-ям, age constructions, impersonal dative states мені холодно/треба/можна, подобатися), reflexive possessive свій, Instrumental case (instrument, transport без прийменника, spatial path полем/лісом/вулицею, accompaniment з/із/зі, predicate nominals з бути/стати/працювати, verbs governing Instrumental), synthesis of all 7 cases and hard/soft/mixed declension groups."
+      }
+    ]
+  },
+  "grammarInventory": [
+    {
+      "id": "G01_PHONETICS_VOWELS_STRESS",
+      "part": "Part I",
+      "lessons": ["Lesson 1", "Lesson 2", "Lesson 3", "Lesson 4", "Lesson 9"],
+      "title": "Ukrainian Vowel System, Unstressed Vowel Allophony, and Dynamic Word Stress",
+      "explanation": "Ukrainian has 6 simple vowels: [а], [о], [у], [и], [і], [е], classified by tongue height (high: і, и, у; middle: е, о; low: а) and horizontal position (front: і, е; mixed: и; back: у, о, а). Iotized letters я, ю, є, ї represent two fused sounds [йа], [йу], [йе], [йі] word-initially, after vowels, and after an apostrophe; after consonants, я, ю, є represent single vowels [а], [у], [е] and palatalize the preceding consonant. Word stress is dynamic and free (can fall on any syllable) and frequently shifts across inflectional forms (син -> сини́, па́пка -> папки́, пишу́ -> пи́шеш).",
+      "notableRules": [
+        "No phonemic long/short vowel distinction; unstressed vowels are pronounced much more distinctly than in English or Russian.",
+        "Specific unstressed vowel qualitative shifts (Part I, Lesson 9, p. 89): (1) unstressed 'е' approaches 'и' (село́ [сеило́]); (2) unstressed 'и' approaches 'е' (живе́ [жиеве́]); (3) unstressed 'о' before a syllable with stressed [у] or [і] approaches [у] (голу́бка [гоулу́бка])."
+      ]
+    },
+    {
+      "id": "G02_PHONETICS_CONSONANTS_EUPHONY",
+      "part": "Part I",
+      "lessons": ["Lesson 1", "Lesson 2", "Lesson 3", "Lesson 4", "Lesson 5", "Lesson 6", "Lesson 7", "Lesson 8", "Lesson 9"],
+      "title": "Consonant System, Palatalization, Gemination, Apostrophe, and Euphony",
+      "explanation": "Ukrainian has 32 consonant phonemes categorized by organ of articulation (bilabial, labiodental, dental, alveolar, midlingual, backlingual, pharyngeal), voicing, and palatalization (hard vs. soft). Dental consonants д, т, з, с, ц, л, н, р have phonemic soft counterparts [д'], [т'], [з'], [с'], [ц'], [л'], [н'], [р']. Affricates include [ц], [ч], and fusedvoiced digraphs дз [д͡з] and дж [д͡ж]. Letter щ always represents two sounds [шч].",
+      "notableRules": [
+        "Pharyngeal [г] (voiced glottal/pharyngeal fricative, as in газе́та, друг) vs. velar plosive [ґ] (in ґу́дзик, ґа́нок; printed with the same letter г in 1975 Soviet orthography, explicitly distinguished in phonetic transcription).",
+        "Bilabial/labiodental [в]: pronounced like a bilabial approximant (similar to English [w] without strong lip protrusion) in多くのpositions, and like labiodental [v] before 'і' (e.g., виде́лка, p. 44).",
+        "Voiceless plosives [п], [т], [к] are unaspirated.",
+        "Apostrophe (’) is used mainly after labials (б, п, в, м, ф) and р before я, ю, є, ї to keep the consonant hard and preserve the [й] glide (м'я́со [мйа́со], сім'я́, п'ю, п'є).",
+        "Geminated (long) consonants (подовжені приголосні) are spelled with double letters and pronounced with prolonged hold: [т':] життя́, [д':] суддя́, [с':] воло́сся, [з':] галу́ззя, [ч':] сторі́ччя, [н':] оповіда́ння, [л':] весі́лля, [ц':] мі́ццю, [ж':] узбере́жжя, [ш':] підда́шшя.",
+        "Euphonic alternations: Conjunction і / й (і between consonants or sentence-initially; й between vowels; either after vowel before consonant depending on tempo). Initial у- / в- alternation in lexical roots (учи́тель / вчи́тель, учи́тися / вчи́тися, уже́ / вже, удо́ма / вдо́ма, учо́ра / вчо́ра, упе́рше / впе́рше) and prepositions у / в / вві, з / із / зі."
+      ]
+    },
+    {
+      "id": "G03_INTONATION_CONTOURS",
+      "part": "Part I",
+      "lessons": ["Lesson 1", "Lesson 2", "Lesson 3", "Lesson 5", "Lesson 6", "Lesson 8", "Lesson 9"],
+      "title": "Five Core Intonation Contours (ІК-1 to ІК-5)",
+      "explanation": "The textbook systematically marks pitch contours over sentences and summarizes 5 primary intonational patterns:",
+      "notableRules": [
+        "1. Declarative sentence (full stop): Gradual falling tone (↘) on the stressed syllable of the intonational center (Це мій ↘ друг).",
+        "2. Special question (with interrogative word де, хто, що, який, чий, як): Energetic stress with a slight pitch rise (↑) on the interrogative word, followed by low pitch and a fall (↘) on the final stressed word (↑ Де ↘ ма́ма?). Polite imperatives with будь ла́ска follow this same contour (↑ Скажі́ть, будь ↘ ла́ска...).",
+        "3. General question (yes/no without auxiliary): Sharp rise of tone (↗) on the stressed syllable of the intonational center, followed by a sudden fall on post-tonic syllables (Тут ↗ ка́ва?).",
+        "4. Incomplete question with contrastive 'а' (А ↗ там? А ↗ дити́на?): Low pitch on the stressed syllable followed by a gradual rise of tone.",
+        "5. Exclamation (↗ Як він ↘ чита́є!): Considerable rise on the initial word, sustained high level on middle syllables, and a fall on the final stressed syllable.",
+        "Alternative questions with 'чи' (Це ча́шка ↗ чи ↘ ло́жка?): Rising intonation before 'чи' and falling intonation at the end."
+      ]
+    },
+    {
+      "id": "G04_SYNTAX_ZERO_COPULA_NEGATION",
+      "part": "Part I & II",
+      "lessons": ["Part I Lesson 1", "Part I Lesson 3", "Part II Introduction"],
+      "title": "Zero Articles, Present Zero Copula, Negation, and Simple Sentence Structure",
+      "explanation": "Ukrainian has no articles. The present-tense link-verb 'to be' is normally omitted (Мак тут. Макси́м — студе́нт.), with an orthographic dash (—) placed between two nouns in subject-predicate equational sentences. Negation is formed by placing the unstressed proclitic particle 'не' immediately before the negated word (Це не ла́ва).",
+      "notableRules": [
+        "Principal sentence parts: Subject (хто? що?) and Predicate (Pattern I: Noun/Adjective/Numeral/Adverb predicate with zero copula; Pattern II: Verbal predicate).",
+        "Secondary sentence parts: Attribute (який? чий? котрий?), Object (кого? що? etc.), and Adverbial modifier (коли? де? куди? звідки? як?)."
+      ]
+    },
+    {
+      "id": "G05_NOUN_GENDER_NUMBER_ANIMACY",
+      "part": "Part I & II",
+      "lessons": ["Part I Lesson 2", "Part I Lesson 3", "Part I Lesson 6", "Part I Lesson 8", "Part II Lesson 1"],
+      "title": "Noun Animacy, Grammatical Gender (including Exceptions), and Nominative Plural",
+      "explanation": "Nouns are divided into animate (living beings: persons and animals, answering хто?) and inanimate (objects, places, abstract notions, answering що?). Grammatical gender is Masculine (він), Feminine (вона́), or Neuter (воно́).",
+      "notableRules": [
+        "Typical vs. Non-typical gender endings (Part II, Lesson 1, p. 105): Masculine typically ends in hard/soft consonant (студе́нт, украї́нець), but animate male nouns in -о (ба́тько, дя́дько, Дніпро́), -а (Мико́ла, ста́роста), and -я (суддя́) are masculine. Feminine typically ends in -а/-я, but 3rd-declension nouns ending in a soft consonant (тінь, осінь) or sibilant/labial (річ, ніч, любо́в, сіль) are feminine. Neuter typically ends in -о (село́), -е (по́ле, мо́ре), or geminated consonant + -я (оповіда́ння, життя́) and -м'я (ім'я́), plus diminutives of young beings in -а/-я (дівча́).",
+        "Singularia tantum (мир, Ки́їв, молоко́, ка́ва, ма́сло, са́ло) and Pluralia tantum (гро́ші, две́рі, я́сла, о́чі, ме́блі, Карпа́ти).",
+        "Nominative Plural endings: Hard masculine & feminine in -а take -и (студе́нти, кни́жки); soft masculine (-ь), sibilant stems (ж, ч, ш, щ), and -р (лі́кар -> лікарі́) take -і, often with fleeting -е- drop in -ень/-ець (у́чень -> у́чні, день -> дні, оліве́ць -> олівці́, стіле́ць -> стільці́); feminine in soft -я, sibilant + -а (пло́ща -> пло́щі), and consonant-stem feminines (тінь -> ті́ні, річ -> ре́чі with е->і alternation) take -і; masculine in -й and feminine in -ія / apostrophe + -я take -ї (музе́ї, наді́ї, сім'ї́); neuter in -о takes -а (се́ла, ві́кна, міста́); neuter in -е takes -я (поля́, моря́); neuter in geminated consonant + -я remains unchanged in spelling with stress shift (оповіда́ння).",
+        "Irregular Nominative Plurals: ма́ти -> матері́, дити́на -> ді́ти, друг -> дру́зі, люди́на -> лю́ди, о́ко -> о́чі."
+      ]
+    },
+    {
+      "id": "G06_PROFESSIONS_PATRONYMICS_VOCATIVE",
+      "part": "Part II",
+      "lessons": ["Part II Lesson 1"],
+      "title": "Gendered Profession/Nationality Nouns, Patronymics, and Vocative Case",
+      "explanation": "Many nouns denoting nationality, status, or profession have distinct masculine and feminine correlatives (украї́нець/украї́нка, кия́нин/кия́нка, студе́нт/студе́нтка, робітни́к/робітни́ця, у́чень/учени́ця, вчи́тель/вчи́телька), whereas others are used in the masculine form for both men and women (інжене́р, гід, суддя́, лі́кар, агроно́м, філо́лог, біо́лог).",
+      "notableRules": [
+        "Patronymics (ім'я́ по ба́тькові): Formed from the father's given name with -ович / -йович for men (Петро́вич, Іва́нович, Микола́йович) and -івна / -ївна for women (Петрі́вна, Іва́нівна, Микола́ївна). Used in polite/formal address with the first name.",
+        "Vocative Case (Клична форма): Used for direct address with both personal names, patronymics, and common nouns. Both first name and patronymic must be declined into the Vocative (Іва́не Петро́вичу!, Оле́но Петрі́вно!, Мико́ло Іва́новичу!).",
+        "Vocative endings: Hard masculine -е (студе́нте, бра́те, Іва́не, Степа́не, Пе́тре, Джо́не, Гна́те, Ки́єве, Дні́пре) with velar palatalization к->ч, г->ж (юна́к -> юна́че, друг -> дру́же); soft/mixed masculine & -о/-ко masculine take -у/-ю (учи́телю, у́чню, лі́карю, това́ришу, ба́тьку, си́ну, хлопчику, Оле́сю, Ю́рку, дя́дьку); hard feminine -о (студе́нтко, вчи́телько, до́чко, се́стро, ді́вчино, Украї́но, Окса́но, Марі́є/Га́нно); soft/mixed feminine -е/-є (учени́це, мату́сю, бабу́сю)."
+      ]
+    },
+    {
+      "id": "G07_VERBS_PRESENT_IMPERATIVE",
+      "part": "Part I",
+      "lessons": ["Part I Lesson 5", "Part I Lesson 6", "Part I Lesson 7", "Part I Lesson 8"],
+      "title": "Present Tense Conjugations I & II, Stem Alternations, Reflexive Verbs, and Imperative Mood",
+      "explanation": "Ukrainian verbs are divided into Conjugation I (-у/-ю, -еш/-єш, -е/-є, -емо/-ємо, -ете/-єте, -уть/-ють) and Conjugation II (-у/-ю, -иш/-їш, -ить/-їть, -имо/-їмо, -ите/-їте, -ать/-ять).",
+      "notableRules": [
+        "Conjugation I subclasses: Vowel stems (чита́ти -> чита́ю, чита́єш; розповіда́ти; відповіда́ти; розмовля́ти); consonant stems with root alternation (писа́ти -> пишу́, пи́шеш; жи́ти -> живу́, живе́ш; хоті́ти -> хо́чу, хо́чеш); suffix -ува-/-юва- drops -ва- and replaces with -у-/-ю- (купува́ти -> купу́ю, купу́єш; працюва́ти -> працю́ю, працю́єш).",
+        "Conjugation II subclasses: Sibilant/soft stems (лежа́ти -> лежу́, лежи́ш, лежа́ть; стоя́ти -> стою́, стої́ш, стоя́ть; сиді́ти -> сиджу́ [д->дж in 1st sg], сиди́ш, сидя́ть; ди́витися -> дивлю́ся, ди́вишся); labial stems (б, п, в, м before -ити) insert epenthetic -л- in 1st person singular and 3rd person plural (роби́ти -> роблю́, ро́биш, ро́блять; люби́ти -> люблю́, лю́биш, лю́блять; спа́ти -> сплю, спиш, сплять).",
+        "Reflexive verbs in -ся/-сь (учи́тися/вчи́тися -> вчу́ся/вчусь, вчи́шся, у́читься [у́чиц':а], вчимо́ся/вчимо́сь, вчите́ся/вчите́сь, вча́ться [вча́ц':а]): -ся can shorten to -сь after vowels in 1st sg and 1st/2nd pl; 3rd person -ться is pronounced as a long soft affricate [ц':а].",
+        "Irregular archaic-stem verbs (Part II, Lesson 6, p. 131): ї́сти (їм, їси́, їсть, їмо́, їсте́, їдя́ть) and пи́ти (п'ю, п'єш, п'є, п'ємо́, п'єте́, п'ють).",
+        "Imperative Mood (Наказовий спосіб): Formed from the present stem for ти, ми, ви. Vowel stems add -й, -ймо, -йте (чита́й, чита́ймо, чита́йте; стій, сті́ймо, сті́йте; купу́й, купу́йте). Consonant stems addstressed -и́, -і́мо, -і́ть (пиши́, пиші́мо, пиші́ть; сиди́, сиді́мо, сиді́ть; роби́, робі́ть; люби́, любі́ть) or unstressed -ь, -ьмо, -ьте."
+      ]
+    },
+    {
+      "id": "G08_VERBS_PAST_FUTURE_ASPECT",
+      "part": "Part II",
+      "lessons": ["Part II Lesson 2", "Part II Lesson 3", "Part II Lesson 5"],
+      "title": "Past Tense, Analytical & Synthetic Future Tense, and Verbal Aspect",
+      "explanation": "Ukrainian verbs distinguish Imperfective aspect (що роби́ти? — ongoing, habitual, or uncompleted process) and Perfective aspect (що зроби́ти? — completed action achieving a result).",
+      "notableRules": [
+        "Past Tense: Formed from the infinitive stem by dropping -ти and adding gender/number suffixes: -в (m.), -ла (f.), -ло (n.), -ли (pl.) for both imperfective and perfective verbs (писа́в / написа́в). Irregular past: іти́ -> ішо́в, ішла́, ішли́; ї́сти -> їв, ї́ла, ї́ли; вмерти -> вмер.",
+        "Imperfective Future Tense has two parallel interchangeable forms: (a) Analytical: бу́ду, бу́деш, бу́де, бу́демо, бу́дете, бу́дуть + imperfective infinitive (бу́ду чита́ти); (b) Synthetic: full imperfective infinitive + suffix -м- + present endings -у, -еш, -е, -емо, -ете, -уть (чита́тиму, чита́тимеш, чита́тиме, чита́тимемо, чита́тимете, чита́тимуть; роби́тиму; диви́тимуся).",
+        "Perfective Future Tense: Perfective verbs have no present tense; their present-form conjugation expresses completed future action (напишу́, напи́шеш; прочита́ю; куплю́, ку́пиш; почну́, почне́ш; закінчу́, закінчи́ш; відпочи́ну, відпочи́неш).",
+        "Aspectual formation patterns: Prefixation (писа́ти -> написа́ти, чита́ти -> прочита́ти, готува́ти -> приготува́ти, розумі́ти -> зрозумі́ти, слу́хати -> послу́хати/прослу́хати, обі́дати -> пообі́дати, вече́ряти -> повече́ряти) or suffix/stem alternation (купува́ти [I] -> купи́ти [II], закінчува́ти [I] -> закінчи́ти [II], почина́ти -> поча́ти, відпочива́ти -> відпочи́ти, огляда́ти -> огля́нути, розповіда́ти -> розповісти́, відповіда́ти -> відповісти́, зустріча́ти -> зустрі́ти).",
+        "Aspectual triggers: Adverbs of frequency/duration (щодня́, ча́сто, рі́дко, за́вжди, до́вго) require the imperfective aspect."
+      ]
+    },
+    {
+      "id": "G09_ADJECTIVES_DEMONSTRATIVES_PRONOUNS",
+      "part": "Part I & II",
+      "lessons": ["Part I Lesson 4", "Part I Lesson 5", "Part I Lesson 7", "Part II Lesson 4", "Part II Lesson 7", "Part II Lesson 8", "Part II Lesson 11", "Part II Lesson 15", "Part II Lesson 18", "Part II Lesson 20", "Part II Lesson 21"],
+      "title": "Adjectives, Possessive & Reflexive Pronouns, and Demonstratives Across All Cases",
+      "explanation": "Adjectives (яки́й? яка́? яке́? які́?), ordinal numerals (котри́й?), demonstrative pronouns (цей, той), and declinable possessive pronouns (мій, твій, наш, ваш, ї́хній, свій) agree in gender, number, and case with the noun they modify.",
+      "notableRules": [
+        "Hard vs. Soft Adjectives: Hard group ends in -ий, -а, -е, -і (нови́й, га́рний, ста́рий); Soft group ends in -ій, -я, -є, -і (си́ній, си́ня, си́нє, си́ні; оста́нній, сього́днішній, худо́жній).",
+        "3rd Person Possessives: його́ (his/its) and її́ (her) are invariant (indeclinable) across all genders, numbers, and cases (unlike мій, твій, наш, ваш, ї́хній, свій, which decline fully). Note that 'their' as a possessive modifier is the declinable adjective-like ї́хній (ї́хня, ї́хнє, ї́хні).",
+        "Prosthetic н- in 3rd-person personal pronouns (він, вона́, воно́, вони́): When governed by a preposition in Genitive, Accusative, Locative, or Instrumental, initial й-/ї- changes to н- (про ньо́го, про не́ї, про них; у ньо́го, у не́ї, у них; з ним, з не́ю, з ни́ми), whereas possessive його́/її́ never take prosthetic н- (про його́ бра́та, з її́ сестро́ю).",
+        "Reflexive possessive pronoun свій (своя́, своє́, свої́): Replaces мій, твій, його́, її́, наш, ваш, ї́хній in oblique cases when the possessed object belongs to the grammatical subject of the clause. Crucial 3rd-person distinction: Він лю́бить свій сад (his own garden) vs. Він лю́бить його́ сад (another man's garden)."
+      ]
+    },
+    {
+      "id": "G10_ACCUSATIVE_AND_VERBS_OF_MOTION",
+      "part": "Part II",
+      "lessons": ["Part II Lesson 6", "Part II Lesson 7", "Part II Lesson 8", "Part II Lesson 9", "Part II Lesson 10", "Summary (pp. 155–157)"],
+      "title": "The Accusative Case (6 Functions) and Ukrainian Verbs of Motion",
+      "explanation": "The textbook devotes five lessons and a dedicated summary to the Accusative case (Знахідний відмінок) and verbs of motion.",
+      "notableRules": [
+        "1. Inanimate Direct Object (що?): Masculine, Neuter, and Plural inanimate nouns & modifiers match Nominative. Feminine nouns in -а/-я take -у/-ю (газе́та -> газе́ту, су́кня -> су́кню) and feminine adjectives/possessives take -у/-ю (нову́ си́ню ху́стку, мою́/на́шу).",
+        "2. Animate Direct Object (кого́?): Singular masculine animate nouns take Genitive-identical endings -а/-я (студе́нта, учи́теля, кана́дця), and their modifiers take -ого/-ього (мого́, твого́, на́шого, ва́шого, ї́хнього, мале́нького). Feminine singular Irregular ма́ти -> ма́тір. Plural animate nouns take Genitive plural forms: masculine -ів/-їв (студе́нтів, учителі́в, браті́в, дру́зів) or zero ending for -нин stems (кия́нин -> кия́н); feminine zero ending, often with mobile vowel -о-/-е- insertion (по́други -> по́друг, учени́ці -> учени́ць, дочки́ -> до́чок, студе́нтки -> студе́нток, се́стри -> сесте́р) or -ів (матері́ -> матері́в).",
+        "3. Object of speech or thought (про кого́? про що?): Used after писа́ти, чита́ти, розповіда́ти, ду́мати, мрі́яти, зга́дувати, запита́ти + про + Accusative.",
+        "4. Direction of motion (куди́?): Used with prepositions у (в) or на + Accusative after verbs of motion. Memorized distribution: у (в) Карпа́ти, Крим, музе́й, го́ри, кіно́, теа́тр, парк, магази́н, се́ло, центр, університе́т vs. на Украї́ну (1975 usage), мо́ре, ви́ставку, рі́чку, стадіо́н, конце́рт, екску́рсію, пляж, завод, по́шту, бале́т, ве́чір.",
+        "5. Days of the week (коли́?): у (в) + Accusative (у понеді́лок, у вівто́рок, у се́реду, у четве́р, у п'я́тницю, у субо́ту, у неді́лю).",
+        "6. Unidirectional vs. Multidirectional Verbs of Motion: On foot: іти́ (іду́, іде́ш; ішо́в, ішла́) [one direction/occasion] vs. ходи́ти (ходжу́, хо́диш; ходи́в) [habitual/round-trip/multidirectional]; Perfective inceptive: піти́ (піду́, пі́деш; пішо́в). By vehicle: ї́хати (ї́ду, ї́деш; ї́хав) vs. ї́здити (ї́жджу, ї́здиш; ї́здив); Perfective: пої́хати. Additional motion pairs introduced in Lesson 19: леті́ти (лечу́, лети́ш) / літа́ти (літа́ю) / полеті́ти (to fly); плисти́ (пливу́, пливе́ш) / пла́вати (пла́ваю) / поплисти́ (to swim/sail)."
+      ]
+    },
+    {
+      "id": "G11_GENITIVE_CASE_AND_NUMERALS",
+      "part": "Part II",
+      "lessons": ["Part II Lesson 11", "Part II Lesson 12", "Part II Lesson 13"],
+      "title": "The Genitive Case (Possession, Negation, Numerals, Direction, Dates)",
+      "explanation": "The Genitive case (Родовий відмінок) answers кого́? чого́? чий? чия́? чиє́? чиї́? яки́й? зві́дки? куди́? коли́?",
+      "notableRules": [
+        "1. Possession & Attribution: Post-nominal Genitive denotes owner (фо́то бра́та, кни́жка моє́ї но́вої по́други) or descriptive attribution answering який? (ка́рта Украї́ни, конце́рт украї́нської пі́сні, студе́нти на́шого інститу́ту). Feminine singular adjectives/possessives take -ої/-ьої (моє́ї, твоє́ї, на́шої, но́вої, си́ньої); masculine/neuter take -ого/-ього; plural takes -их/-іх.",
+        "2. Masculine Genitive Singular -а/-я vs. -у/-ю split: Animate masculine nouns take -а/-я (студе́нта, учи́теля), while inanimate masculine nouns denoting buildings, institutions, collectives, or large spaces take -у/-ю (заво́ду, інститу́ту, університе́ту, колго́спу, буди́нку, музе́ю, теат́ру, вокза́лу, па́рку, са́ду, Кри́му). Neuter singular takes -а/-я (мі́ста, села́, по́ля, мо́ря).",
+        "3. Presence vs. Absence (Negation): є + Nominative (Тут є зо́шит / зо́шити) vs. нема́є + Genitive singular or plural (Тут нема́є зо́шита / зо́шитів; немає кни́жки / книжо́к).",
+        "4. Possession with 'У + Genitive + є / нема́є': У бра́та (у ме́не, у те́бе, у ньо́го, у не́ї, у нас, у вас, у них) є син / нема́є си́на.",
+        "5. Cardinal Numerals + Noun Agreement: 1 (оди́н, одна́, одне́) + Nominative Singular; 2, 3, 4 (два m./n., дві f., три, чоти́ри, and compounds like 22, 34) + Nominative Plural (два зо́шити, дві ху́стки, чоти́ри карбо́ванці); 5 and above (5–20, 25, 30, 100, багáто, мáло, скі́льки) + Genitive Plural (п'ять зо́шитів, шість ху́сток, де́сять карбо́ванців, два́дцять копі́йок).",
+        "6. Genitive of Direction: до + Genitive = 'to' (synonymous with у/в + Accusative for destinations: іти до теа́тру / до Ки́єва / до Оде́си / до Львóва) vs. з (із, зі) + Genitive = 'from' (з Ки́єва, з теа́тру, зі Льво́ва, із Запорі́жжя).",
+        "7. Calendar Dates: 'What date is it?' (Яке́ сього́дні число́?) uses Neuter Nominative Ordinal + Genitive of Month (пе́рше сі́чня, двана́дцяте жо́втня). 'On what date?' (Коли́?) uses Genitive Singular Ordinal (-ого/-ього) + Genitive of Month (+ рік in Genitive: пе́ршого сі́чня, дев'я́того тра́вня 1945 ро́ку)."
+      ]
+    },
+    {
+      "id": "G12_LOCATIVE_AND_TIME_EXPRESSIONS",
+      "part": "Part II",
+      "lessons": ["Part II Lesson 4", "Part II Lesson 10", "Part II Lesson 14", "Part II Lesson 15", "Part II Lesson 16"],
+      "title": "The Locative Case (Place & Time) and Complete Clock Time System",
+      "explanation": "The Locative case (Місцевий відмінок) is always used with a preposition (у/в, на, о/об, по) to express location (де?) or time (о котрі́й годи́ні? коли́?).",
+      "notableRules": [
+        "Singular Locative Nouns: Majority take -і (на столі́, у шко́лі, у мі́сті). Feminine nouns with velar stems к, г, х undergo consonant mutation to ц, з, с before -і (кни́жка -> у кни́жці, рі́чка -> на рі́чці, ви́ставка -> на ви́ставці, па́пка -> у па́пці, су́мка -> у су́мці, до́шка -> на до́шці, го́рка -> на гі́рці, Петербу́рг -> у Петербу́рзі). Certain masculine/neuter nouns take stressed -у (у па́рку, у саду́, у Криму́, у Сибі́ру, у лі́жку, у бою́, у кіо́ску, у путівнику́).",
+        "Semantic contrast: на столі́ (on top of the table, зве́рху) vs. у столі́ (inside the desk drawer, всере́дині).",
+        "Plural Locative Nouns: -ах/-ях across all genders (у готе́лях, на заво́дах, у шко́лах, на ву́лицях, у міста́х, у по́лях).",
+        "Locative Adjectives & Demonstratives: Masculine/Neuter singular -ому/-ьому (у но́вому готе́лі, на си́ньому мо́рі, у цьо́му/то́му буди́нку); Feminine singular -ій/-їй (на вели́кій ву́лиці, на цій/тій ву́лиці); Plural -их/-іх (у ки́ївських театрах, на цих/тих ву́лицях).",
+        "Complete Ukrainian Clock Time System (Котра́ годи́на? / О котрі́й годи́ні?): (1) Exact hour: Feminine ordinal (пе́рша годи́на, о пе́ршій годи́ні; part of day in Genitive: ра́нку, дня, ве́чора, но́чі); (2) First half-hour (minutes past, looking forward to the NEXT hour): [cardinal minutes / чверть] + на + Accusative feminine ordinal of the NEXT hour (1:05 = п'ять хвили́н на дру́гу; 1:15 = чверть на дру́гу; 1:30 = пів на дру́гу); (3) Second half-hour (minutes to the next hour): за + Accusative minutes/чверть + Nominative ordinal of next hour (1:45 = за чверть дру́га; 1:35 = за два́дцять п'ять хвили́н дру́га) OR без + Genitive minutes/чверті + Cardinal of next hour (01:45 = без чве́рті два); (4) Official 24-hour radio/timetable style: Cardinal hours (годи́на/годи́ни/годи́н) + Cardinal minutes (хвили́на/хвили́ни/хвили́н)."
+      ]
+    },
+    {
+      "id": "G13_DATIVE_AND_IMPERSONAL_CONSTRUCTIONS",
+      "part": "Part II",
+      "lessons": ["Part II Lesson 17", "Part II Lesson 18"],
+      "title": "The Dative Case (Indirect Object, Age, Impersonal States, Подобатися)",
+      "explanation": "The Dative case (Давальний відмінок) answers кому́? чому́? and marks the recipient/beneficiary or the experiencer of age, modal necessity, and physical/emotional states.",
+      "notableRules": [
+        "Masculine Dative Singular Parallel Endings: -ові / -еві / -єві (after hard, soft/mixed, and -й stems respectively: бра́тові, учи́телеві, това́ришеві, геро́єві) is parallel with -у / -ю (бра́ту, учи́телю, това́ришу). When two masculine nouns are in apposition (title/kinship + name or first name + surname), one takes -ові/-еві and the other takes -у/-ю to avoid repetition (бра́тові Степа́ну OR бра́ту Степа́нові; Тара́сові Шевче́нку OR Тара́су Шевче́нкові).",
+        "Feminine Dative Singular: -і / -ї, with velar/sibilant stem mutation к->ц, г->з, х->с (дочка́ -> дочці́, ті́тка -> ті́тці, студе́нтка -> студе́нтці, по́друга -> по́друзі; ма́ти -> ма́тері). Plural Dative for all genders: -ам / -ям (брата́м, се́страм, вчителя́м, дру́зям, ді́тям).",
+        "Adjectives & Possessives in Dative: Masculine/Neuter sg. -ому/-ьому (моло́дшому, си́ньому, моє́му, твоє́му, своє́му, на́шому); Feminine sg. -ій/-їй (моло́дшій, мої́й, твої́й, на́шій); Plural -им/-їм (моло́дшим, мої́м, на́шим). Personal pronouns: мені́, тобі́, йому́, їй, нам, вам, їм.",
+        "Dative of Age (Скі́льки вам ро́ків?): Experiencer in Dative + Cardinal numeral + рік (1, 21, 31...), ро́ки (2, 3, 4, 22...), or ро́ків (5–20, 25, 30...): Си́нові оди́н рік; Дочці́ чоти́ри ро́ки; Мені́ два́дцять п'ять ро́ків.",
+        "Impersonal Experiencer Constructions: Dative + state adverb (Мені́ хо́лодно / га́ряче / те́пло / су́мно / приє́мно / ціка́во / ва́жко / ле́гко / со́ромно; past: Мені́ було́ га́ряче; future: Мені́ бу́де га́ряче) and Dative + modal predicative + Infinitive (Мені́ мо́жна / не мо́жна / тре́ба / ва́рто іти́; past: тре́ба було́; future: тре́ба бу́де).",
+        "Liking Construction with подо́батися / сподо́батися: Experiencer in Dative (кому́?) + подо́бається / подо́баються + Liked item as grammatical Nominative subject (хто? що?): Мені́ подо́бається му́зика; Мені́ подо́баються ві́рші Шевче́нка."
+      ]
+    },
+    {
+      "id": "G14_INSTRUMENTAL_AND_DECLENSION_SYNTHESIS",
+      "part": "Part II",
+      "lessons": ["Part II Lesson 19", "Part II Lesson 20", "Part II Lesson 21"],
+      "title": "The Instrumental Case and Complete Declension Group Synthesis",
+      "explanation": "The Instrumental case (Орудний відмінок) answers ким? чим? (з ким? з чим?) and expresses five primary syntactic functions, followed in Lesson 21 by a master synthesis of Hard, Soft, and Mixed declension paradigms.",
+      "notableRules": [
+        "Instrumental Singular Endings: Masculine/Neuter take -ом (hard: авто́бусом, село́м), -ем (soft/sibilant: олівце́м, учи́телем, това́ришем, козачко́м), or -єм (трамва́єм, по́лем). Feminine takes -ою (hard: маши́ною, ру́чкою), -ею (soft/sibilant: ву́лицею, учени́цею), -єю (філоло́гією, авіа́цією), or consonant-stem gemination + -ю / labial + ’ю (ма́ти -> ма́тір'ю, мі́ццю). Plural Instrumental: -ами / -ями (студе́нтами, вчителя́ми, се́лами, поля́ми) and irregular ді́ти -> дітьми́, лю́ди -> людьми́.",
+        "Adjectives, Possessives & Personal Pronouns in Instrumental: Masculine/Neuter sg. -им/-ім (украї́нським, си́нім, мої́м, на́шим); Feminine sg. -ою/-ьою/-єю (украї́нською, си́ньою, моє́ю, на́шою, ї́хньою); Plural -ими/-іми (украї́нськими, си́німи, мої́ми, всіма́). Personal pronouns: (зі) мно́ю, (з) тобо́ю, (з) ним / нім, (з) не́ю, (з) на́ми, (з) ва́ми, (з) ни́ми.",
+        "5 Core Functions of the Instrumental: (1) Instrument of action without preposition (писа́ти ру́чкою, малюва́ти олівце́м); (2) Means of transport without preposition (ї́хати авто́бусом, по́їздом, маши́ною, трамва́єм; леті́ти літако́м; плисти́ теплохо́дом); (3) Spatial path ('along/through') without preposition (іти́ па́рком, ву́лицею, лі́сом, по́лем, сте́пом); (4) Accompaniment with preposition з/із/зі (гуля́ти з си́ном, ка́ва з молоко́м і то́ртом, варе́ники зі смета́ною, чай з цитри́ною); (5) Predicate nominal and object of specific verbs: бу́ти / ста́ти / працюва́ти + Instrumental of profession (Він був студе́нтом, став інжене́ром, працю́є лі́карем), plus verbs governing Instrumental without a preposition: керува́ти (заво́дом, корабле́м), займа́тися (спо́ртом, бо́ксом), користува́тися (словнико́м), пиша́тися (си́ном, Космона́втом), ціка́витися (теа́тром), захо́плюватися (му́зикою), володі́ти (украї́нською мо́вою).",
+        "Master Noun Declension Classification (Lesson 21, pp. 224–226): Each gender is divided into Hard, Soft, and Mixed groups (nouns ending in sibilants ж, ч, ш, щ or rhotic -р).",
+        "Historical/Dated Note (Lesson 11, p. 163): Briefly illustrates masculine possessive adjectives in -ів (Богда́нів підру́чник, Гна́тів зо́шит) in dialogue as a synonym for the adnominal Genitive."
+      ]
+    }
+  ],
+  "vocabularyThemes": [
+    {
+      "theme": "Family, Kinship & Personal Identity",
+      "cefr": "A0–A1",
+      "words": [
+        { "uk": "сім'я́ / роди́на", "en": "family" },
+        { "uk": "ба́тько / та́то", "en": "father / dad" },
+        { "uk": "ма́ти / ма́ма / мату́ся", "en": "mother / mom" },
+        { "uk": "батьки́", "en": "parents" },
+        { "uk": "син", "en": "son" },
+        { "uk": "дочка́", "en": "daughter" },
+        { "uk": "брат", "en": "brother" },
+        { "uk": "сестра́", "en": "sister" },
+        { "uk": "дід / діду́сь", "en": "grandfather / grandpa" },
+        { "uk": "ба́ба / бабу́ся", "en": "grandmother / granny" },
+        { "uk": "ону́к / ону́ка", "en": "grandson / granddaughter" },
+        { "uk": "дя́дько", "en": "uncle" },
+        { "uk": "ті́тка", "en": "aunt" },
+        { "uk": "чолові́к", "en": "husband / man" },
+        { "uk": "дружи́на / жі́нка", "en": "wife / woman" },
+        { "uk": "дити́на (pl. ді́ти)", "en": "child (children)" },
+        { "uk": "хло́пець / хло́пчик", "en": "boy / little boy" },
+        { "uk": "ді́вчина (pl. дівча́та)", "en": "girl / young woman" },
+        { "uk": "юна́к", "en": "young man / youth" },
+        { "uk": "друг (pl. дру́зі) / по́друга", "en": "male friend / female friend" },
+        { "uk": "сусі́д / сусі́дка", "en": "neighbor (m./f.)" },
+        { "uk": "ім'я́", "en": "first name" },
+        { "uk": "по ба́тькові", "en": "patronymic" },
+        { "uk": "прі́звище", "en": "surname" },
+        { "uk": "па́спорт", "en": "passport" },
+        { "uk": "анке́та", "en": "application form / questionnaire" }
+      ]
+    },
+    {
+      "theme": "Professions, Education & Science",
+      "cefr": "A1–A2",
+      "words": [
+        { "uk": "у́чень / учени́ця", "en": "school pupil (m./f.)" },
+        { "uk": "школя́р", "en": "schoolboy" },
+        { "uk": "студе́нт / студе́нтка", "en": "university student (m./f.)" },
+        { "uk": "учи́тель (вчи́тель) / учи́телька", "en": "school teacher (m./f.)" },
+        { "uk": "виклада́ч / виклада́чка", "en": "college lecturer / instructor (m./f.)" },
+        { "uk": "інжене́р", "en": "engineer" },
+        { "uk": "лі́кар / зуби́й лі́кар", "en": "doctor / dentist" },
+        { "uk": "робітни́к / робітни́ця", "en": "worker (m./f.)" },
+        { "uk": "фі́зик / філо́лог / біо́лог / хі́мік", "en": "physicist / philologist / biologist / chemist" },
+        { "uk": "піло́т / льо́тчик / космона́вт", "en": "pilot / flier / cosmonaut" },
+        { "uk": "воді́й", "en": "driver" },
+        { "uk": "музика́нт / співа́к / акто́р", "en": "musician / singer / actor" },
+        { "uk": "письме́нник / пое́т / худо́жник", "en": "writer / poet / painter" },
+        { "uk": "переклада́ч / гід / екскурсово́д", "en": "interpreter / guide / excursion guide" },
+        { "uk": "шахта́р / агроно́м / трактори́ст", "en": "miner / agronomist / tractor driver" },
+        { "uk": "пенсіоне́р", "en": "pensioner" },
+        { "uk": "шко́ла / інститу́т / університе́т", "en": "school / institute / university" },
+        { "uk": "аудито́рія / кла́с / факульте́т", "en": "lecture hall / classroom / faculty" },
+        { "uk": "гурто́житок", "en": "dormitory" },
+        { "uk": "підру́чник / словни́к / зо́шит", "en": "textbook / dictionary / notebook" },
+        { "uk": "кни́жка / оповіда́ння / вірш", "en": "book / story / poem" },
+        { "uk": "завда́ння / впра́ва / уро́к / заня́ття", "en": "task / exercise / lesson / class" },
+        { "uk": "до́шка / па́рта / ру́чка / оліве́ць", "en": "blackboard / school desk / pen / pencil" }
+      ]
+    },
+    {
+      "theme": "Food, Dining & Ukrainian Cuisine",
+      "cefr": "A1–A2",
+      "words": [
+        { "uk": "сніда́нок / обі́д / вече́ря", "en": "breakfast / dinner (lunch) / supper" },
+        { "uk": "сні́дати / обі́дати / вече́ряти", "en": "to have breakfast / dinner / supper" },
+        { "uk": "меню́ / стра́ва", "en": "menu / dish" },
+        { "uk": "на заку́ску / на пе́рше / на дру́ге / на десе́рт", "en": "for an appetizer / first course / main course / dessert" },
+        { "uk": "борщ / суп", "en": "borshch / soup" },
+        { "uk": "варе́ники / смета́на", "en": "dumplings (vareniki) / sour cream" },
+        { "uk": "ковбаса́ / са́ло / холоде́ць", "en": "sausage / cured pork fat / jellied meat" },
+        { "uk": "м'я́со / ку́рка / котле́та / ри́ба", "en": "meat / chicken / cutlet / fish" },
+        { "uk": "яйце́ / яє́чня", "en": "egg / fried eggs (omelet)" },
+        { "uk": "хліб / бу́лка / пирі́г / ті́стечко / торт", "en": "bread / roll / pie / pastry / cake" },
+        { "uk": "ма́сло / сир / молоко́ / кефі́р / ря́жанка", "en": "butter / cheese / milk / kefir / ryazhanka (baked fermented milk)" },
+        { "uk": "ка́ва / чай / сік / компо́т / вода́", "en": "coffee / tea / juice / stewed fruit compote / water" },
+        { "uk": "моро́зиво / цуке́рка", "en": "ice cream / candy" },
+        { "uk": "я́блуко / каву́н / цитри́на / фру́кти", "en": "apple / watermelon / lemon / fruit" },
+        { "uk": "тарі́лка / ча́шка / ло́жка / виде́лка / ніж", "en": "plate / cup / spoon / fork / knife" },
+        { "uk": "смачни́й / Смачно́го!", "en": "tasty / Good appetite! (Bon appétit!)" }
+      ]
+    },
+    {
+      "theme": "Home, Clothing, Shopping & Souvenirs",
+      "cefr": "A1–A2",
+      "words": [
+        { "uk": "буди́нок / дім / ха́та / кімна́та", "en": "building / house (home) / rural cottage / room" },
+        { "uk": "вікно́ / две́рі / га́нок / по́верх", "en": "window / door / porch / floor (storey)" },
+        { "uk": "ме́блі / стіл / стіле́ць / крі́сло / лі́жко / кана́па / ша́фа", "en": "furniture / table / chair / armchair / bed / sofa / wardrobe" },
+        { "uk": "о́дяг / взуття́", "en": "clothes / footwear" },
+        { "uk": "костю́м / піджа́к / соро́чка / крава́тка / су́кня", "en": "suit / jacket / shirt (or embroidered shirt) / tie / dress" },
+        { "uk": "пальто́ / плащ / шу́ба / ша́пка / шарф / ху́стка", "en": "coat / raincoat / fur coat / cap / scarf / kerchief" },
+        { "uk": "прикра́си / нами́сто / ґу́дзик", "en": "jewelry / necklace / button" },
+        { "uk": "су́мка / гамане́ць / валі́за", "en": "bag / purse (wallet) / suitcase" },
+        { "uk": "рушни́к / скате́рка / ки́лим", "en": "towel (embroidered cloth) / tablecloth / carpet" },
+        { "uk": "кера́міка / гле́чик / кумане́ць / різьбле́ння / виши́вка", "en": "ceramics / pitcher / decorative jug / woodcarving / embroidery" },
+        { "uk": "магази́н / універма́г / гастроно́м / книга́рня / кіо́ск", "en": "shop / department store / grocery / bookshop / kiosk" },
+        { "uk": "продаве́ць / ко́штувати / де́шево / до́рого", "en": "salesperson / to cost / cheap / expensive" }
+      ]
+    },
+    {
+      "theme": "City, Travel, Transport & Nature",
+      "cefr": "A1–A2",
+      "words": [
+        { "uk": "мі́сто / місте́чко / село́ / центp", "en": "city / small town / village / center" },
+        { "uk": "ву́лиця / пло́ща / майда́н / бульва́р / міст", "en": "street / square / square / boulevard / bridge" },
+        { "uk": "готе́ль / пошта́мт / по́шта / лікарня / перука́рня", "en": "hotel / main post office / post office / hospital / hairdresser's" },
+        { "uk": "вокза́л / ка́са / квито́к / мі́сце (внизу́ / нагорі́)", "en": "station / ticket office / ticket / berth (lower / upper)" },
+        { "uk": "авто́бус / троле́йбус / трамва́й / метро́ / таксі́ / маши́на", "en": "bus / trolleybus / tram / subway / taxi / car" },
+        { "uk": "по́їзд / літа́к / паропла́в / теплохі́д", "en": "train / airplane / steamboat / motor ship" },
+        { "uk": "по́дорож / подорожува́ти / путівни́к", "en": "trip (journey) / to travel / guidebook" },
+        { "uk": "рі́чка (ріка́) / бе́рег / мо́ре / пляж / став (ставо́к)", "en": "river / bank (shore) / sea / beach / pond" },
+        { "uk": "гора́ (pl. го́ри) / ліс / по́ле / степ / сад / парк", "en": "mountain / forest / field / steppe / orchard (garden) / park" },
+        { "uk": "кві́ти / троя́нда / ліле́я / воло́шка / роме́н / мак / кашта́н", "en": "flowers / rose / lily / cornflower / daisy / poppy / chestnut tree" },
+        { "uk": "влі́тку / восени́ / взи́мку / навесні́", "en": "in summer / in autumn / in winter / in spring" },
+        { "uk": "ліво́руч / право́руч / по́руч / по́ряд / недале́ко / да́лі", "en": "to the left / to the right / beside / nearby / not far / further" }
+      ]
+    },
+    {
+      "theme": "Health, Leisure, Sports & Conversational Etiquette",
+      "cefr": "A1–A2",
+      "words": [
+        { "uk": "здоро́в'я / хво́рий / захворі́ти / застуди́тися / ви́дужати", "en": "health / sick / to fall ill / to catch a cold / to recover" },
+        { "uk": "болі́ти (У ме́не боли́ть голова́ / го́рло / зу́би)", "en": "to ache (I have a headache / sore throat / toothache)" },
+        { "uk": "температу́ра / грип / ангі́на / лі́ки / реце́пт", "en": "temperature / flu / tonsillitis / medicine / prescription" },
+        { "uk": "теа́тр / о́пера / бале́т / кіно́ / фі́льм / конце́рт / ви́ставка", "en": "theater / opera / ballet / cinema / film / concert / exhibition" },
+        { "uk": "спорт / футбо́л / хоке́й / те́ніс / волейбо́л / бокс / змага́ння / раху́нок", "en": "sport / soccer / hockey / tennis / volleyball / boxing / competition / score" },
+        { "uk": "До́брого ра́нку! / До́брий день (Добри́день)! / До́брий ве́чір! / На добра́ніч!", "en": "Good morning! / Good day! / Good evening! / Good night!" },
+        { "uk": "Ласка́во про́симо! / Про́шу! / Будь ла́ска!", "en": "Welcome! / Please (Here you are)! / Please (You're welcome)!" },
+        { "uk": "Дя́кую (Щи́ро дя́кую)! / Нема́ за що! / Ви́бачте (Проба́чте)!", "en": "Thank you (Thank you very much)! / Don't mention it! / Excuse me!" },
+        { "uk": "До поба́чення! / До зу́стрічі! / На все до́бре! / Щасли́вої доро́ги!", "en": "Good-bye! / Till we meet again! / All the best! / Have a pleasant trip!" }
+      ]
+    }
+  ],
+  "prerequisiteGraph": [
+    {
+      "concept": "Iotized Vowels (я, ю, є, ї), Soft Sign (ь) & Apostrophe",
+      "prerequisites": ["6 Simple Vowels (а, о, у, и, і, е)", "Hard vs. Soft Dental Consonants"],
+      "unlocks": ["Soft Stem Noun & Adjective Declensions", "Present Tense Verb Endings (-ю, -єш, -ють)"]
+    },
+    {
+      "concept": "Euphonic Alternations (і/й, у/в, з/із/зі)",
+      "prerequisites": ["Vowel vs. Consonant Syllable Boundaries"],
+      "unlocks": ["Natural Connected Speech", "Prepositional Case Governance in Accusative, Genitive, Locative, and Instrumental"]
+    },
+    {
+      "concept": "Grammatical Gender (він, вона, воно) & Animacy (хто? vs. що?)",
+      "prerequisites": ["Cyrillic Script & Word Ending Recognition"],
+      "unlocks": [
+        "Possessive & Demonstrative Pronoun Agreement",
+        "Adjective & Ordinal Numeral Agreement",
+        "Past Tense Gender Agreement (-в, -ла, -ло, -ли)",
+        "Accusative Animate vs. Inanimate Differential Object Marking"
+      ]
+    },
+    {
+      "concept": "Present Tense Conjugations I & II",
+      "prerequisites": ["Personal Pronouns (я, ти, він/вона/воно, ми, ви, вони)", "Hard/Soft Consonant Alternations"],
+      "unlocks": [
+        "Imperative Mood Formation",
+        "Synthetic Future Tense (-тиму, -тимеш)",
+        "Perfective Future Tense (conjugated with Present endings)"
+      ]
+    },
+    {
+      "concept": "Verbal Aspect (Imperfective vs. Perfective Pairs)",
+      "prerequisites": ["Present Tense Conjugations I & II", "Past Tense (-в, -ла, -ло, -ли)", "Imperfective Future (буду + inf / -тиму)"],
+      "unlocks": [
+        "Completed vs. Ongoing Past Narratives",
+        "Perfective Simple Future vs. Imperfective Analytical/Synthetic Future",
+        "Unidirectional vs. Multidirectional & Prefixed Verbs of Motion"
+      ]
+    },
+    {
+      "concept": "Accusative Case (Inanimate & Animate)",
+      "prerequisites": ["Noun Gender & Animacy", "Adjective & Possessive Nominative Forms", "Transitive Verbs"],
+      "unlocks": [
+        "Accusative of Direction (у/в, на + Acc.) with Verbs of Motion",
+        "Accusative of Object of Thought (про + Acc.)",
+        "Time Expressions: Days of the Week (у + Acc.) & Half/Quarter Hours (на + Acc.)"
+      ]
+    },
+    {
+      "concept": "Genitive Case (Singular & Plural)",
+      "prerequisites": ["Accusative Animate Forms", "Cardinal Numerals"],
+      "unlocks": [
+        "Possession & Adnominal Attribution",
+        "Negation of Existence (немає + Gen.) & Possession (у мене є/немає)",
+        "Numeral-Noun Quantification (2–4 + Nom. Pl. vs. 5+ + Gen. Pl.)",
+        "Genitive of Direction (до / з + Gen.)",
+        "Calendar Dates (Day + Month in Genitive)"
+      ]
+    },
+    {
+      "concept": "Locative Case & Velar Palatalization (к/г/х -> ц/з/с)",
+      "prerequisites": ["Accusative of Direction (куди?)", "Adjective & Demonstrative Declension Basics"],
+      "unlocks": [
+        "Static Location (де?: у/в, на + Loc.) contrasted with Motion (куди?)",
+        "Exact Clock Time Answers (О котрій годині? -> О першій/другій...)",
+        "Feminine Dative Singular Mutation (дочці, подрузі, тітці)"
+      ]
+    },
+    {
+      "concept": "Dative Case",
+      "prerequisites": ["Locative Case Velar Mutations", "Cardinal Numerals"],
+      "unlocks": [
+        "Indirect Objects & Epistolary Address",
+        "Dative of Age (Мені двадцять років)",
+        "Impersonal Modal & Sensory Sentences (Мені холодно / треба / можна)",
+        "Experiencer Constructions with подобатися"
+      ]
+    },
+    {
+      "concept": "Instrumental Case & Reflexive Possessive свій",
+      "prerequisites": ["All Prior Cases (Nom, Acc, Gen, Loc, Dat)", "Past/Future Forms of бути and стати"],
+      "unlocks": [
+        "Means of Transport & Instrument Without Preposition",
+        "Accompaniment (з/із/зі + Instr.)",
+        "Predicate Nominals of Profession (був учителем, стане лікарем)",
+        "Full 7-Case Hard/Soft/Mixed Declension Mastery"
+      ]
+    }
+  ],
+  "instructionalAndExerciseApproaches": [
+    {
+      "approach": "Articulatory Diagrams & Contrastive Phonetic Tables (Part I)",
+      "description": "Uses sagittal vocal-tract diagrams comparing Ukrainian and English tongue positions (e.g., dental unaspirated [т]/[д] vs. English alveolar [t]/[d]; scooped velar [л] vs. palatalized [л']; rolled [р] vs. [р']; pharyngeal [г] vs. velar [ґ]) paired with minimal-pair reading drills."
+    },
+    {
+      "approach": "Rhythmic Stress-Model Sorting Drills",
+      "description": "Every lesson in Part I includes visual metrical stress schemas (e.g., [ ´ _ ], [ _ ´ ], [ ´ _ _ ], [ _ ´ _ ], [ _ _ ´ ]) where learners classify vocabulary lists by syllable count and stress placement—an effective technique for internalizing Ukrainian's mobile lexical stress."
+    },
+    {
+      "approach": "Explicit Intonation Notation in Dialogues",
+      "description": "Uses arrows (↘, ↗, ↑) directly inside dialogue lines to train prosody for statements, general questions (intonation-only yes/no), special questions, contrastive 'а' questions, and polite imperatives."
+    },
+    {
+      "approach": "Syntactic-Functional Case Introduction (Part II)",
+      "description": "Instead of teaching full 7-case paradigms for a single noun all at once, Part II introduces one case function per lesson governed by specific verbs and question prompts (e.g., Що він читає? -> Кого він зустрів? -> Куди він іде? -> Про кого він думає? -> Чиє це фото? -> У кого є? -> Звідки/Куди? -> Де? -> Кому? -> Ким/Чим?), culminating in full paradigm synthesis in Lesson 21."
+    },
+    {
+      "approach": "Recurring Storyline & Character Cast Across 21 Lessons",
+      "description": "Follows Canadian-Ukrainian tourists (John Hrabar, his wife Jane, their 10-year-old son Oles, and friends Petro and Mary Lapchuk) interacting with Kyiv locals (guide Mykola Ivanovych, teacher Ivan Petrovych, students Hnat, Bohdan, Halyna, Oksana, schoolboy Pavlo) across real Ukrainian settings (hotel, university, restaurant, Kaniv, Carpathians, Odesa, museum), providing cohesive narrative context."
+    },
+    {
+      "approach": "Self-Check Answer Key & Oral-to-Written Progression",
+      "description": "Pairs oral transformation drills (singular->plural, present->past->future, imperfective->perfective, positive->negative, noun->pronoun substitution) with a complete back-of-book Answer Key (pp. 229–237) for autonomous self-study."
+    }
+  ],
+  "novelLinguisticDetailsNotInApp": [
+    {
+      "category": "Phonetics & Orthoepy",
+      "details": [
+        "Explicit rules for unstressed vowel allophony (Part I, Lesson 9, p. 89): unstressed [е] -> [еи] (село́), unstressed [и] -> [ие] (живе́), and unstressed [о] -> [оу] before a stressed high vowel [у] or [і] (голу́бка) — the existing app only states that 'о' stays clear and does not cover [еи]/[ие] harmony or [оу] labial assimilation.",
+        "Comprehensive inventory of geminated (long) soft consonants [т':], [д':], [с':], [з':], [ч':], [н':], [л':], [ц':], [ж':], [ш':] with exact IPA-style length notation and neuter plural invariance rules (оповіда́ння, весі́лля, життя́, сторі́ччя, узбере́жжя).",
+        "Detailed prosodic system of 5 intonation contours (Declarative, Special Question, Exclamation, General Question, Incomplete Contrastive Question with 'а', plus 'чи' alternative questions and 'будь ла́ска' polite request contour)."
+      ]
+    },
+    {
+      "category": "Morphology & Inflection",
+      "details": [
+        "Parallel Masculine Dative Singular endings (-ові/-еві/-єві vs. -у/-ю) and the stylistic rule for double masculine nouns in apposition (бра́тові Степа́ну or бра́ту Степа́нові; Тара́сові Шевче́нку or Тара́су Шевче́нкові) to avoid repeating the same ending twice (Part II, Lesson 17, p. 195).",
+        "Formation and full Vocative declension of Ukrainian patronymics (-ович/-йович -> -овичу/-йовичу; -івна/-ївна -> -івно/-ївно) alongside given names (Іва́не Петро́вичу!, Оле́но Петрі́вно!).",
+        "Complete classification of Hard, Soft, and Mixed declension groups across Masculine, Feminine, and Neuter nouns (Part II, Lesson 21, pp. 224–226), including sibilant-stem (ж, ч, ш, щ) mixed paradigms (това́риш, плащ, пло́ща, прі́звище) and masculine -ар/-ир nouns (лі́кар, шахта́р).",
+        "Non-typical noun gender exceptions (masculine nouns in -о/-а/-я: ба́тько, дя́дько, Мико́ла, ста́роста, суддя́; feminine 3rd-declension consonant stems: тінь, річ, ніч, любо́в, сіль; neuter -а/-я: дівча́, ім'я́) and irregular plurals (ма́ти -> матері́ / ма́тір / ма́тір'ю, дити́на -> ді́ти / дітьми́, друг -> дру́зі).",
+        "Masculine Genitive Singular -а/-я vs. -у/-ю semantic split (animate/countable vs. buildings, institutions, collectives, and spaces: заво́ду, інститу́ту, університе́ту, буди́нку, музе́ю, вокза́лу, па́рку, са́ду, Кри́му).",
+        "Locative singular in stressed -у/-ю for specific masculine nouns (у па́рку, у саду́, у Криму́, у Сибі́ру, у бою́, у кіо́ску, у путівнику́) and semantic contrast between на столі́ (on the surface) vs. у столі́ (inside the desk).",
+        "Prosthetic н- rule on 3rd-person personal pronouns after prepositions (про ньо́го, про не́ї, про них; з ним, з не́ю, з ни́ми) contrasted with non-prosthetic possessive pronouns його́ and її́ (з його́ бра́том, про її́ сестру́)."
+      ]
+    },
+    {
+      "category": "Syntax, Time & Idiomatic Constructions",
+      "details": [
+        "Full traditional Ukrainian clock-time system looking forward to the next hour (п'ять хвили́н на дру́гу, чверть на дру́гу, пів на дру́гу) and second-half-hour expressions (за чверть дру́га vs. без чве́рті два; за де́сять хвили́н одина́дцята), plus 24-hour official broadcast format.",
+        "Complete calendar date syntax contrasting Nominative neuter ordinal (Яке́ сього́дні число́? — Двадця́те жо́втня) with Genitive temporal ordinal (Коли́? — Двадця́того жо́втня ти́сяча дев'ятсо́т со́рок п'я́того ро́ку).",
+        "Reflexive possessive pronoun свій (своя́, своє́, свої́) and its obligatory contrast with його́/її́/ї́хній in 3rd-person clauses (Він лю́бить свій сад vs. Він лю́бить його́ сад).",
+        "Spatial path in the bare Instrumental case without a preposition (іти́ па́рком, ву́лицею, лі́сом, по́лем, сте́пом) alongside bare Instrumental of transport and verbs governing the Instrumental (керува́ти, займа́тися, користува́тися, пиша́тися, ціка́витися, захо́плюватися, володі́ти).",
+        "Historical/period context note: As a 1975 Kyiv publication, the textbook includes Soviet-era realia (колго́сп, карбо́ванець/копі́йка, Жовтне́ве свя́то, Радя́нський Сою́з) and the preposition 'на Украї́ну / на Украї́ні' alongside modern standard 'в Украї́ні'. Modern curriculum integration should retain the timeless linguistic structures and cultural landmarks (Kyiv, Dnipro, Kaniv, Shevchenko, Franko, Dovzhenko, Carpathians) while using modern standard 'в Украї́ну / в Украї́ні' and 'гри́вня'."
+      ]
+    }
+  ]
+}

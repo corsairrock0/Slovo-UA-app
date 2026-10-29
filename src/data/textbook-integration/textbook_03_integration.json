@@ -1,0 +1,66 @@
+{
+  "textbookNumber": 3,
+  "totalPlannedTextbooks": 12,
+  "filename": "652675610-Ukrainian-Numbers_1c0e31b8.pdf",
+  "title": "Ukrainian Numbers (Ukrainian Numbering Rules, Structure & Practice Drills)",
+  "author": "Ukrainian Numbers Reference Guide",
+  "publisher": "Educational Reference Module (7 pp.)",
+  "totalPages": 7,
+  "processingStatus": "COMPLETED",
+  "cefrCoverage": ["A0", "A1", "A2", "B1"],
+  "successfullyAnalyzedSections": [
+    "Page 1: Overview of Ukrainian numbering rules (digits 0–9, tens, hundreds, thousands, millions) and core numeral vocabulary (однокласник 'classmate', чотири рази 'four times', бути номером чотири у черзі 'to be number 4 in line', Мені сімнадцять років 'I am 17 years old')",
+    "Page 2: Digits 1–10 (один, два, три, чотири, п'ять, шість, сім, вісім, дев'ять, десять) and Teens 11–19 formed with contracted -надцять ('on ten': одинадцять, дванадцять, тринадцять, чотирнадцять, п'ятнадцять, шістнадцять, сімнадцять, вісімнадцять, дев'ятнадцять)",
+    "Page 3: Tens 20–90 (двадцять, тридцять, сорок, п'ятдесят, шістдесят, сімдесят, вісімдесят, дев'яносто), Compound two-digit numbers (21–99 joined directly without 'and', e.g., двадцять один, сорок сім, дев'яносто дев'ять), and Hundreds 100–900 (сто, двісті, триста, чотириста, п'ятсот, шістсот, сімсот, вісімсот, дев'ятсот)",
+    "Pages 4–5: Thousands 1,000–9,000 demonstrating feminine gender agreement and case government of тисяча (одна тисяча, дві тисячі, три тисячі, чотири тисячі, п'ять тисяч, шість тисяч, сім тисяч, вісім тисяч, дев'ять тисяч), Multi-digit compound numbers (136 сто тридцять шість, 333 триста тридцять три, 766 сімсот шістдесят шість, 1256 одна тисяча двісті п'ятдесят шість, 8758 вісім тисяч сімсот п'ятдесят вісім), and Large numbers (мільйон 10^6, мільярд 10^9, трильйон 10^12)",
+    "Pages 6–7: Interactive numeral conversion exercises (words to digits and digits to Ukrainian words) and Ukrainian mental arithmetic drills (додавати / плюс '+', віднімати / мінус '-', множити / помножити на '×', ділити / поділити на '÷', дорівнює '=')"
+  ],
+  "unreadableOrSkippedSections": [],
+  "grammarTopicsIdentified": [
+    "Formation of Ukrainian teen numerals 11–19 via stem + -надцять (dropping final soft sign ь before -надцять in п'ятнадцять, шістнадцять, дев'ятнадцять, plus phonetic contractions одинадцять, чотирнадцять)",
+    "Formation of tens 20–90: -дцять for 20/30 (двадцять, тридцять), distinct roots сорок (40) and дев'яносто (90), and -десят without a soft sign for 50–80 (п'ятдесят, шістдесят, сімдесят, вісімдесят)",
+    "Formation of hundreds 100–900: сто (100), dual trace двісті (200), Nominative plural trace триста / чотириста (300/400), and Genitive plural trace -сот for 500–900 (п'ятсот, шістсот, сімсот, вісімсот, дев'ятсот)",
+    "Compound numerals (21–999,999) string components from largest to smallest without any conjunction ('і/та') and govern the noun solely by the final spoken word (e.g., двадцять один день, тридцять дві тисячі, сто сорок п'ять гривень)",
+    "Grammatical gender agreement on 1 (один m / одна f / одне n) and 2 (два m/n vs. дві f), applying directly to feminine тисяча (одна тисяча, дві тисячі) vs. masculine мільйон / мільярд (один мільйон, два мільйони, п'ять мільйонів)",
+    "Ukrainian arithmetic syntax: П'ять плюс сім дорівнює дванадцять; Двадцять мінус вісім дорівнює дванадцять; Шість помножити на чотири дорівнює двадцять чотири; Сто поділити на п'ять дорівнює двадцять"
+  ],
+  "vocabularyCategoriesIdentified": [
+    "Shopping and money (Prices, hundreds, thousands, millions, queue/line черга)",
+    "Time and dates (Age expressions Мені сімнадцять років, frequency чотири рази)",
+    "Education (однокласник, arithmetic operations додавати, віднімати, множити, ділити, дорівнювати, плюс, мінус)"
+  ],
+  "lessonsAdded": [
+    {
+      "id": "A2.5",
+      "level": "A2",
+      "title": "Telling Time, Dates, Seasons, Numbers 100–1,000,000 & Arithmetic (co-integrated with Book 2 time/dates and Book 3 hundreds/thousands/arithmetic)"
+    }
+  ],
+  "lessonsModified": [
+    "A0.4 (Expanded Rule 4 with complete Ukrainian teens 11–19 in -надцять, tens 20–100 двадцять–дев'яносто, сто, compound number noun-government by the final digit, and Dative age Мені сімнадцять років)",
+    "A2.5 (Integrated complete hundreds 100–900 сто, двісті, триста, чотириста, п'ятсот–дев'ятсот, feminine тисяча agreement одна тисяча / дві тисячі / п'ять тисяч, мільйон/мільярд/трильйон, and Ukrainian arithmetic operations додавати, віднімати, множити, ділити, дорівнює)"
+  ],
+  "vocabularyEntriesAddedCount": 32,
+  "readerPassagesAdded": [
+    "A2-kyiv-tram-excursion (Includes authentic compound numbers, clock times, and prices in hryvnias)"
+  ],
+  "quizzesAndExercisesAdded": {
+    "fillInBlankExercises": 2,
+    "sentenceConstructionExercises": 1,
+    "contextualChoiceExercises": 1,
+    "grammarAwareExercises": 1,
+    "newCourseCheckQuestions": 3,
+    "newCoursePracticeDrills": 4,
+    "newCourseExamQuestions": 6
+  },
+  "existingFeaturesAffected": [
+    "FREQ_6000_DB expanded to 717 verified stressed Ukrainian entries (adding all teens 11–19, tens 20–90, hundreds 100–500, тисяча, мільйон, мільярд, однокласник, черга, and arithmetic verbs)",
+    "Everyday Vocabulary & Memory Lab updated with numeral and arithmetic exercises across Fill-in-the-Blank, Sentence Builder, Contextual Choice, and Case & Form Mastery"
+  ],
+  "validationResults": {
+    "buildSuccess": true,
+    "unitTestsPassed": 7,
+    "zeroForbiddenTextbookCitations": true
+  },
+  "remainingIntegrationWork": "Ready for Textbook 4 of 12."
+}

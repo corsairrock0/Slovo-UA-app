@@ -1,0 +1,96 @@
+{
+  "textbookNumber": 7,
+  "filename": "642520675-Colloquial-Ukrainian-The-Complete-Course-for-Beginners-Ian-Press-Stefan-Pugh-pdf_206d016c.pdf",
+  "title": "Colloquial Ukrainian: The Complete Course for Beginners (382 pp., 20 Lessons + Reference Grammar & Glossaries)",
+  "authors": [
+    "Ian Press",
+    "Stefan Pugh"
+  ],
+  "publicationYear": 1994,
+  "cefrCoverage": "A0 to B1+ (with B2 morphological and word-formation notes)",
+  "analysisSummary": {
+    "structure": "Introduction to the Ukrainian language, alphabet, stress, and pronunciation (pp. 1–13), 20 communicative lessons with dialogues in Kyiv, Lviv, and across Ukraine (pp. 14–291), Reference Grammar & Conjugation/Declension Tables (pp. 292–316), Key to the Exercises (pp. 317–338), Ukrainian–English Glossary (pp. 339–361), and English–Ukrainian Glossary (pp. 362–373).",
+    "pedagogicalStrengths": [
+      "Systematic 3-way contrast of positional verbs: placing an object (+ Accusative: класти/покласти, ставити/поставити, садити/посадити, вішати/повісити) vs. static position (+ Locative: лежати, стояти, сидіти, висіти) vs. self-motion (лягати/лягти, ставати/стати, сідати/сісти) plus high-value idioms (Lesson 18).",
+      "Clear treatment of consonant cluster simplification in everyday words (тиждень → тижня, користь → корисний, радість → радісний, щастя → щасливий, серце → сердечний, чернець → ченця, шістнадцять) and regressive sibilant assimilation (у книжці, одягаєшся) (Lessons 3, 5, 19).",
+      "Comprehensive coverage of Ukrainian surname declensions by suffix and bearer's gender (-енко, -чук, -ський/-цький, -ів/-ин), extended family & in-laws (теща, тесть, свекруха, свекор, зять, невістка, онук, двоюрідний брат/сестра), and nationality/resident suffixes (-янин/-янка → pl. -яни) (Lessons 2, 12, 19).",
+      "Nuanced lexical & morphological patterns: singulative suffix -и́на (капустина, цибулина, картоплина), meat derivation in -ина (свинина, яловичина, телятина, баранина), compound adjectives (багатоповерховий, добросердий) & attenuative -ува́тий (зеленкуватий), athematic verbs (дати, їсти, відповісти/розповісти), transitive motion verbs (нести/носити, везти/возити, вести/водити), numerical approximation by word-order inversion (днів два, років чотири), special Instrumental plurals (дітьми, людьми, очима, плечима, дверима, грошима), and verbs of applying/enrolling/succeeding (вдаватися, вступати, записуватися, звертатися, подати заяву)."
+    ],
+    "filteredOrModernizedMaterial": [
+      "Replaced early-1990s hyperinflation currency references (карбованці / купони from 1992–1994, e.g., 160,000 karbovantsi for an ice cream or 10,000 coupons for butter) with modern Ukrainian hryvnia (гривня / грн) pricing.",
+      "Filtered out OCR/typesetting typos in the source scan (such as *грцвнб for гривня on p. 113 and non-standard apostrophe *св'ятий for святий on p. 11) in favor of standard modern Ukrainian orthography.",
+      "Explicitly warned learners against the Russianism *положити (teaching authentic класти / покласти instead, as highlighted in Lesson 18)."
+    ]
+  },
+  "curriculumChanges": {
+    "updatedModules": [
+      {
+        "moduleId": "A0.2",
+        "title": "Euphony (Милозвучність), Palatalization & Syllable Stress",
+        "changes": "Added Rule 6 + Example 6 on consonant cluster simplification (-ждн- → -жн- in тиждень → тижня, -стн- → -сн- in корисний/радісний/щасливий, -рдц- → -рц- in серце, -рнц- → -нц- in чернець → ченця, -стн- → -сн- in шістнадцять) and regressive sibilant assimilation (у книжці [knɪ́zʲtsʲi], одягаєшся [sʲsʲɑ])."
+      },
+      {
+        "moduleId": "A1.1",
+        "title": "Gender of Nouns, Personal Pronouns & Equational Sentences",
+        "changes": "Added Rule 7 + Example 6 on nationality & city-resident nouns in -(н)ець/-(н)ка and -янин/-янка (where singular -ин drops in plural: киянин → кияни, львів'янин → львів'яни, селянин → селяни, громадянин → громадяни) and academic specialist titles (україніст, підручник з української мови)."
+      },
+      {
+        "moduleId": "A1.4",
+        "title": "Accusative Case (Direct Objects & Motion) & Genitive of Negation",
+        "changes": "Added Rule 8 + Example 7 on Masculine Genitive Singular -а/-я (discrete countable objects, people, cities, measures, and stress contrast за́мок → за́мку 'castle' vs. замо́к → замка́ 'lock') vs. -у/-ю (mass substances, collectives, processes), negated direct objects (Genitive vs. Accusative), and the singulative suffix -и́на (капустина, цибулина, картоплина, горошина)."
+      },
+      {
+        "moduleId": "A2.1",
+        "title": "Verb Aspects (Imperfective vs. Perfective), Past & Future Tenses",
+        "changes": "Added Rule 6 + Example 6 on the athematic verb family: дати / давати (дам, даси, дасть, дамо, дасте, дадуть), їсти / з'їсти (їм, їси, їсть, їмо, їсте, їдять; imp. їж!), and відповісти / розповісти (відповім, відповіси, відповість, відповімо, відповісте, дадуть vs. відповідять)."
+      },
+      {
+        "moduleId": "A2.3",
+        "title": "Adjectives, Degrees of Comparison & Manner Adverbs",
+        "changes": "Added Rule 7 + Example 6 on compound adjectives with linking vowels о/е (багатоповерховий, добросердий, синьоокий, західноукраїнський, високоякісний, сільськогосподарський) and attenuative color/quality suffixes in -ува́тий/-юва́тий (зеленкуватий, синюватий, кислуватий, солодкуватий)."
+      },
+      {
+        "moduleId": "A2.4",
+        "title": "Reflexive Verbs (-ся), Reciprocal Actions & Double Negation",
+        "changes": "Added Rule 6 + Example 6 contrasting wearing clothes habitually (носити + Acc., ходити в + Loc., бути в + Loc.) vs. the action of dressing/undressing/changing and putting on/taking off footwear (одягати/одягатися, роздягати/роздягатися, переодягатися, взуватися/роззуватися)."
+      },
+      {
+        "moduleId": "B1.1",
+        "title": "Verbs of Motion (Unidirectional vs. Multidirectional & Prefixed)",
+        "changes": "Added Rule 7 + Example 6 on the 3 transitive verbs of carrying, conveying, and leading (нести/носити, везти/возити, вести/водити), parallel imperfective stems приїздити = приїжджати, and indeclinable метро́."
+      },
+      {
+        "moduleId": "B1.3",
+        "title": "Instrumental & Dative Nuances, Conjunctions & Complex Sentences",
+        "changes": "Added Rule 8 + Example 6 on numerical approximation by word-order inversion (днів два, років чотири, годин на дві), special Instrumental plural endings -ьми / -има (дітьми, людьми, крильми, очима, плечима, дверима, грошима), and compound subordinating conjunctions (через те, що; завдяки тому, що; незважаючи на те, що; перед тим, як; після того, як; для того, щоб)."
+      }
+    ],
+    "newModulesAdded": [
+      {
+        "moduleId": "B1.7",
+        "level": "B1",
+        "title": "Placing vs. Resting (кла́сти / лежа́ти / ляга́ти), Ukrainian Surnames, In-Laws & Applying",
+        "summary": "Covers the 3-way positional verb matrix (placing an object + Acc. vs. resting in position + Loc. vs. self-motion + Acc.: класти/покласти, лежати, лягати/лягти; ставити/поставити, стояти, ставати/стати; садити/посадити, сидіти, сідати/сісти; вішати/повісити, висіти) and positional idioms, gender-based declension of Ukrainian surnames (-енко, -чук, -ський, -ів/-ин), extended family & in-laws (теща, тесть, свекруха, свекор, зять, невістка), meat derivation in -ина (свинина, яловичина, телятина, баранина), and verbs of succeeding, applying, enrolling, and feeling (вдаватися/вдатися, подати заяву, заповнити бланк, записатися, вступити, звернутися, заздрити, ревнувати, ненавидіти)."
+      }
+    ],
+    "vocabularyAddedCount": 72,
+    "everydayVocabExercisesAdded": {
+      "fillInTheBlank": ["fb-29", "fb-30", "fb-31", "fb-32"],
+      "sentenceConstruction": ["sc-20", "sc-21", "sc-22"],
+      "contextualChoice": ["cc-20", "cc-21", "cc-22"],
+      "grammarAware": ["ga-20", "ga-21", "ga-22"]
+    },
+    "readerPassagesAdded": [
+      {
+        "id": "A2-kyiv-post-office-hotel-lybid",
+        "level": "A2",
+        "title": "У готе́лі «Ли́бідь» та на головні́й по́шті в Ки́єві"
+      },
+      {
+        "id": "B2-lviv-vysokyi-zamok-history",
+        "level": "B2–C1",
+        "title": "Прогу́лянка Льво́вом: від Висо́кого за́мку до Стрийсько́го па́рку"
+      }
+    ]
+  }
+}

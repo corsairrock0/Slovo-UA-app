@@ -1,0 +1,348 @@
+{
+  "textbookId": "textbook_03",
+  "sourceFile": "/public/assets/aistudio/253213870-Conversational-Ukrainian_6388302f.pdf",
+  "bibliographicInfo": {
+    "titleEn": "Conversational Ukrainian",
+    "titleUk": "Розмовна українська мова",
+    "authors": [
+      "Yar Slavutych (Яр Славутич, Ph.D., University of Alberta, Edmonton)"
+    ],
+    "publisher": "Gateway Publishers Ltd.",
+    "city": "Edmonton — Winnipeg",
+    "year": "c. 1961 (Enlarged 2nd/3rd Edition, with 1986 demographic note pasted on p. 345)",
+    "totalPdfPages": 284,
+    "bookPageRange": "1–49, 60–577 (two-page spreads per PDF page)",
+    "totalLessons": 75,
+    "activeVocabularyTarget": 5000,
+    "structureOverview": {
+      "part1_Lessons1to50": "Lessons 1–50 (Book pp. 1–336): Everyday conversational dialogues (ДІЯЛОГ), narrative readings (ЧИТАННЯ), proverbs (ПРИСЛІВ'Я ТА ПРИКАЗКИ), idioms (ВИСЛОВИ ТА ІДІОМИ), progressive grammar explanations (ГРАМАТИКА), translation/completion homework (ДОМАШНЯ РОБОТА), and per-lesson bilingual glossaries (СЛОВНИК)with noun plurals and full imperfective/perfective verb conjugations.",
+      "part2_Lessons51to75": "Lessons 51–75 (Book pp. 337–562): Advanced cultural, geographical, historical, literary, scientific, and practical life units (Geography, Demographics, History of Kyivan Rus' & Cossack Era, Old/Middle/Modern Ukrainian Literature, 1929 Kharkiv vs. 1946/1960 Orthographies, Folk Songs & Dumy, Art & Architecture, Education, Flora, Agriculture, Industry, Transport, Sports, Language Culture, Science, Legal/Administrative Documents, and Punctuation Rules), paired with systematic English-to-Ukrainian Preposition Translation guides (ABOUT, AT, BY, DOWN/UP, FOR, FROM, IN, INTO/OF/OFF, ON, OUT OF, OVER, PAST/THROUGH, TILL/TO, TOWARDS, UNDER, WITH, WITHIN/WITHOUT).",
+      "backMatter": "Ukrainian-English Grammatical Terms (Book pp. 563–565), Comprehensive Morphological Appendix: Declension of Nouns (Hard, Soft, Mixed, Consonant-stem Feminine, Special IV Declension, Pluralia Tantum), Adjectives, Demonstrative/Interrogative/Possessive/Indefinite/Personal Pronouns, Cardinal Numerals (1–500, скільки, кілька), Verb Conjugations I & II (Book pp. 566–576), and Index to Grammar (Book p. 577)."
+    }
+  },
+  "analysisCompleteness": {
+    "analyzedPdfPages": "1–284 (all 284 two-page spread images in the PDF were visually inspected; note that the PDF had an empty OCR text layer, so all content was extracted directly from the page images).",
+    "unanalyzedOrMissingPages": [
+      "Front matter prior to Book p. 1 (title page, preface, and introductory phonetic guide) is not included in the source PDF scan.",
+      "Book pages 50–59 (end of Lesson 9 vocabulary + Lesson 10 'ДЕСЯТА ЛЕКЦІЯ' dialogue, reading, grammar, homework, and first vocabulary page) were omitted when the physical book was scanned between PDF page 25 (Book pp. 48–49) and PDF page 26 (Book pp. 60–61). Only Book p. 60 (final vocabulary page of Lesson 10: синій, сірий, смак, собі, справжній, сукня, хвала, шити/пошити, червоний, черевик, честь, чи, чоловічий, чорний) is present. Cross-references on Book pp. 41, 60, and 577 confirm Lesson 10 covered soft-stem feminine accusative adjectives (синю), reflexive dative/locative собі, and conjunction чи.",
+      "Index to Grammar pages after Book p. 577 (covering index entries from 'E' to 'Z') are cut off at the end of the PDF scan."
+    ]
+  },
+  "cefrMapping": {
+    "overallRange": "A1 to C1 (Comprehensive 75-Lesson Conversational, Cultural, Literary & Reference Course)",
+    "segments": [
+      {
+        "section": "Lessons 1–15 (Book pp. 1–91)",
+        "cefrLevel": "A1",
+        "scope": "Noun gender & hard/soft nominative plurals (-и, -і, -а), adjective gender/number agreement, Vocative singular (masculine -е/-у, feminine -о), euphony rules (і/й, у/в, з/із/зі), Present Tense Conjugations I & II, Imperative mood (ти, ви, ми), Past Tense (-в, -ла, -ло, -ли), Imperfective Analytical Future (буду + inf.) & Perfective Future, Accusative inanimate & animate singular, Genitive singular (hard/soft, -а vs. -у, negation немає, partitive Genitive with вчитися/навчати/хотіти/досить), Locative singular (-і vs. -у), Dative singular (-ові/-еві/-у, -і with к/г/х -> ц/з/с mutation, треба), Instrumental singular (-ом/-ем, -ою/-ею, with/without з), cardinal & ordinal numerals 1–1,000,000, and 'dual' stress with 2, 3, 4 (дві ріки́ vs. рі́ки)."
+      },
+      {
+        "section": "Lessons 16–30 (Book pp. 92–194)",
+        "cefrLevel": "A2",
+        "scope": "Reflexive verbs in -ся (вмиватися, одягатися, голитися) vs. transitive counterparts, irregular past tenses (піти -> пішов, вітертися -> вітерся, могти -> міг/могла), ставати/стати + Instrumental, почекати/почувати, comparative & superlative degrees of adjectives (-іш-, -ш-, consonant mutations -г/-ж/-з -> -жч-, -с -> -щ-, suppletive формs) and adverbs, prepositions від/за in comparisons, Genitive plural of hard/soft/consonant-stem nouns (-ів, zero ending with о/е insertion, -ей) and adjectives/possessives (-их/-іх) after numbers 5+ and багато/кілька, definite vs. indefinite verbs of motion (іти/ходити, їхати/їздити, бігти/бігати), Dative & Instrumental plural of nouns/adjectives/possessives, declension of багато, diminutive nouns & adjectives (-ик, -ок, -ець, -усь, -еньк-, -ичк-, -очк-, -инк-), adverbial participles (дієприслівники: читаючи, прочитавши), declension of українські place names (Київ, Львів, Луганське, Херсон, Севастопіль), prefix по- ('for a while'), Accusative plural (animate = Genitive vs. inanimate = Nominative), Conditional mood (би/б, якби, якщо б), and patronymics (-ович, -івна/-ївна)."
+      },
+      {
+        "section": "Lessons 31–50 (Book pp. 195–336)",
+        "cefrLevel": "B1",
+        "scope": "Spatial verbal prefixes (в-, ви-, від-, до-, за-, пере-, при-, про-) with motion verbs (ходити/літати), full 4-pair motion verb system (бігати/бігти, возити/везти, плавати/пливти, літати/летіти), -сь variant on дієприслівники (дивлячись, б'ючись), synthetic imperfective future (-тиму, -тимеш), active vs. passive voice and translating English passives via 3rd-plural active or dative impersonal constructions, impersonal passive forms in -но/-то (написано, забито), purpose clauses with щоб + past tense or infinitive,locative singular adjective contraction (-ім alongside -ому: на зеленім килимі), subject-predicate number agreement with numerals and багато/кілька, irregular vocatives (отець -> отче, Бог -> Боже), directional vs. locational adverbs (нагору/нагорі, вниз/внизу, всередину/всередині, надвір/надворі), numeral-noun case government (2–4 vs. 5+ vs. compound 21), compound comparatives/superlatives (більш/найбільш), translating English present participles into як/що clauses, perfective prefix polysemy (ви-, до-, за-, над-, о-, пере-, під-писати) and secondary imperfectivization (-ува-/-юва-), honorific plural predicates for parents (Батько говорили, Мати кажуть), and double negation (ніколи не)."
+      },
+      {
+        "section": "Lessons 51–75 & Reference Appendix (Book pp. 337–577)",
+        "cefrLevel": "B2–C1",
+        "scope": "Systematic translation of 20 English prepositions (ABOUT, AT, BY, DOWN, UP, FOR, FROM, IN, INTO, OF, OFF, ON, OUT OF, OVER, PAST, THROUGH, TILL, TO, TOWARDS, UNDER, WITH, WITHIN, WITHOUT) into idiomatic Ukrainian case-preposition constructions; lexical meaning shifts caused by word stress (похо́дити vs. походи́ти, пробува́ти vs. про́бувати, тому́ vs. то́му); 'round-trip' perfective motion verbs (сходити, збігати, з'їздити); orthographic comparison between the 1929 Kharkiv Pravopys (Правопис 1929-го р.) and the 1946/1960 Kiev Pravopys; complete rules of Ukrainian punctuation (period, ellipsis, question/exclamation marks, parentheses, quotation marks, 16 comma rules, semicolon, colon, 6 dash rules, hyphen); official/business document templates (протокол, об'ява, доручення, заява, довідка, перепустка, envelope addressing); and complete reference declension tables."
+      }
+    ]
+  },
+  "grammarInventory": [
+    {
+      "id": "G01_EUPHONY_APOSTROPHE_STRESS_SEMANTICS",
+      "lessons": ["Lesson 1", "Lesson 7", "Lesson 14", "Lesson 19", "Lesson 51", "Lesson 71"],
+      "pages": "2–3, 35, 82, 113, 340, 521",
+      "title": "Euphony Rules (Милозвучність), Complete Apostrophe Rules, Dual Stress, and Stress-Driven Meaning Shifts",
+      "explanation": "Ukrainian maintains smooth vocalic-consonantal flow (милозвучність) through systematic alternations of initial vowels/semivowels, prepositions, conjunctions, and particles, while lexical stress both shifts after numerals 2–4 and distinguishes otherwise homographic words.",
+      "notableRules": [
+        "Initial і-/й- and у-/в- alternation (Lesson 1, p. 3): іти́ / йти (іду́ / йду), учи́тися / вчи́тися, уже́ / вже, учо́ра / вчо́ра, удо́ма / вдо́ма, упе́рше / впе́рше, увійти́ / ввійти́. Forms in у- and і- are preferred (a) sentence-initially and (b) before words beginning with a bilabial or consonant cluster; й- and в- are used after vowels.",
+        "Prepositional & Particle Euphony: в / у / уві; з / із / зі (зі before two consonants, especially sibilants: зі сві́жим ма́слом, із сестро́ю, Lesson 11, p. 63); о / об before vowels (об одина́дцятій годи́ні, Lesson 16, p. 93); під / підо (підо мно́ю, Lesson 56, p. 385); emphatic particle же after consonants vs. ж after vowels (Він же зна́є vs. Вона́ ж була́ там, Lesson 19, p. 113); adverbial participle suffix -сь after vowels vs. -ся (Lesson 32, p. 206).",
+        "Complete Apostrophe Rules (Lesson 71, p. 521): Used before iotated vowels (я, ю, є, ї) to indicate a hard consonant + [й] glide in three environments: (1) after bilabial consonants б, п, в, м, ф (б'є, солов'ї́, п'ю, м'яч, п'ять, па́м'ять, в'я́нути, ім'я́, м'я́со, полу́м'я) — EXCEPT when the bilabial is preceded by another root consonant (цвях, свя́то, святи́й; however, if the preceding consonant belongs to a prefix, the apostrophe is retained: зв'язо́к, зв'яза́ти); (2) after syllable-final р (бур'я́н, ма́тір'ю, подві́р'я — vs. no apostrophe when р begins the syllable: бу́ря, буря́к, пря́мо, ряд); (3) after prefixes ending in a consonant before root-initial я, ю, є, ї (з'єдна́ти, з'ї́сти, об'є́днаний, об'я́ва, під'ї́зд).",
+        "'Dual' Stress Shift after Numerals 2, 3, 4 (Lesson 14, p. 82): Certain nouns preceded by два (дві), три, чоти́ри take Nominative Plural endings but retain Singular (or historic dual) stem stress: дві, три, чоти́ри ріки́ (vs. regular plural рі́ки), сестри́ (vs. се́стри), міста́ (vs. міста́/мі́ста), моря́ (vs. моря́), бра́ти (vs. брати́), си́ни (vs. сини́). Remnant archaic dual forms with feminine body parts: дві руці́ (two hands), дві нозі́ (two legs).",
+        "Stress Retraction on Personal Pronouns after Prepositions (Lesson 7, p. 35): After prepositions бі́ля, в, до, за, на, про́ти,Genitive/Accusative pronouns мене́, тебе́ shift stress backward to the first syllable: бі́ля ме́не, до те́бе, на ме́не, про́ти ме́не.",
+        "Lexical Meaning Changes Caused by Stress (Lesson 51, p. 340): похо́дити (to walk for a while, perf.) vs. походи́ти (to descend from, originate, imperf.); пробува́ти (to stay/reside, imperf.) vs. про́бувати (to try/attempt, imperf.); тому́ ('to that one', Dat. of той/те; 'therefore') vs. то́му ('ago': два дні то́му)."
+      ]
+    },
+    {
+      "id": "G02_NOUN_DECLENSIONS_PLURALIA_GEOGRAPHICAL",
+      "lessons": ["Lesson 1", "Lesson 2", "Lesson 3", "Lesson 5", "Lesson 6", "Lesson 7", "Lesson 8", "Lesson 9", "Lesson 12", "Lesson 14", "Lesson 18", "Lesson 22", "Lesson 23", "Lesson 24", "Lesson 25", "Lesson 26", "Lesson 27", "Lesson 28", "Lesson 29", "Lesson 35", "Lesson 38", "Lesson 74", "Appendix"],
+      "pages": "2–3, 7, 13, 23, 29, 35, 43, 49, 70, 82, 108, 132, 139, 145, 151–152, 159, 168–169, 174, 182, 228, 252, 548, 566–570",
+      "title": "Complete Noun Declension System, Diminutives, Geographical Names, and Irregular Paradigms",
+      "explanation": "Presents the full 7-case inflection of Masculine, Feminine, and Neuter nouns across Hard, Soft, Mixed, Consonant-stem Feminine (3rd declension), and -ат/-ят/-ен Neuter (4th declension) paradigms, alongside specialized paradigms for Ukrainian geographical names, professions in -ар, and irregular nouns.",
+      "notableRules": [
+        "Masculine Nouns in -ар/-яр (Lessons 18 & 35, pp. 108, 228): Although ending in hard -р in the Nominative singular, agent nouns like лі́кар, секрета́р, пи́сар, апте́кар, ку́хар, шахта́р decline according to the SOFT stem declension (Gen. лі́каря, Dat. лі́кареві, Inst. лі́карем, Nom. pl. лікарі́, Gen. pl. лікарів), whereas loanword до́ктор declines according to the HARD stem declension (Gen. до́ктора, Nom. pl. до́ктори).",
+        "Masculine Nouns in -ин Drop Suffix in Plural (Lesson 23, p. 139): Nouns denoting ethnicity or social group in -янин/-анин drop -ин- in the plural and take Nominative plural -и and zero-ending Genitive plural: селяни́н -> Nom. pl. селя́ни, Gen. pl. селя́н; кия́нин -> кия́ни, кия́н; громадя́нин -> громадя́ни, громадя́н; росія́нин -> росія́ни, росія́н; болга́рин -> болга́ри; тата́рин -> тата́ри.",
+        "Vocative Singular & Plural Special Forms: (a) Masculine hard stems take -е (Тара́се, Богда́не) or -у (си́ну, ба́тьку, та́ту, кра́ю) with consonant mutations (хло́пець -> хло́пче, украї́нець -> украї́нче, оте́ць -> о́тче, Бог -> Бо́же, друг -> дру́же, коза́к -> коза́че); soft stems take -ю (учи́телю, у́чню, ко́ню, Андрі́ю); mixed stems take -у/-е (чита́чу, хру́ще); (b) Feminine hard -о (Гали́но, Окса́но), soft -є (Марі́є, наді́є), mixed -е (учени́це, пло́ще), consonant-stem -е (но́че, о́сене, кро́ве); (c) Historic Vocative Plural in -ове (Lesson 12, p. 70): пан -> Nom. pl. пани́, Voc. pl. пано́ве! (often used politely as Nominative plural: Куди́ йдуть ті пано́ве?).",
+        "Dative Singular Stylistic Rule for Three Consecutive Masculine Nouns (Lesson 38, p. 252): When two or three masculine nouns occur in apposition (title + first name + surname), at least one takes -у/-ю alongside -ові/-еві to avoid monotonous repetition: Я посла́в лист письме́нникові Ула́су Самчуко́ві OR письме́ннику Василе́ві Чапле́нкові.",
+        "Declension of Ukrainian Geographical Names (Lesson 27, pp. 168–169): (1) Masculine cities in -ів/-їв (Ки́їв, Льві́в, Ха́рків, Черні́гів, Микола́їв, Ка́нів) alternate root і -> е/о in open syllables: Ки́їв -> Gen. Ки́єва, Dat. Ки́єву, Inst. Ки́євом, Loc. у Ки́єві, Voc. Ки́єве; Льві́в -> Льво́ва, у Льво́ві; (2) Masculine soft-stem cities in -піль (Севасто́піль, Симферо́піль, Марію́піль, Терно́піль, Ні́копіль): Gen. Севасто́поля, Dat. Севасто́полеві, Inst. Севасто́полем, Loc. у Севасто́полі; (3) Neuter adjectival city names (Луга́нське, Дніпропетро́вське, Лу́цьке) decline like neuter hard adjectives: Gen. Луга́нського, Dat. Луга́нському, Inst. Луга́нським, Loc. у Луга́нському.",
+        "Special Irregular Declensions: (1) ма́ти (Lesson 8, p. 43): Gen./Dat./Loc. ма́тері, Acc. ма́тір, Inst. ма́тір'ю, Voc. ма́ти; (2) швець ('shoemaker', Lesson 74, p. 548): Gen./Acc. шевця́, Dat. шевце́ві, Inst. шевце́м, Loc. на шевце́ві, Voc. ше́вче; (3) кінь ('horse', Appendix p. 567): Inst. pl. кі́ньми (Lesson 26, p. 159); (4) гру́ди, две́рі, гро́ші, воро́та (Appendix p. 571): Gen. pl. груде́й, двере́й, гро́шей, ворі́т; Inst. pl. гру́дьми, две́рима (дверми́), грі́шми (гроши́ма), ворі́тьми.",
+        "Productive Diminutive Noun Suffixes (Lesson 25, pp. 151–152): Masculine: -ик (сто́лик, ко́ник, хло́пчик, па́льчик, хво́стик), -ок (садо́к, гайо́к, сино́к, сніжо́к, чобіто́к), -ець (вітере́ць, хліве́ць, гребіне́ць), -усь (діду́сь), -еньк- (ба́тенько); Feminine: -к- (ха́тка, ру́чка, рі́чка), -ичк- (сестри́чка, лиси́чка, води́чка), -очк- (ку́рочка, ша́почка), -иц- (води́ця, сестри́ця), -інк- (ма́тінка); Neuter: -ц- (віко́нце), -еньк- (серде́нько)."
+      ]
+    },
+    {
+      "id": "G03_ADJECTIVES_POSSESSIVE_DEGREES_DIMINUTIVES",
+      "lessons": ["Lesson 1", "Lesson 2", "Lesson 4", "Lesson 8", "Lesson 11", "Lesson 13", "Lesson 18", "Lesson 20", "Lesson 22", "Lesson 24", "Lesson 26", "Lesson 29", "Lesson 36", "Lesson 45", "Lesson 75", "Appendix"],
+      "pages": "2, 8, 19, 40–41, 62, 76, 108, 119–120, 132–133, 146, 159–160, 182, 236, 299, 554, 571",
+      "title": "Adjectives: Hard/Soft Declension, Contracted Locatives, Possessive Adjectives, Degrees of Comparison, and Attenuatives",
+      "explanation": "Covers full adjectival inflection, substantivized adjectives, possessive adjectives derived from personal nouns, and all 5 patterns of comparative and superlative formation.",
+      "notableRules": [
+        "Contracted Locative Singular of Masculine & Neuter Adjectives (Lesson 36, p. 236): Alongside standard -ому/-ьому (на зеле́ному ки́лимі, в вели́кому мі́сті), masculine and neuter adjectives frequently take the contracted ending -ім/-їм in the Locative singular (на зеле́нім ки́лимі, в вели́кім мі́сті).",
+        "Possessive Adjectives (Присвійні прикметники, Lesson 22, pp. 130–133): Formed from masculine nouns with -ів/-їв (fem. -ова/-єва, neut. -ове/-єве, pl. -ові/-єві: ба́тьків костю́м, бра́това кни́га, учи́телів словни́к, Петрі́в, І́горів, Шевче́нків «Кобза́р») and from feminine nouns with -ин/-їн (fem. -ина/-їна, neut. -ине/-їне, pl. -ині/-їні: ма́терине а́вто, сестри́ні череви́ки, Марі́їн дикта́нт, Софі́їн, Га́лин).",
+        "Five Patterns of Adjective Degrees of Comparison (Lessons 20 & 45, pp. 119–120, 299): Pattern I: Stem + -іш- (га́рний -> гарні́ший -> найгарні́ший; до́брий -> добрі́ший; нови́й -> нові́ший; си́ній -> сині́ший); Pattern II: Stem + -ш- (деше́вий -> деше́вший; молоди́й -> моло́дший; стари́й -> ста́рший [senior in rank/position] vs. старі́ший [older in age/things, Lesson 59, p. 419]); Pattern III: Dropping suffix -ок-/-ек- before -ш- (глибо́кий -> гли́бший; широ́кий -> ши́рший; дале́кий -> да́льший) and к -> щ in висо́кий -> ви́щий -> найви́щий; Pattern IV: Consonant assimilation before -ш- yielding -жч- (важки́й -> ва́жчий; вузьки́й -> ву́жчий; дороги́й -> доро́жчий; низьки́й -> ни́жчий; близьки́й -> бли́жчий; тяжки́й -> тя́жчий); Pattern V: Suppletive roots (вели́кий -> бі́льший -> найбі́льший; до́брий/га́рний -> кра́щий -> найкра́щий; мали́й -> ме́нший -> найме́нший; пога́ний -> гі́рший -> найгі́рший); plus Analytical/Compound Comparatives & Superlatives (Lesson 45, p. 299): більш / найбі́льш + positive degree (більш відо́мий, найбі́льш досві́дчений).",
+        "Syntax of Comparison (Lessons 20 & 21, pp. 118, 125–126): Expressed either by conjunction ніж + Nominative (ви́щий, ніж я; доро́жче, ніж те) or by prepositions від / за + Genitive (кра́щий від/за Петра́; ме́нший від/за ньо́го; не гі́рше від/за вас). Strengthened elative/superlative adverbs use prefix якнай- / щонай- (якнайбі́льше, якнайшви́дше, якнайскорі́ше, щонайме́нше).",
+        "Diminutive & Attenuative Adjectives: Suffix -еньк- expresses smallness or tenderness (мали́й -> мале́нький, га́рний -> гарне́нький, сухи́й -> сухе́нький, м'яки́й -> м'яке́нький, ми́лий -> миле́нький, коро́ткий -> короте́нький, Lesson 26, p. 160); suffix -уват-/-юват- expresses partial quality ('-ish / rather': дорогува́тий = rather expensive, чорнува́тий = blackish, синюва́тий = bluish, Lesson 75, p. 554)."
+      ]
+    },
+    {
+      "id": "G04_NUMERALS_PRONOUNS_SUBJECT_AGREEMENT",
+      "lessons": ["Lesson 12", "Lesson 13", "Lesson 22", "Lesson 24", "Lesson 37", "Lesson 44", "Lesson 50", "Lesson 66", "Appendix"],
+      "pages": "68–69, 76, 133, 146, 245, 293, 332, 478, 572–576",
+      "title": "Numerals, Pronoun Declensions, Double Negation, and Subject-Predicate Agreement Rules",
+      "explanation": "Details the full declension of Ukrainian pronouns and cardinal numerals, numeral-noun case agreement, and verb-predicate number/gender agreement with quantified and compound subjects.",
+      "notableRules": [
+        "Numeral-Noun Agreement (Lesson 44, p. 293): (1) 1 and compound numerals ending in 1 (21, 31, 41... except 11) take a Nominative Singular noun and modifier (два́дцять оди́н хло́пець, три́дцять одна́ ді́вчина); (2) 2, 3, 4 and compounds ending in 2, 3, 4 (22, 23, 24...) take Nominative Plural with dual stress shift (два хло́пці, дві ді́вчини); (3) 5–20, 25–30, tens, hundreds, and quantifiers бага́то, ма́ло, тро́хи, кі́лька, де́кілька, скі́льки take Genitive Plural (п'ять хло́пців, п'ять дівча́т, бага́то будинків).",
+        "Declension of Бага́то, Скі́льки, Кі́лька (Lesson 24, p. 146 & Appendix p. 576): Nom. бага́то / скі́льки / кі́лька; Gen. багатьо́х / скілько́х / кілько́х; Dat. багатьо́м / скілько́м / кілько́м; Acc. багатьо́х (animate) or бага́то (inanimate); Inst. багатьма́ (багатьома́) / скількома́ / кількома́; Loc. на багатьо́х / скілько́х / кілько́х.",
+        "Subject-Predicate Agreement with Quantified & Compound Subjects (Lesson 37, p. 245): (1) With numeral + noun (Два робітни́ки / П'ять робітників), the present/future verb predicate may be either singular or plural (працю́є or працю́ють), EXCEPT with compound numerals ending in оди́н (Два́дцять оди́н робітни́к), which require a singular predicate (працю́є); (2) With Noun + з + Instrumental (Петро́ з Богда́ном), the predicate MUST be plural (працю́ють); (3) After бага́то, ма́ло, кі́лька, де́кілька + Genitive plural, the present predicate is preferably singular (Бага́то робітників працю́є там), and in the Past Tense the singular predicate MUST be Neuter (-ло) regardless of the noun's gender (Бага́то чолові́ків і жіно́к працюва́ло там; Дві ти́сячі студе́нтів учи́лося там).",
+        "Honorific Plural Predicate with Singular Parent Subject (Lesson 49, p. 326): When speaking respectfully of one's father or mother in traditional Ukrainian, a plural verb predicate is used with a singular subject: Ба́тько говори́ли про це; Ма́ти ка́жуть...; Ба́тько купи́ли вчо́ра пра́льну маши́ну.",
+        "Double Negation & Concessive Indefinite Expressions: Ukrainian requires double (or multiple) negation when negative pronouns/adverbs ніхто́, ніщо́, нія́кий, ніде́, ніко́ли, ні... ні are used (Вони́ ніко́ли не припиня́ють боротьби́; Вона́ ніко́ли не зна́є, Lessons 7 & 50, pp. 34, 332). Concessive universal clauses ('wherever, whenever, whatever, whoever') use де б не, коли́ б не, що б не, хто б не, яки́й би не + past tense (Де б я не подорожува́в..., Lesson 66, p. 478)."
+      ]
+    },
+    {
+      "id": "G05_VERBAL_SYSTEM_MOTION_PREFIXES_VOICE",
+      "lessons": ["Lesson 6", "Lesson 8", "Lesson 11", "Lesson 16", "Lesson 19", "Lesson 22", "Lesson 25", "Lesson 26", "Lesson 27", "Lesson 28", "Lesson 29", "Lesson 31", "Lesson 32", "Lesson 33", "Lesson 34", "Lesson 35", "Lesson 48", "Lesson 58"],
+      "pages": "28–29, 41–42, 63, 94–95, 113, 133, 152, 160, 169, 175, 182–183, 197–198, 206, 213–214, 221–222, 228, 317–318, 407",
+      "title": "Verbal Aspect, 4 Pairs of Motion Verbs, Spatial & Aspectual Prefixes, Diyepryslivnyk, and Voice/Impersonal Constructions",
+      "explanation": "Provides a systematic progression of the Ukrainian verb from basic conjugations to prefixed motion verbs, secondary imperfectivization, adverbial participles, and passive-to-active translation rules.",
+      "notableRules": [
+        "Four Core Pairs of Unidirectional (Definite) vs. Multidirectional (Indefinite) Verbs of Motion (Lessons 22, 25, 31, pp. 133, 152, 198): (1) On foot (walking): іти́ (іду́) vs. ходи́ти (ходжу́); (2) By vehicle (riding/driving): ї́хати (ї́ду) vs. ї́здити (ї́жджу); (3) Running: бі́гти (біжу́, біжи́ш, біжа́ть) vs. бі́гати (бі́гаю); (4) Carrying by vehicle: везти́ (везу́) vs. вози́ти (вожу́, во́зиш); (5) Swimming/sailing: пливти́ (пливу́) vs. пла́вати (пла́ваю); (6) Flying: леті́ти (лечу́, лети́ш) vs. літа́ти (літа́ю). Both members of each unprefixed pair are imperfective.",
+        "Spatial Prefixes with Verbs of Motion (Lesson 31, p. 197): Adding prefixes в- (into: вхо́дити/вліта́ти), ви- (out of: вихо́дити/виліта́ти), від- (away from: відхо́дити/відліта́ти), до- (up to/reach: дохо́дити/доліта́ти), за- (into/drop in/behind: захо́дити/заліта́ти), пере- (across/over: перехо́дити/переліта́ти), при- (arrive: прихо́дити/приліта́ти), про- (through/past: прохо́дити/проліта́ти) to an indefinite stem creates a new imperfective verb, whereas adding them to a definite stem creates its perfective partner (прихо́дити — прийти́; приліта́ти — прилеті́ти).",
+        "'Round-Trip' Perfective Motion Verbs (Lesson 58, p. 407): Prefix с-/з- added to indefinite motion stems forms perfective verbs meaning 'to go somewhere and return (make a single round trip)': сходи́ти (Він сходи́в у крамни́цю = He went to the store and came back), збі́гати (Збі́гай по лі́каря! = Fetch the doctor!), з'ї́здити (Вони́ з'ї́здили до Нью-Йо́рку = They went to New York and returned).",
+        "Aspectual Prefix Polysemy & Secondary Imperfectivization (Lessons 27 & 48, pp. 169, 317–318): (a) Prefix по- on activity/motion verbs denotes 'doing for a while' (пої́здив, походи́в, пописа́в тро́хи); (b) Prefix за- on non-motion verbs denotes the ingressive start of an action (Ми заспіва́ли; Ра́птом вона́ заговори́ла); (c) Different prefixes on писа́ти create distinct lexical-perfective verbs, which then form Secondary Imperfectives (вторинний недоконаний вид) by inserting -ува-/-юва- for repeated action: ви́писати -> випи́сувати (write out), дописа́ти -> допи́сувати (finish writing), записа́ти -> запи́сувати (write down/record), надписа́ти -> надпи́сувати (inscribe a heading), описа́ти -> опи́сувати (describe), переписа́ти -> перепи́сувати (rewrite/copy), підписа́ти -> підпи́сувати (sign).",
+        "Irregular Past Tense Stems (Lessons 11, 16, 19, 28, 41): ї́сти -> їв, ї́ла, ї́ли (perf. з'ї́сти -> з'їв); іти́/піти́ -> ішо́в/пішо́в, ішла́/пішла́, ішли́/пішли́; ви́тертися -> ви́терся, ви́терлася, ви́терлося, ви́терлися; набри́днути -> набри́д, набри́дла, набри́дло (+ Dat.: Мені́ набри́дло це); могти́ -> міг, могла́, могло́, могли́ (with о -> і in masculine sg.); пекти́ -> пік, пекла́, пекло́, пекли́; вмерти -> вмер, вме́рла.",
+        "Translating English Passive Voice & Present Participles into Ukrainian (Lessons 33, 34, 46, pp. 213–214, 221–222, 306): Because periphrastic passive (була́ напи́сана) is used rarely in Ukrainian conversation, English passives are normally rendered by: (1) 3rd-person plural active subjectless sentences with an Accusative or Dative object (I was sent = Мене́ посла́ли; The car was stolen = А́вто вкра́ли; I was given = Мені́ дали́; He was shown = Йому́ показа́ли) or (2) Impersonal passive forms in -но, -то with an Accusative object (Про Мару́сю напи́сано бага́то пісе́нь; Його́ заби́то і вки́нено в рі́чку). English perception + Present Participle (Complex Object: I see you reading; She saw a man walking) is rendered in Ukrainian by subordinate clauses with як or що (Я ба́чу, як ви чита́єте; Вона́ ба́чила чолові́ка, що йшов).",
+        "Adverbial Participles (Дієприслівники, Lessons 26 & 32, pp. 160, 206): Present (imperfective) formed by dropping -ть from 3rd pl. present and adding -чи (чита́ють -> чита́ючи, іду́чи, сто́ячи, зна́ючи; reflexive -ться -> -чись: ди́влячись, б'ючи́сь, вмива́ючись); Past (perfective) formed by adding -ши to masculine past form (прочита́в -> прочита́вши, написа́вши, взя́вши, зроби́вши). Both can be used with main verbs in any tense."
+      ]
+    },
+    {
+      "id": "G06_VERB_CASE_GOVERNMENT_AND_PREPOSITIONS",
+      "lessons": ["Lesson 2", "Lesson 4", "Lesson 6", "Lesson 9", "Lesson 11", "Lesson 13", "Lesson 15", "Lesson 16", "Lesson 17", "Lesson 18", "Lesson 21", "Lesson 24", "Lesson 26", "Lesson 29", "Lesson 34", "Lesson 35", "Lesson 36", "Lesson 37", "Lesson 38", "Lesson 39", "Lesson 40", "Lesson 41", "Lesson 42", "Lesson 43", "Lesson 44", "Lesson 47", "Lesson 49", "Lesson 51–69", "Lesson 70", "Lesson 71"],
+      "pages": "8, 19, 28, 49, 63, 76, 88, 94, 100, 107–108, 126, 146–147, 160, 183, 221, 228, 236–237, 246, 252, 259, 265, 273, 281, 287, 293, 311, 326, 340–511, 521",
+      "title": "Specialized Verb/Predicate Case Government and 20 English-to-Ukrainian Preposition Translation Maps",
+      "explanation": "Catalogs specific Ukrainian verbs, adjectives, and impersonal predicates that govern Genitive, Dative, or Instrumental objects, and provides exhaustive disambiguation maps for translating polysemous English prepositions into Ukrainian.",
+      "notableRules": [
+        "Verbs & Predicates Governing the Genitive Case: (1) Partitive Genitive ('some of'): ви́пити пи́ва/молока́, з'ї́сти ри́би, хоті́ти борщу́ (Lesson 12, p. 70); (2) Learning/teaching a subject: учи́тися / вчи́тися + Gen. (вчимо́ся грама́тики, украї́нської мо́ви) and навча́ти + Acc. person + Gen. subject (Учи́тель навча́є нас украї́нської мо́ви, Lesson 2, p. 8); (3) Verbs of reaching, using, adhering, fearing: досяга́ти / досягти́ у́спіху (Lesson 67, p. 488), вжива́ти / вжи́ти украї́нської мо́ви (Lesson 55, p. 377), дотри́муватися пра́вила (Lesson 71, p. 521), боя́тися кого́/чого́ (Lesson 41, p. 273); (4) Impersonal pity/regret: Мені́ жаль його́ / нови́х буди́нків (Lesson 42, p. 281) and шкода́ ма́йна/його́ (Lesson 41, p. 273); (5) Sufficiency: до́сить о́дягу/чорни́ла (Lesson 15, p. 88).",
+        "Verbs & Predicates Governing the Dative Case: (1) Verbs: моли́тися Бо́гу/Йому́ (Lesson 38, p. 252), за́здрити мені́/вам (Lesson 34, p. 221), піддава́тися / підда́тися їй / комуні́стам (Lesson 47, p. 311), дорі́внювати ква́рті / їй (Lesson 44, p. 293), набри́днути (Петро́ві набри́д цей оліве́ць, Lesson 19, p. 113), щасти́ти / пощасти́ти (Вам щасти́ть, Мені́ пощасти́ло, Lesson 34, p. 221), доводи́тися / довести́ся (Йому́ довело́ся ви́їхати, Lesson 49, p. 326); (2) Adjectives & Impersonal Predicates: потрі́бний (Мені́ потрі́бний словни́к, Lesson 13, p. 76), тре́ба (Мені́ тре́ба йти, Lesson 9, p. 49), со́ромно (Мені́ со́ромно, Lesson 36, p. 236), заборо́нено (Мені́ заборо́нено це роби́ти, Lesson 37, p. 246).",
+        "Verbs & Adjectives Governing the Instrumental Case: (1) Satisfaction/contentment: задово́лений + bare Instrumental without з (Він задово́лений не́ю / патефо́ном / кни́гою, Lesson 9, p. 49) and verb задовольня́тися / задовольни́тися чи́танням (Lesson 71, p. 521); (2) Playing/treating/admiring/using: ба́витися забавка́ми (vs. transitive ба́вити малу́ дити́ну, Lesson 40, p. 265), частува́ти її́ цуке́рками (Lesson 43, p. 287), любува́тися поля́ми / мо́рем (Lesson 26, p. 159), користува́тися метри́чною систе́мою (Lesson 44, p. 293), опікува́тися культу́рою (Lesson 37, p. 244), горди́тися не́ю (Lesson 52, p. 347); (3) Copular/naming/feeling verbs: ста́ти лі́карем / вчи́телькою (Lesson 17, p. 102), бу́ти ге́тьманом (Lesson 36, p. 237), почува́ти себе́ вто́мленою (Lesson 17, p. 102), назива́ти його́ дру́гом (Lesson 35, p. 228); (4) Acquaintance with з + Inst.: знайо́митися / познайо́митися з ним/не́ю (Lesson 39, p. 259).",
+        "Core Ukrainian Prepositions & Their Case Governance: бі́ля, від, для, до, з (from), з-за, з-під, за́мість, зара́ди, ко́ло, крім, ми́мо, навко́ло, напро́ти, о́сторонь, пі́сля, по́верх, по́перек, по́руч, про́ти, се́ред, уздо́вж (вздо́вж), що́до + Genitive; завдяки́ + Dative; крізь, повз, че́рез, про + Accusative; перед, над, по́за + Instrumental; при + Locative; dual/triple-case prepositions: в/у (+ Acc. direction, + Loc. location, + Gen. possession), на (+ Acc. direction/time, + Loc. location), за (+ Acc. exchange/time 'in a minute', + Inst. location behind/fetch, + Gen. time/reign 'за Мазепи'), під (+ Acc. direction under, + Inst. location under/near), між (+ Inst. location between, + Acc. motion between), по (+ Loc. along/around: ходи́ти по кімна́ті/мі́сту, + Acc. purpose 'to fetch': пішла́ по хліб / пої́хав по лі́каря, Lesson 24, p. 146), по́над (+ Acc. 'over/more than' with numbers: по́над п'ять фу́тів, + Inst. 'along/above': лети́ть по́над поля́ми, Lesson 44, p. 293), згід́но з + Instrumental ('according to', Lesson 18, p. 107).",
+        "Two Ways to Express 'It was in [Year]' (Lesson 36, p. 237): (1) व / у + Locative ordinal + ро́ці: Це було́ в 1945-ому (-ім) ро́ці; Тара́с Шевче́нко народи́вся в 1814-ому (-ім) ро́ці; OR (2) Bare Genitive ordinal + ро́ку (no preposition): Це було́ 1945-го ро́ку; Тара́с Шевче́нко народи́вся 1814-го ро́ку.",
+        "Comprehensive English-to-Ukrainian Preposition Disambiguation (Lessons 51–71): Maps 20 English prepositions by semantic sense: ABOUT (place: навко́ло/по; age: ко́ло + Gen.; topic: про/що́до; time: ма́йже/бли́зько + Gen.), AT (place: в/бі́ля/за; direction: на/до/з; activity: у/за/над; time: в/о/на; cause: від/на; price: по), BY (place: при/бі́ля/ко́ло/уздо́вж/повз/ми́мо; means/part: че́рез/за/з; author: Inst. or possessive adj.; deadline: на/до/при; measure: на шту́ки/кілогра́ми; profession: за фа́хом; difference: на три ро́ки), DOWN/UP (за/вниз/по vs. наго́ру/по/на/про́ти/нагорі́), FOR (goal: для/за/зара́ди/на; destination: до; substitution: за́мість/за; cause: че́рез; duration: на/про́тягом; exchange: на/за), FROM (з/від/з-за/з-під), IN (place: в/у/на; month: в/у; future: че́рез/за; state/form: в/у; weather: в/під час), INTO (в/у/на), OF (Genitive, з, від, про), OFF (з/о́сторонь/від), ON (на/по/за/від/про/в), OUT OF (по́за/без/з/з-за), OVER (над/на/че́рез/по́верх/по/по́над/більш як), PAST/THROUGH (повз/ми́мо/на/по́над vs. крізь/че́рез/за допомо́гою/завдяки́), TILL/TO (до/на/в/Dative/що́до/в су́проводі/по/при), TOWARDS (в на́прямку до/до/що́до/над/для/бли́зько/ко́ло), UNDER (під/ни́жче/ме́нше/за/при), WITH (з/із/зі/на/в/у/від), WITHIN/WITHOUT (в ме́жах/на ві́дстані/за/про́тягом/не більш як за vs. без)."
+      ]
+    },
+    {
+      "id": "G07_ORTHOGRAPHY_1929_VS_1946_AND_PUNCTUATION",
+      "lessons": ["Lesson 56", "Lesson 57", "Lesson 71", "Lesson 72", "Lesson 73", "Lesson 74", "Lesson 75"],
+      "pages": "384, 394–396, 517, 529–530, 540–541, 549–550, 558–559",
+      "title": "Historical Ukrainian Orthographies (1929 Kharkiv vs. 1946/1960 Pravopys) and Complete Punctuation System",
+      "explanation": "Explains the historical orthographic differences between the 1929 Kharkiv Academy Orthography (used in the book and in North American diaspora publications) and the 1946/1960 Soviet Orthography, and provides a 26-rule reference on Ukrainian punctuation.",
+      "notableRules": [
+        "1929 Kharkiv Orthography (Правопис 1929-го р.) vs. 1946/1960 Orthography (Lesson 57, p. 395): (1) -ія- vs. -іа- in loanwords (діяло́г, піяні́но, індустрія́льний vs. діало́г, піані́но, індустріа́льний); (2) -ав- vs. -ау- (авдито́рія, Штравс vs. аудито́рія, Штра́ус); (3) -ай-/-яй- vs. -ей- (Га́йне, Ля́йпціґ, Райн vs. Ге́йне, Ле́йпціг, Рейн); (4) Initial Е- vs. Є- (Евро́па, европейський vs. Євро́па, європе́йський); (5) Initial Е- vs. І- in Spain (Еспа́нія, еспа́нський vs. Іспа́нія, іспа́нський); (6) Soft ل (ля) vs. hard л (ла) in loanwords (шоколя́д, баля́да, кля́са, клюб vs. шокола́д, бала́да, клас, клуб); (7) Letter ґ (velar plosive [g]: ґрунт, ґа́нок, ґу́ля, Ґе́те) vs. Soviet merger into г (грунт, га́нок, гу́ля, Ге́те); (8) Greek theta rendered as т vs. ф (аритме́тика, кате́дра, міт, Мето́дій vs. арифме́тика, ка́федра, міф, Мефо́дій); (9) Feminine 3rd-declension Genitive singular in -и vs. -і (незале́жности, радости, соли, крови vs. незале́жності, ра́дості, со́лі, кро́ві).",
+        "Anti-Surzhyk Lexical Purism (Lessons 55 & 57, pp. 374, 394): Highlights authentic Ukrainian vocabulary vs. Russianisms/loanwords: о́брій (for горизо́нт), особи́стий (for персона́льний), ванта́жна автомаши́на (for грузови́к), скри́ня/скри́нька (for я́щик), ку́хар (for по́вар), ле́кція (for уро́к), набі́й/гарма́тень (for снаря́д), ска́лка (for оско́лок), гости́нно про́симо / про́симо завіта́ти (for до́бро пожа́лувати), одружи́вся з не́ю (for жени́вся на ній).",
+        "Complete Ukrainian Punctuation Rules (Найголовніші правила пунктуації, Lessons 72–75, pp. 529–559): Covers Period (.), Ellipsis (...), Question mark (?), Exclamation mark (!), Parentheses (), Lower-to-upper Quotation marks („ “), 16 Comma (,) rules (homogeneous members, repeated conjunctions і...і / чи...чи, adversative а/але/та, word repetition, Vocative address, interjections, initial так/ні/гара́зд, parenthetical words може/до речі, comparative phrases як звір, apposition, крім/замість/за винятком phrases, post-nominal participial/adjectival modifiers, post-pronominal adjectives, explanatory time/place phrases, adverbial participle phrases, bibliographic citations, coordinate clauses, and all subordinate clauses before що/щоб/де/то/через те що/бо), Semicolon (;), Colon (:), 6 Dash (—) rules (zero copula between two nouns/infinitives, omitted verb ellipsis, before generalizing word все/ніщо, abrupt result/consequence, sharp contrast without conjunction, and rhetorical emphasis), and Hyphen (- in compound prepositions з-під/з-за, adverbs по-українському, and compound adjectives фізико-математичний)."
+      ]
+    }
+  ],
+  "vocabularyThemes": [
+    {
+      "theme": "School, Books, Classroom & Office Supplies (Lessons 1–6, 13)",
+      "cefrLevel": "A1",
+      "words": [
+        { "uk": "шко́ла (початко́ва, сере́дня) / бібліоте́ка / канцеля́рія / крамни́ця", "en": "school (elementary, high) / library / office / store" },
+        { "uk": "учи́тель (вчи́тель) / виклада́ч / профе́сор / дире́ктор / у́чень / учени́ця / студе́нт / бакаля́вр", "en": "teacher / instructor / professor / principal / pupil (m/f) / student / Bachelor of Arts" },
+        { "uk": "підру́чник / словни́к / кни́га (кни́жка) / зши́ток (зо́шит) / пові́сть / рома́н / оповіда́ння", "en": "textbook / dictionary / book / copybook (notebook) / novel (novella) / novel / story" },
+        { "uk": "перо́ / ру́чка / автору́чка / оліве́ць / чорни́ло / папі́р / папіре́ць", "en": "pen (nib) / penholder / fountain pen / pencil / ink / paper / slip of paper" },
+        { "uk": "дома́шня робо́та / дикта́нт / і́спит / оці́нка / свідо́цтво", "en": "homework / dictation / examination / grade (mark) / certificate" }
+      ]
+    },
+    {
+      "theme": "Meals, Restaurant, Ukrainian Dishes & Groceries (Lessons 11, 12, 67)",
+      "cefrLevel": "A1–B1",
+      "words": [
+        { "uk": "сніда́нок / обі́д / вече́ря / десе́рт / стра́ва / меню́ / обслу́га / офіція́нт / ку́хар", "en": "breakfast / dinner (lunch) / supper / dessert / dish / menu / service / waiter / cook" },
+        { "uk": "борщ / суп / котле́та / сма́жена ри́ба / пюре́ / зеле́ний горо́х / яє́шня / варе́не яйце́ / бутербро́д", "en": "borshch / soup / cutlet / fried fish / mashed potatoes (purée) / green peas / omelet / boiled egg / sandwich" },
+        { "uk": "хліб (разови́й хліб / бі́лий хліб) / бо́рошно / ви́сівки / ма́сло / сир / сирни́к / смета́нка / кисі́ль / мед / цу́кор / сіль", "en": "bread (whole-wheat brown bread / white bread) / flour / bran (germ) / butter / cheese / cheesecake / cream / fruit/milk custard / honey / sugar / salt" },
+        { "uk": "ка́ва / чай / кака́о / молоко́ / компо́т / пи́во / вино́ / горі́лка", "en": "coffee / tea / cocoa / milk / stewed fruit compote / beer / wine / vodka (whisky)" },
+        { "uk": "ми́ска / тарі́лка / ча́шка / скля́нка / ча́рка / ло́жка / виде́лка / ніж (го́стрий / тупи́й) / серве́тка", "en": "bowl / plate / cup / glass / small liquor glass / spoon / fork / knife (sharp / blunt) / napkin" }
+      ]
+    },
+    {
+      "theme": "Geography of Ukraine & North America, Clothing & Home (Lessons 14, 15, 19, 20, 22, 68, 75)",
+      "cefrLevel": "A2–B1",
+      "words": [
+        { "uk": "столи́ця / піво́стрів / о́стрів / гора́ / ріка́ (рі́чка) / бе́рег / мо́ре / степ / край / о́бласть", "en": "capital / peninsula / island / mountain / river / shore (bank) / sea / steppe / region (land) / oblast (province)" },
+        { "uk": "північ (півні́чний) / пі́вдень (півде́нний) / схід (схі́дний) / за́хід (за́хідній)", "en": "north (northern) / south (southern) / east (eastern) / west (western)" },
+        { "uk": "о́дяг / взуття́ / біли́зна / соро́чка (ве́рхня / спі́дня) / підшта́нки / штани́ / све́тер / костю́м / пальто́ / піжа́ма / крава́тка / шкарпе́тки / рукави́чки", "en": "clothing / footwear / underwear / shirt (outer / undershirt) / drawers / pants / sweater / suit / overcoat / pajamas / necktie / socks / gloves" },
+        { "uk": "чо́боти / череви́ки / гало́ші / панто́флі / шкі́ра / матерія́л (бавовня́ний / вовня́ний)", "en": "boots / shoes / galoshes / slippers / leather / fabric (cotton / woolen)" },
+        { "uk": "дім / кварти́ра / віта́льня / спа́льня / ку́хня / лазни́чка / дах / сте́ля / підло́га (парке́тна) / стіна́ / вікно́ (ши́бка, ра́ма) / две́рі / гара́ж / двір / квітни́к / травни́к / горо́д", "en": "house / apartment / living room / bedroom / kitchen / bathroom / roof / ceiling / floor (parquet) / wall / window (pane, frame) / door / garage / yard / flowerbed / lawn / vegetable garden" },
+        { "uk": "ме́блі / дива́н / крі́сло / лі́жко (двоспа́льне) / матра́ц / письме́вий стіл / холоди́льник / га́зова (електри́чна) плита́ / ки́лим / пилосмо́к / пра́льна маши́на / пра́ска", "en": "furniture / sofa / armchair / bed (double) / mattress / writing desk / refrigerator / gas (electric) range / carpet / vacuum cleaner / washing machine / iron" },
+        { "uk": "молото́к / цвях / пи́лка / до́шка / вимика́ч / ля́мпочка / патро́н / про́від / електри́чний струм / ла́годити (ремонтува́ти)", "en": "hammer / nail / saw / board / light switch / lightbulb / socket / wire / electric current / to repair" }
+      ]
+    },
+    {
+      "theme": "Morning Routine, Body Parts, Health, Pharmacy & Weather (Lessons 16, 17, 18, 24, 32, 72)",
+      "cefrLevel": "A2–B2",
+      "words": [
+        { "uk": "прокида́тися / встава́ти / вмива́тися / ми́тися / витира́тися рушнико́м / чи́стити зу́би / голи́тися бри́твою / зачі́суватися гребінце́м / одяга́тися / взува́тися", "en": "to wake up / get up / wash face / wash / dry oneself with a towel / brush teeth / shave with a razor / comb hair / get dressed / put on shoes" },
+        { "uk": "ті́ло / голова́ / обличчя́ (лице́) / чоло́ (лоб) / о́ко (о́чі) / брова́ (бро́ви) / ву́хо (ву́ха) / ніс / щока́ / рот / губа́ (уста́) / зуб / язи́к / піднебі́ння / го́рло / борода́ / вус (ву́са) / воло́сся / чуб", "en": "body / head / face / forehead / eye(s) / eyebrow(s) / ear(s) / nose / cheek / mouth / lip(s) / tooth / tongue / palate / throat / beard / moustache / hair / forelock" },
+        { "uk": "рука́ / па́лець / ні́готь / плече́ / гру́ди / спи́на / живі́т / нога́ / колі́но / кість (кі́стка) / мо́зок / се́рце / леге́ня / печі́нка / кров", "en": "hand (arm) / finger (toe) / fingernail / shoulder / chest / back / stomach / leg (foot) / knee / bone / brain / heart / lung / liver / blood" },
+        { "uk": "лі́кар (до́ктор) / данти́ст / апте́кар / медсестра́ / саніта́р / хво́рий / застуди́тися / гаря́чка / не́жить / ка́шель / ревмати́зм / запа́лення леге́нів / кров'яни́й тиск", "en": "doctor / dentist / pharmacist / nurse / medic / sick (patient) / catch a cold / fever / head cold / cough / rheumatism / pneumonia / blood pressure" },
+        { "uk": "апте́ка / апте́чка / реце́пт / лі́ки / пілю́ля / аспіри́н / йод / ва́та / бинт / термо́метр / стетоско́п / пломбува́ти / вирива́ти зуб", "en": "pharmacy / first-aid kit / prescription / medicine / pill / aspirin / iodine / cotton / bandage / thermometer / stethoscope / to fill / extract a tooth" }
+      ]
+    },
+    {
+      "theme": "Agriculture, Animals, Flora, Transport, Industry & Measurements (Lessons 23, 25, 26, 28, 29, 31, 44, 45, 46, 47, 66–69)",
+      "cefrLevel": "B1–B2",
+      "words": [
+        { "uk": "рілля́ / ора́ти плу́гом / волочи́ти бороно́ю / сі́яти сіва́лкою / коси́ти жнива́ркою / жа́ти / врожа́й / жнива́ / жи́то / пшени́ця / ячмі́нь / ове́с / гре́чка / про́со / кукуру́дза / со́няшник / буря́к / карто́пля / мо́рква / цибу́ля", "en": "arable land / plow / harrow / sow with a seeder / mow with a reaper / harvest / crop / harvest season / rye / wheat / barley / oats / buckwheat / millet / corn / sunflower / beet / potato / carrot / onion" },
+        { "uk": "сві́йські твари́ни (кінь, коро́ва, ві́вця, свиня́, соба́ка, кіт/кі́шка, ку́рка, ка́чка, півень) / ди́кі зві́рі (вовк, лиси́ця, ведмі́дь, за́єць, ми́ша) / птах (солове́йко, жа́йворонок, оре́л, со́кіл, ла́стівка, го́луб) / ри́ба (ко́роп, кара́сь, оселе́дець, аку́ла, кит)", "en": "domestic animals (horse, cow, sheep, pig, dog, cat, hen, duck, rooster) / wild animals (wolf, fox, bear, hare, mouse) / bird (nightingale, lark, eagle, falcon, swallow, dove) / fish (carp, crucian, herring, shark, whale)" },
+        { "uk": "де́рево (дуб, я́сен, клен, топо́ля, верба́, кашта́н, сосна́, яли́на, ви́шня, я́блуня, гру́ша, сли́ва, абрико́са) / кві́ти (троя́нда, ліле́я, чорнобри́вець, гвозди́ка, а́йстра, барві́нок, півник, тюльпа́н, чебре́ць, рома́шка, воло́шка, мак)", "en": "tree (oak, ash, maple, poplar, willow, chestnut, pine, fir, cherry, apple, pear, plum, apricot) / flowers (rose, lily, marigold, carnation, aster, periwinkle, iris, tulip, thyme, daisy, cornflower, poppy)" },
+        { "uk": "автомаши́на (а́вто) / коле́со / ши́на / ка́мера / га́льмо / кермо́ / батаре́я / радія́тор / сві́чка / бензи́на / масти́ло / домкра́т / букси́р / майсте́рня", "en": "car / wheel / tire / inner tube / brake / steering / battery / radiator / spark plug / gasoline / oil / jack / tow / repair shop" },
+        { "uk": "залізни́ця / по́їзд (по́тяг) / парово́з (паротя́г) / теплово́з / електрово́з / ваго́н / перо́н / розклад / квито́к (в оби́два кінці́) / пересі́дка / аеродро́м / паропла́в / га́вань / порт", "en": "railroad / train / steam locomotive / diesel locomotive / electric locomotive / car (waggon) / platform / schedule / ticket (round-trip) / transfer / airport / steamship / harbor / port" },
+        { "uk": "метри́чна систе́ма мір / вага́ (зва́житися) / грам / кілогра́м / то́нна / фунт / пуд / сантіме́тр / метр / кіломе́тр / ярд / фут / ми́ля / літр / ква́рта / обсяг (кубату́ра) / завдо́вжки / завши́ршки / завви́шки / завбі́льшки", "en": "metric system / weight (to weigh oneself) / gram / kilogram / ton / pound / pood (16 kg) / cm / meter / km / yard / foot / mile / liter / quart / cubic volume / in length / in width / in height / in size" }
+      ]
+    },
+    {
+      "theme": "Ukrainian History, Literature, Arts, Idioms & Official Documents (Lessons 30, 32–38, 48–65, 71–75)",
+      "cefrLevel": "B2–C1",
+      "words": [
+        { "uk": "кня́жа доба́ / князь / літо́пис / тризу́б / герб / коза́цько-гетьма́нська доба́ / Запоро́зька Січ / ге́тьман / кошови́й ота́ман / булава́ / кріпа́цтво / визво́льна боротьба́ / самості́йність / незале́жність / сувере́нна держа́ва", "en": "Princely Era / prince / chronicle / Trident / coat of arms / Cossack-Hetman Era / Zaporozhian Sich / Hetman / Sich chief / mace / serfdom / liberation struggle / self-reliance / independence / sovereign state" },
+        { "uk": "ду́ма / кобза́р / бандури́ст / банду́ра / весня́нка / коля́дка / ка́зка / при́казка / прислі́в'я / за́гадка / бува́льщина / на́рис / пові́сть / п'є́са / моноло́г / виста́ва / заві́са / парте́р / балкóн / ло́жа", "en": "epic duma / kobzar / bandurist / bandura / spring song / Christmas carol / folktale / saying / proverb / riddle / true legend / sketch / novella / play / monologue / performance / curtain / orchestra seats / balcony / box" },
+        { "uk": "маля́рство / гра́фіка / різьба́рство / архітекту́ра / баро́кко / пейза́ж / портре́т / рису́нок / олі́йна фа́рба / за́ставка / оформлення", "en": "painting / graphic art / sculpture (carving) / architecture / baroque / landscape / portrait / drawing / oil paint / vignette / design" },
+        { "uk": "діста́ти гарбуза́ / пійма́ти о́близня / да́ти хука́ / поши́тися в ду́рні / не па́сти за́дніх / зниза́ти плечи́ма / да́тися взнаки́ / да́ти ду́ба / лови́ти ґав / проґа́вити / байдики́ би́ти (байдикува́ти) / у ньо́го не всі вдо́ма / зійти́ на манівці́", "en": "to be rejected in marriage / get nothing for one's pains / miss the mark / be duped (made a fool) / not lag behind / shrug shoulders / make oneself felt / die ('give an oak') / gape (daydream) / miss an opportunity / waste time ('beat idleness') / have a screw loose / go astray" },
+        { "uk": "протоко́л / засі́дання / голова́ / секрета́р / поря́док де́нний / ухва́ла / об'я́ва (оголо́шення) / дору́чення / нижчепідпи́саний / зая́ва / до́відка / пере́пустка / печа́тка / штамп / ЗАГС / реєстра́ція шлю́бу / подру́жжя", "en": "minutes (protocol) / meeting / chairperson / secretary / agenda / resolution / notice / power of attorney (commission) / the undersigned / application / certificate / admission pass / seal / stamp / civil registry / marriage registration / married couple" }
+      ]
+    }
+  ],
+  "prerequisiteGraph": [
+    {
+      "topic": "Noun Gender, Nominative Plural & Euphony (Lessons 1–3)",
+      "prerequisites": [],
+      "unlocks": [
+        "Adjective & Possessive Pronoun Nominative Agreement (Lessons 1, 4)",
+        "Vocative Singular & Plural (Lessons 1, 2, 12, 32, 38)",
+        "Accusative Inanimate & Animate Singular (Lessons 1, 3, 4, 7, 8)"
+      ]
+    },
+    {
+      "topic": "Present Tense Conjugations I & II and Imperatives (Lessons 1–5)",
+      "prerequisites": [
+        "Noun Gender, Nominative Plural & Euphony (Lessons 1–3)"
+      ],
+      "unlocks": [
+        "Past Tense & Imperfective/Perfective Aspect Pairs (Lessons 6, 8, 16)",
+        "Analytical (буду + inf.) & Synthetic (-тиму) Future Tense (Lessons 6, 8, 33)",
+        "Reflexive Verbs in -ся (Lesson 16)"
+      ]
+    },
+    {
+      "topic": "Genitive, Locative, Dative & Instrumental Singular (Lessons 2, 5, 6, 8, 9, 11, 13, 14, 15)",
+      "prerequisites": [
+        "Noun Gender, Nominative Plural & Euphony (Lessons 1–3)"
+      ],
+      "unlocks": [
+        "Cardinal Numerals & Dual Stress (Lessons 12, 14, 44)",
+        "Genitive, Dative, Instrumental, Locative & Accusative Plural (Lessons 22–29)",
+        "Declension of Geographical Names (Lesson 27)",
+        "Subject-Predicate Agreement with Quantifiers (Lesson 37)"
+      ]
+    },
+    {
+      "topic": "Adjective Degrees of Comparison & Possessive Adjectives (Lessons 20, 21, 22, 45)",
+      "prerequisites": [
+        "Genitive, Locative, Dative & Instrumental Singular (Lessons 2, 5, 6, 8, 9, 11, 13, 14, 15)"
+      ],
+      "unlocks": [
+        "Comparative Constructions with ніж vs. від/за + Genitive (Lessons 20, 21)",
+        "Compound Comparatives/Superlatives (більш/найбільш) & Strengthened якнай-/щонай- (Lessons 21, 45)"
+      ]
+    },
+    {
+      "topic": "Definite/Indefinite Motion Verbs & Aspectual Prefixation (Lessons 22, 25, 27, 31, 48, 58)",
+      "prerequisites": [
+        "Past Tense & Imperfective/Perfective Aspect Pairs (Lessons 6, 8, 16)",
+        "Genitive, Locative, Dative & Instrumental Singular (Lessons 2, 5, 6, 8, 9, 11, 13, 14, 15)"
+      ],
+      "unlocks": [
+        "Adverbial Participles / Дієприслівники (-чи, -ши) (Lessons 26, 32)",
+        "Secondary Imperfectivization (-ува-/-юва-) & Round-Trip Motion Verbs (Lessons 48, 58)",
+        "20 English-to-Ukrainian Preposition Translation Maps (Lessons 51–71)"
+      ]
+    },
+    {
+      "topic": "Advanced Syntax: Passive/Impersonal -но/-то, Conditional Mood & Punctuation (Lessons 29, 33, 34, 35, 72–75)",
+      "prerequisites": [
+        "Definite/Indefinite Motion Verbs & Aspectual Prefixation (Lessons 22, 25, 27, 31, 48, 58)"
+      ],
+      "unlocks": [
+        "Literary, Historical, Scientific & Official Administrative Discourse (Lessons 51–75)"
+      ]
+    }
+  ],
+  "instructionalAndExerciseApproaches": [
+    {
+      "approach": "Consistent 7-Part Lesson Architecture Across 75 Lessons",
+      "description": "Every single lesson follows a predictable, learner-friendly cycle: (1) Bilingual Parallel Dialogue (ДІЯЛОГ) with Ukrainian on the left and idiomatic English on the right; (2) Monolingual Ukrainian Reading Passage (ЧИТАННЯ) recycling the dialogue's grammar in narrative or cultural form, often accompanied by a classic Ukrainian poem to memorize (Вивчіть цей вірш напам'ять); (3) Proverbs & Sayings (ПРИСЛІВ'Я ТА ПРИКАЗКИ); (4) Idiomatic Expressions (ВИСЛОВИ ТА ІДІОМИ); (5) Concise Grammar Explanations (ГРАМАТИКА); (6) Homework (ДОМАШНЯ РОБОТА: English-to-Ukrainian translation, morphological fill-in-the-blanks, Ukrainian reading comprehension questions, and full noun/adjective declension drills); and (7) Per-Lesson Bilingual Vocabulary (СЛОВНИК) listing every noun's nominative plural and every verb's full 6-person conjugation in both imperfective and perfective aspects."
+    },
+    {
+      "approach": "Two-Column Aspectual Verb Conjugation Tables in Every Lesson Glossary",
+      "description": "Unlike standard glossaries that list only infinitives, the СЛОВНИК at the end of each lesson prints side-by-side full 6-person present/future conjugations (я, ти, він/вона/воно, ми, ви, вони) for both the imperfective verb on the left and its perfective partner on the right, making stem consonant mutations and stress shifts immediately visible."
+    },
+    {
+      "approach": "Systematic English-to-Ukrainian Preposition Disambiguation (Lessons 51–71)",
+      "description": "Dedicates the grammar sections of Lessons 51 through 71 to taking high-frequency, polysemous English prepositions (ABOUT, AT, BY, DOWN, UP, FOR, FROM, IN, INTO, OF, OFF, ON, OUT OF, OVER, PAST, THROUGH, TILL, TO, TOWARDS, UNDER, WITH, WITHIN, WITHOUT) and breaking each down into numbered semantic senses with exact Ukrainian prepositional + case equivalents."
+    },
+    {
+      "approach": "Cultural, Historical, Literary & Practical Realia Immersion",
+      "description": "Integrates authentic Ukrainian proverbs, folk songs, historical essays (Kyivan Rus', Zaporozhian Sich, Hetmanate, 1917–1921 Ukrainian National Republic), literary classics (T. Shevchenko, I. Franko, Lesya Ukrainka, M. Kotsyubynsky, O. Oles, P. Tychyna, M. Rylsky, V. Sosyura, Ostap Vyshnya, S. Rudansky), Ukrainian idioms (Lessons 56–57), and real-world functional documents (minutes of a meeting, notice, bill of sale/power of attorney, job application, employment certificate, factory pass, and envelope addressing in Lessons 73–75)."
+    }
+  ],
+  "novelLinguisticDetailsNotInApp": [
+    {
+      "category": "Phonetics, Stress & Orthography",
+      "details": [
+        "'Dual' Stress Shift after Numerals 2, 3, 4 (Lesson 14, p. 82): Nouns governed by два (дві), три, чоти́ри take Nominative Plural endings but retain singular/dual stem stress (дві, три, чоти́ри ріки́, сестри́, міста́, моря́, бра́ти, си́ни vs. regular plural рі́ки, се́стри, брати́, сини́), plus archaic dual forms дві руці́, дві нозі́.",
+        "Stress Retraction on Genitive/Accusative Personal Pronouns after Prepositions (Lesson 7, p. 35): мене́, тебе́ shift stress to the first syllable after prepositions (бі́ля ме́не, до те́бе, на ме́не, про́ти ме́не).",
+        "Stress-Driven Lexical Minimal Pairs (Lesson 51, p. 340): похо́дити (to walk for a while, perf.) vs. походи́ти (to descend/originate from, imperf.); пробува́ти (to stay/reside, imperf.) vs. про́бувати (to try/attempt, imperf.); тому́ ('to that one' / 'therefore') vs. то́му ('ago': два дні то́му).",
+        "Complete Apostrophe Exception Rules (Lesson 71, p. 521): Explicit contrast between root clusters without apostrophe (цвях, свя́то, святи́й) vs. prefix+root clusters with apostrophe (зв'язо́к, зв'яза́ти), and syllable-final р with apostrophe (бур'я́н, ма́тір'ю) vs. syllable-initial р without apostrophe (бу́ря, буря́к, пря́мо, ряд).",
+        "1929 Kharkiv Orthography (Правопис 1929-го р.) vs. 1946/1960 Orthography Comparison Table (Lesson 57, p. 395): Documents diaspora/classical Ukrainian spelling variants (-ія- діяло́г, -ав- авдито́рія, Еспа́нія, Евро́па, кля́са/клюб, ґрунт/ґа́нок/ґу́ля, кате́дра/міт/аритме́тика, 3rd-declension Genitive singular in -и: незале́жности, со́ли) alongside standard modern Ukrainian."
+      ]
+    },
+    {
+      "category": "Morphology & Inflection",
+      "details": [
+        "Contracted Locative Singular Ending -ім/-їм for Masculine & Neuter Adjectives (Lesson 36, p. 236): на зеле́нім ки́лимі (= на зеле́ному ки́лимі), в вели́кім мі́сті (= в вели́кому мі́сті).",
+        "Soft-Stem Declension of Masculine Profession Nouns in -ар (Lessons 18 & 35, pp. 108, 228): лі́кар, секрета́р, пи́сар, апте́кар, ку́хар, шахта́р decline as soft stems (лі́каря, лі́кареві, лі́карем, лікарі́) contrasted with hard-stem до́ктор (до́ктора, до́ктори).",
+        "Plural Suffix Drop (-ин-) in Ethnicity/Social Group Nouns (Lesson 23, p. 139): селяни́н -> селя́ни (Gen. pl. селя́н), громадя́нин -> громадя́ни (громадя́н), кия́нин -> кия́ни (кия́н), болга́рин -> болга́ри, тата́рин -> тата́ри.",
+        "Complete Declension of Ukrainian Toponyms (Lesson 27, pp. 168–169): Contrasts masculine -ів/-їв cities with і -> е/о alternation (Ки́їв -> Ки́єва, Льві́в -> Льво́ва), soft-stem -піль cities (Севасто́піль -> Севасто́поля, Севасто́полеві), and neuter adjectival cities (Луга́нське -> Луга́нського, у Луга́нському).",
+        "Polite/Historic Vocative Plural in -ове (Lesson 12, p. 70): пан -> Nom. pl. пани́, Voc. pl. пано́ве! (and its polite use as a Nominative plural subject: Куди́ йдуть ті пано́ве?), plus irregular religious/kinship vocatives оте́ць -> о́тче!, Бог -> Бо́же! (Lesson 38, p. 252), and irregular declension of швець -> шевця́, шевце́ві, ше́вче (Lesson 74, p. 548).",
+        "'Round-Trip' Perfective Verbs of Motion with Prefix с-/з- (Lesson 58, p. 407): сходи́ти (Він сходи́в у крамни́цю), збі́гати (Збі́гай по лі́каря!), з'ї́здити (Вони́ з'ї́здили до Нью-Йо́рку).",
+        "Dimensional Adverbs in зав- (Lesson 44, pp. 292, 294): завдо́вжки (in length: де́сять ме́трів завдо́вжки), завши́ршки (in width: сім ме́трів завши́ршки), завви́шки (in height: чоти́ри ме́три завви́шки / по́над 6 фу́тів завви́шки), завбі́льшки (in size: Яка́ завбі́льшки ця кімна́та?; завбі́льшки з ха́ту)."
+      ]
+    },
+    {
+      "category": "Syntax, Idioms, Preposition Disambiguation & Punctuation",
+      "details": [
+        "Subject-Predicate Agreement Rules with Quantifiers & Compound Subjects (Lesson 37, p. 245): Neuter singular past predicate (-ло/-лося) required after бага́то / кі́лька / тисячі + Genitive plural (Бага́то чолові́ків і жіно́к працюва́ло там; Дві ти́сячі студе́нтів учи́лося там), singular predicate required after compound numerals ending in оди́н (Два́дцять оди́н робітни́к працю́є), and plural predicate required after Noun + з + Instrumental (Петро́ з Богда́ном працю́ють).",
+        "Respectful Plural Predicate with Singular Parent Subject (Lesson 49, p. 326): Ба́тько говори́ли про це; Ма́ти ка́жуть...; Ба́тько ска́зали сього́дні вра́нці.",
+        "Systematic 20-Preposition English-to-Ukrainian Disambiguation Guide (Lessons 51–71, pp. 340–521): Provides structured translation mappings for ABOUT, AT, BY, DOWN, UP, FOR, FROM, IN, INTO, OF, OFF, ON, OUT OF, OVER, PAST, THROUGH, TILL, TO, TOWARDS, UNDER, WITH, WITHIN, and WITHOUT across spatial, temporal, causal, instrumental, and idiomatic contexts.",
+        "Rich Idiomatic & Folkloric Phraseology (Lessons 56–57, pp. 382–394): Includes authentic Ukrainian idioms (діста́ти гарбуза́, пійма́ти о́близня, да́ти хука́, поши́тися в ду́рні, не па́сти за́дніх, зниза́ти плечи́ма, да́тися взнаки́, да́ти ду́ба, лови́ти ґав, проґа́вити, байдики́ би́ти, у ньо́го не всі вдо́ма, зійти́ на манівці́) and 150+ proverbs.",
+        "Complete 26-Rule Ukrainian Punctuation & Official Document Writing Guide (Lessons 72–75, pp. 529–559): Detailed rules for comma, semicolon, colon, dash, hyphen, quotation marks, and parentheses, plus templates for Ukrainian administrative/legal documents (протоко́л, об'я́ва, дору́чення, зая́ва, до́відка, пере́пустка, and envelope addressing)."
+      ]
+    }
+  ]
+}

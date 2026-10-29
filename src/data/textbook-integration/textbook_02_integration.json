@@ -1,0 +1,87 @@
+{
+  "textbookNumber": 2,
+  "totalPlannedTextbooks": 12,
+  "filename": "253213870-Conversational-Ukrainian_6388302f.pdf",
+  "title": "Conversational Ukrainian (Second revised edition)",
+  "author": "Yar Slavutych",
+  "publisher": "Gateway Publishers Ltd., Edmonton / Winnipeg (Preface by Orest Starchuk, University of Alberta)",
+  "totalPages": 608,
+  "processingStatus": "COMPLETED",
+  "cefrCoverage": ["A0", "A1", "A2", "B1", "B2", "C1"],
+  "successfullyAnalyzedSections": [
+    "Part I (Lessons 1–50, pp. 1–368): Alphabet, phonetics, stress, Classroom & School (у школі, учитель, ручка, олівець, крейда, папір), Family & Patronymics (-ович/-йович, -івна/-ївна), Polite Titles in Vocative (Пане, Пані, Панове, Добродію), Present-tense retention of є vs. habitual бувати, Clothing & Footwear (одягати vs. взувати), Home & Garden (Locative in -у: у будинку, в саду, на даху, у снігу, на мосту), Pronouns with stress shift after prepositions (біля мене, до тебе, від неї), Bare Instrumental of tool (писати ручкою, різати ножем) vs. з + Instrumental of accompaniment, Masculine Dative chain rule (-ові + -у: панові директору), Telling time, dates, seasons, months, and holidays, Prefixed verbs of motion & round-trip errands (сходити, збігати, з'їздити, піти по + Accusative), Health & Medical appointments (болить голова, температура, рецепт), Travel & Transit (поїзд, трамвай, пересадка, квиток), Shopping & Bargaining (торгуватися, здавати решту), Theater & Cinema",
+    "Part II (Lessons 51–75 & Grammatical Appendix, pp. 369–608): Ukrainian Geography, History, Literature & Culture (Kyiv, Lviv, Kharkiv, Odesa, Poltava, Dnipro, Taras Shevchenko, Ivan Franko, Lesia Ukrainka), Aspectual prefix families on писати (написати, записати, переписати, підписати, виписати, описати, дописати), Translating English perception participles via як + finite verb (Я бачив, як він переходив вулицю), Genitive plural vowel insertion (книжок, вікон, крісел) & -ей endings (людей, дітей, речей, грошей), Dual stress shift after 2, 3, 4 (дві сестри, три ріки), Comprehensive Ukrainian Prepositions (spatial, temporal, causal contrasts: з-під, з-над, з-за, попід, понад, поза, крізь vs. через, повз, посеред, вздовж, навколо, проти, напроти, під час, протягом, за + Accusative, через + Accusative, від + Genitive, завдяки + Dative, заради + Genitive), Classic Ukrainian Idioms (ловити гав, проґавити нагоду, бити байдики, не пасти задніх, дістати гарбуза, піймати облизня, знизати плечима) & Meaning-changing stress minimal pairs (походити/походити, пробувати/пробувати, вигода/вигода, замок/замок, тому/тому)"
+  ],
+  "unreadableOrSkippedSections": [],
+  "grammarTopicsIdentified": [
+    "Polite Ukrainian forms of address in the Vocative (Пане, Пані, Панно, Панове, Добродію) and formation of patronymics (По батькові: -ович/-йович, -івна/-ївна)",
+    "When present-tense є ('is/are') is explicitly retained for existence/emphasis vs. omitted, plus the habitual verb бувати ('to visit / happen to be regularly')",
+    "Pronoun stress shift onto the preposition or first syllable (біля мене, до тебе, у нього, від неї), Locative singular in -у for monosyllabic/velar masculine nouns (в саду, у лісі/в лузі, на даху, у снігу, на мосту, у будинку, у Криму), and irregular declension of мати (матері, матір, матір'ю)",
+    "Bare Instrumental of tool/instrument without з (писати олівцем, їсти ложкою, різати ножем, їхати трамваєм) vs. з + Instrumental of accompaniment, plus the Masculine Dative chain rule (-ові/-еві followed by -у/-ю: панові директору)",
+    "Telling clock time in Ukrainian: half-past look-ahead pattern (пів на + Accusative of next hour), quarter-past (чверть на + next hour), minutes past (десять хвилин на шосту), and minutes to (за десять хвилин сьома), plus dates in neutral Neuter Nominative vs. 'on the Nth' in Genitive",
+    "8 directional prefixes on verbs of motion (при-, ви-, у-/за-, під-, від-, пере-, об-, про-, до-), single round-trip errand verbs (сходити, збігати, з'їздити), and піти по + Accusative ('to go fetch')",
+    "Dual stress shift after numerals 2, 3, 4 vs. Genitive Singular (дві сестри vs. немає сестри, три ріки vs. біля ріки), Genitive plural vowel insertion (о/е) and -ей endings, and neuter past agreement with багато",
+    "Comprehensive spatial, temporal, and causal prepositions (з-під, з-над, з-за, попід, понад, поза, крізь vs. через, повз, під час, протягом, через vs. завдяки vs. від)",
+    "Translating English perception participles ('I saw him crossing') with як + imperfective verb, and mastering 7 semantic prefixes on писати",
+    "Authentic Ukrainian idioms (ловити гав, бити байдики, не пасти задніх, дістати гарбуза, піймати облизня) and lexical stress minimal pairs"
+  ],
+  "vocabularyCategoriesIdentified": [
+    "Greetings and introductions (Patronymics, polite titles Пане/Пані/Панове)",
+    "Education (Classroom items: крейда, дошка, зошит, ручка, олівець, гумка, папір, оцінка, іспит)",
+    "Cooking and kitchen (Tableware: тарілка, виделка, ложка, ніж, склянка, чашка, серветка, скатертина)",
+    "Clothing (одягати vs. взувати, пальто, рукавички, шапка, черевики, чоботи)",
+    "Home and household (сад, город, паркан, ґанок, дах, підлога, стеля, вікно, крісло)",
+    "Health and body (горло, зуб, температура, застуда, кашель, ліки, рецепт, аптека)",
+    "Transportation & Travel (трамвай, пересадка, зупинка, перон, валіза, квиток, розклад)",
+    "Time and dates (чверть, пів на, доба, північ, полудень, пори року, канікули)",
+    "Prepositions (з-під, з-за, понад, попід, крізь, через, повз, вздовж, навколо, під час, протягом, завдяки, заради)",
+    "Questions and useful expressions (Idioms: ловити гав, бити байдики, не пасти задніх, дістати гарбуза, знизати плечима)"
+  ],
+  "lessonsAdded": [
+    {
+      "id": "A2.5",
+      "level": "A2",
+      "title": "Telling Time, Dates, Seasons, Numbers 100–1,000,000 & Arithmetic"
+    },
+    {
+      "id": "B1.4",
+      "level": "B1",
+      "title": "Mastering Ukrainian Prepositions: Spatial, Temporal & Causal Contrasts"
+    }
+  ],
+  "lessonsModified": [
+    "A0.3 (Added Rule 5 on polite Vocative titles Пане/Пані/Панове and Ukrainian patronymics -ович/-івна)",
+    "A1.2 (Added Rule 5 on when present-tense є is retained vs. omitted and habitual бувати)",
+    "A1.4 (Added Rule 6 on pronoun stress shift after prepositions біля мене, Locative singular in -у в саду/на даху/у будинку, and irregular declension of мати)",
+    "A2.2 (Added Rule 6 on bare Instrumental of tool писати олівцем vs. з + Instrumental, задоволений + Instrumental, and Masculine Dative chain rule панові директору)",
+    "B1.1 (Added Rules 4 & 5 on 8 directional motion prefixes, round-trip errand verbs сходити/збігати/з'їздити, and піти по + Accusative)",
+    "B1.3 (Added Rule 6 on dual stress shift after 2, 3, 4 дві сестри, Genitive plural fleeting vowels книжок/вікон, and neuter agreement with багато)",
+    "B2.1 (Added Rule 5 on translating English perception participles with як + finite verb and 7 semantic prefixes on писати)",
+    "C1.1 (Added Rule 5 on classic Ukrainian idioms ловити гав, бити байдики, дістати гарбуза and meaning-changing stress minimal pairs)"
+  ],
+  "vocabularyEntriesAddedCount": 73,
+  "readerPassagesAdded": [
+    "A2-kyiv-tram-excursion (Екску́рсія Ки́євом: трамва́й, годи́нник і кав’я́рня — Kyiv Excursion: Tram, Clock, and Café)",
+    "B2-ukrainian-idioms-theater (Театра́льна прем’є́ра у Льво́ві та украї́нські фразеологі́зми — Theater Premiere in Lviv and Ukrainian Idioms)"
+  ],
+  "quizzesAndExercisesAdded": {
+    "fillInBlankExercises": 4,
+    "sentenceConstructionExercises": 3,
+    "contextualChoiceExercises": 3,
+    "grammarAwareExercises": 3,
+    "newCourseCheckQuestions": 3,
+    "newCoursePracticeDrills": 4,
+    "newCourseExamQuestions": 6
+  },
+  "existingFeaturesAffected": [
+    "Course curriculum expanded with B1.4 (Prepositions) and A2.5 (Time, Dates, Seasons & Numbers) and enriched across 8 existing CEFR modules",
+    "Everyday Vocabulary & Memory Lab enriched with Slavutych conversational vocabulary, grammar tips, and multi-modal drills",
+    "Comprehensible Reader expanded from 32 to 34 graded passages"
+  ],
+  "validationResults": {
+    "buildSuccess": true,
+    "unitTestsPassed": 7,
+    "zeroForbiddenTextbookCitations": true
+  },
+  "remainingIntegrationWork": "Completed together with Textbook 3 of 12."
+}
